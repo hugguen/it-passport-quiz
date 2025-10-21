@@ -1320,7 +1320,7 @@ function selectYear(year) {
   selectedYear = year;
   document.getElementById("year-selection").style.display = "none";
   document.getElementById("category-selection").style.display = "block";
-  document.getElementById("category-header").innerText = `${year}年度 - 分野を選択 (Chọn chủ đề)`;
+  document.getElementById("category-header").innerText = `${year}年度 - 分野を選択`;
 }
 
 // Hàm mới được thêm vào
@@ -1479,3 +1479,38 @@ function finishQuiz() {
       selectCategory(currentCategory); // Bắt đầu lại bài test hiện tại
   }
 }
+// // --- BẮT ĐẦU: Chức năng điều khiển bằng phím mũi tên (Đã cập nhật) ---
+
+// document.addEventListener('keydown', function(event) {
+  
+//   // Lấy trạng thái của cả 3 màn hình
+//   const yearSelection = document.getElementById('year-selection');
+//   const categorySelection = document.getElementById('category-selection');
+//   const questionBox = document.getElementById('question-box');
+
+//   // 1. Nếu đang ở màn hình câu hỏi (question-box)
+//   if (questionBox && questionBox.style.display === 'block') {
+    
+//     if (event.key === 'ArrowRight') {
+//       // Phím mũi tên Phải -> Chuyển câu tiếp theo
+//       nextQuestion();
+//     } else if (event.key === 'ArrowLeft') {
+//       // Phím mũi tên Trái -> Quay lại câu trước
+//       prevQuestion();
+//     } else if (event.key === 'ArrowUp') {
+//       // Phím mũi tên Lên -> Quay lại chọn chủ đề
+//       showCategorySelection();
+//     }
+  
+//   // 2. Nếu đang ở màn hình chọn chủ đề (category-selection)
+//   } else if (categorySelection && categorySelection.style.display === 'block') {
+    
+//     if (event.key === 'ArrowUp') {
+//       // Phím mũi tên Lên -> Quay lại chọn năm
+//       showYearSelection();
+//     }
+//   }
+
+// });
+
+// // --- KẾT THÚC: Chức năng điều khiển bằng phím mũi tên ---
