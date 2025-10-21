@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <title>ITパスポート過去問トレーニング</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>ITパスポート過去問トレーニング</h1>
+  
+  <div id="year-selection">
+    <h2>試験年度を選択してください</h2>
+    <button class="category-btn" onclick="selectYear('2025')">2025年度</button>
+    <button class="category-btn" onclick="selectYear('2024')">2024年度</button>
+    <button class="category-btn" onclick="selectYear('2023')">2023年度</button>
+    </div>
+
+  <div id="category-selection" style="display: none;">
+    <h2 id="category-header"></h2>
+    <button class="category-btn" onclick="selectCategory('strategy')">ストラテジ系</button>
+    <button class="category-btn" onclick="selectCategory('management')">マネジメント系</button>
+    <button class="category-btn" onclick="selectCategory('technology')">テクノロジ系</button>
+    <br>
+    <button class="back-btn" onclick="showYearSelection()">＜ 年度の選択に戻る (Quay lại chọn năm)</button>
+  </div>
+
+  <div class="question-box" id="question-box">
+    
+    <div class="top-nav-container">
+        <div class="question-nav-buttons">
+            <button id="prev-q-btn" onclick="prevQuestion()">＜前の問題</button>
+            <button id="next-q-btn" onclick="nextQuestion()">次の問題＞</button>
+            <button id="finish-btn" onclick="finishQuiz()">終了・結果確認</button>
+        </div>
+        <button class="back-btn" onclick="showCategorySelection()">＜ 分野の選択に戻る</button>
+    </div>
+
+    <div class="question" id="question"></div>
+    <div id="options"></div>
+    <div class="explanation" id="explanation"></div>
+    
+</div>
+
+  <div id="tudienjp"></div>
+  <script src="https://tudienjp.com/popup/tudienjp.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
