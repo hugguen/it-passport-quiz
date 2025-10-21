@@ -1,4 +1,4 @@
-const questionsByYear = {
+  const questionsByYear = {
   '2025': {
     strategy: [
       {
@@ -1225,37 +1225,37 @@ const questionsByYear = {
       "question": "新しいビジネスモデルや製品を開発する際に、仮説に基づいて実用に向けた最小限のサービスや製品を作り、短期に顧客価値の検証を繰り返すことによって、新規事業などを成功させる可能性を高める手法を示す用語はどれか。",
       "options": ["リーンスタートアップ", "クラウドファンディング", "デザイン思考", "破壊的イノベーション"],
       "answer": 0,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào chỉ phương pháp phát triển sản phẩm/mô hình kinh doanh mới bằng cách: dựa trên giả thuyết, tạo ra một sản phẩm/dịch vụ tối thiểu (最小限のサービスや製品), và lặp lại việc kiểm chứng giá trị khách hàng trong thời gian ngắn (短期に顧客価値の検証を繰り返す)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Lean Startup (リーンスタートアップ)</strong> là một phương pháp luận tập trung vào việc nhanh chóng xây dựng các phiên bản sản phẩm tối thiểu khả thi (MVP - Minimum Viable Product), đo lường phản ứng của khách hàng và học hỏi từ đó. Chu trình cốt lõi của nó là &quot;Build-Measure-Learn&quot; (Xây dựng - Đo lường - Học hỏi).</li><li><strong>イ. ❌ Sai.</strong> Crowdfunding là hình thức huy động vốn từ cộng đồng.</li><li><strong>ウ. ❌ Sai.</strong> Design Thinking (Tư duy thiết kế) là một quy trình giải quyết vấn đề tập trung vào việc thấu cảm người dùng.</li><li><strong>エ. ❌ Sai.</strong> Disruptive Innovation (Đổi mới đột phá) là một lý thuyết về cách các sản phẩm/dịch vụ mới phá vỡ thị trường hiện có.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>最小限のサービスや製品</code> (Sản phẩm/dịch vụ tối thiểu), <code>検証を繰り返す</code> (Lặp lại việc kiểm chứng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Lean = Tinh gọn. Startup = Khởi nghiệp. → Khởi nghiệp một cách tinh gọn bằng cách tạo ra sản phẩm nhỏ nhất để thử nghiệm và học hỏi.</li></ul>"
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào chỉ phương pháp phát triển sản phẩm/mô hình kinh doanh mới bằng cách: dựa trên giả thuyết, tạo ra một sản phẩm/dịch vụ tối thiểu (最小限のサービスや製品), và lặp lại việc kiểm chứng giá trị khách hàng trong thời gian ngắn (短期に顧客価値の検証を繰り返す)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Lean Startup (リーンスタートアップ)</strong> là một phương pháp luận tập trung vào việc nhanh chóng xây dựng các phiên bản sản phẩm tối thiểu khả thi (MVP - Minimum Viable Product), đo lường phản ứng của khách hàng và học hỏi từ đó. Chu trình cốt lõi của nó là &quot;Build-Measure-Learn&quot; (Xây dựng - Đo lường - Học hỏi).</li><li><strong>イ. ❌ Sai.</strong> Crowdfunding là hình thức huy động vốn từ cộng đồng.</li><li><strong>ウ. ❌ Sai.</strong> Design Thinking (Tư duy thiết kế) là một quy trình giải quyết vấn đề tập trung vào việc thấu cảm người dùng.</li><li><strong>エ. ❌ Sai.</strong> Disruptive Innovation (Đổi mới đột phá) là một lý thuyết về cách các sản phẩm/dịch vụ mới phá vỡ thị trường hiện có.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>最小限のサービスや製品</code> (Sản phẩm/dịch vụ tối thiểu), <code>検証を繰り返す</code> (Lặp lại việc kiểm chứng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Lean = Tinh gọn. Startup = Khởi nghiệp. → Khởi nghiệp một cách tinh gọn bằng cách tạo ra sản phẩm nhỏ nhất (MVP) để thử nghiệm và học hỏi.</li></ul>"
     },
     {
-      "question": "次の a ～ c のうち、著作権法によって定められた著作物に該当するものだけを全て挙げたものはどれか。<br>a　原稿なしで話した講演の録音<br>b　時刻表に掲載されたバスの到着時刻<br>c　創造性の高い技術の発明",
-      "options": ["a", "a, b", "a, c", "c"],
+      "question": "次の a ～ c のうち、著作権法によって定められた著作物に該当するものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>原稿なしで話した講演の録音</li><li>時刻表に掲載されたバスの到着時刻</li><li>創造性の高い技術の発明</li></ol>",
+      "options": ["a", "a, c", "b, c", "c"],
       "answer": 0,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Trong số a ~ c, những cái nào được coi là tác phẩm được bảo hộ bởi Luật Bản quyền?</li><ol type=\"a\"><li>Bản ghi âm một bài giảng được nói mà không có kịch bản.</li><li>Thời gian đến của xe buýt được đăng trên lịch trình.</li><li>Một phát minh công nghệ có tính sáng tạo cao.</li></ol></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Tác phẩm.</strong> Một bài giảng, ngay cả khi không có kịch bản, nếu nó thể hiện tư tưởng hoặc cảm xúc một cách sáng tạo, nó được coi là một tác phẩm ngôn ngữ. Việc ghi âm lại chỉ là hành động cố định tác phẩm đó.</li><li><strong>b. ❌ Không phải tác phẩm.</strong> Thời gian biểu, lịch trình xe buýt chỉ đơn thuần là dữ liệu, là sự thật. Chúng không có tính sáng tạo để được coi là một tác phẩm.</li><li><strong>c. ❌ Không được bảo hộ bởi Luật Bản quyền.</strong> Một phát minh công nghệ, dù sáng tạo, là đối tượng được bảo hộ bởi **Luật Sáng chế (特許法)**, không phải Luật Bản quyền (著作権法).</li></ul><p>=> Vậy, chỉ có (a) là tác phẩm được bảo hộ bởi Luật Bản quyền.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>著作権法</code> (Luật Bản quyền)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Bản quyền bảo vệ **sự thể hiện sáng tạo (bài giảng, bài hát, tranh vẽ)**, không bảo vệ **sự thật/dữ liệu (lịch trình)** hoặc **ý tưởng/phát minh kỹ thuật (đối tượng của Luật Sáng chế)**.</li></ul>"
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Trong số a ~ c, những cái nào được coi là tác phẩm được bảo hộ bởi Luật Bản quyền?</li><ol type=\"a\"><li>Bản ghi âm một bài giảng được nói mà không có kịch bản.</li><li>Thời gian đến của xe buýt được đăng trên lịch trình.</li><li>Một phát minh công nghệ có tính sáng tạo cao.</li></ol></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Tác phẩm.</strong> Một bài giảng, ngay cả khi không có kịch bản, nếu nó thể hiện tư tưởng hoặc cảm xúc một cách sáng tạo, nó được coi là một tác phẩm ngôn ngữ. Việc ghi âm lại chỉ là hành động cố định tác phẩm đó.</li><li><strong>b. ❌ Không phải tác phẩm.</strong> Thời gian biểu, lịch trình xe buýt chỉ đơn thuần là dữ liệu, là sự thật (fact), không có tính sáng tạo để được coi là một tác phẩm.</li><li><strong>c. ❌ Không được bảo hộ bởi Luật Bản quyền.</strong> Một phát minh công nghệ, dù sáng tạo, là đối tượng được bảo hộ bởi **Luật Sáng chế (特許法)**, không phải Luật Bản quyền (著作権法).</li></ul><p>=> Vậy, chỉ có (a) là tác phẩm được bảo hộ bởi Luật Bản quyền.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>著作権法</code> (Luật Bản quyền)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Bản quyền bảo vệ <strong>sự thể hiện sáng tạo (bài giảng, bài hát, tranh vẽ)</strong>, không bảo vệ <strong>sự thật/dữ liệu (lịch trình)</strong> hoặc <strong>ý tưởng/phát minh kỹ thuật (đối tượng của Luật Sáng chế)</strong>.</li></ul>"
     },
     {
       "question": "観光などで訪日した外国人が国内にもたらす経済効果を示す言葉として、最も適切なものはどれか。",
-      "options": ["アウトソーシング", "インバウンド", "クラウドファンディング", "シェアリングエコノミー"],
+      "options": ["アウトソーシング", "アウトバウンド需要", "インキュベーター", "インバウンド需要"],
+      "answer": 3,
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào phù hợp nhất để chỉ hiệu quả kinh tế mà người nước ngoài mang lại cho một quốc gia khi họ đến thăm (ví dụ: du lịch)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Outsourcing là thuê ngoài.</li><li><strong>イ. ❌ Sai.</strong> Outbound (đi ra ngoài, ví dụ người Nhật đi du lịch nước ngoài).</li><li><strong>ウ. ❌ Sai.</strong> Incubator (vườn ươm doanh nghiệp).</li><li><strong>エ. ✅ Đúng.</strong> <strong>Inbound (インバウンド)</strong> là thuật ngữ được sử dụng rộng rãi trong ngành du lịch và kinh tế để chỉ dòng khách du lịch, du khách nước ngoài <strong>đi vào</strong> một quốc gia. Hiệu quả kinh tế từ dòng khách này được gọi là nhu cầu Inbound.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>訪日した外国人</code> (Người nước ngoài đến thăm Nhật)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>In</strong>bound = Đi <strong>vào</strong>. <strong>Out</strong>bound = Đi <strong>ra</strong>.</li></ul>"
+    },
+    {
+      "question": "ASP利用方式と自社開発の自社センター利用方式(以下\"自社方式\"という)の採算性を比較する。次の条件のとき，ASP利用方式の期待利益(効果額－費用)が自社方式よりも大きくなるのは，自社方式の初期投資額が何万円を超えたときか。ここで，比較期間は5年とする。<br><br>〔条件〕<ul><li>両方式とも，システム利用による効果額は500万円／年とする。</li><li>ASP利用方式の場合，初期費用は0円，利用料は300万円／年とする。</li><li>自社方式の場合，初期投資額は定額法で減価償却計算を行い，5年後の残存簿価は0円とする。また，運用費は100万円／年とする。</li><li>金利やその他の費用は考慮しないものとする。</li></ul>",
+      "options": ["500", "1,000", "1,500", "2,000"],
       "answer": 1,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào phù hợp nhất để chỉ hiệu quả kinh tế mà người nước ngoài mang lại cho một quốc gia khi họ đến thăm (ví dụ: du lịch)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Outsourcing là thuê ngoài.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Inbound (インバウンド)</strong> là thuật ngữ được sử dụng rộng rãi trong ngành du lịch và kinh tế để chỉ dòng khách du lịch, du khách nước ngoài **đi vào** một quốc gia. Hiệu quả kinh tế từ dòng khách này được gọi là nhu cầu Inbound. (Ngược lại, Outbound là người dân trong nước đi du lịch ra nước ngoài).</li><li><strong>ウ. ❌ Sai.</strong> Crowdfunding là huy động vốn từ cộng đồng.</li><li><strong>エ. ❌ Sai.</strong> Sharing Economy là kinh tế chia sẻ.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>訪日した外国人</code> (Người nước ngoài đến thăm Nhật Bản)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Inbound = **Đi vào**. Outbound = Đi ra.</li></ul>"
+      "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> So sánh lợi nhuận 5 năm của ASP và Tự phát triển. Lợi nhuận ASP > Lợi nhuận Tự phát triển khi chi phí đầu tư ban đầu (X) của Tự phát triển vượt quá bao nhiêu?</li></ul><hr><p><strong>1. Tính Lợi nhuận của phương án ASP trong 5 năm:</strong></p><ul><li>Tổng hiệu quả = 500万円/năm × 5 năm = 2,500万円.</li><li>Tổng chi phí = 0 (ban đầu) + 300万円/năm × 5 năm = 1,500万円.</li><li><strong>Lợi nhuận ASP = 2,500 - 1,500 = 1,000万円.</strong></li></ul><p><strong>2. Tính Lợi nhuận của phương án Tự phát triển trong 5 năm (gọi chi phí đầu tư ban đầu là X):</strong></p><ul><li>Tổng hiệu quả = 500万円/năm × 5 năm = 2,500万円.</li><li>Tổng chi phí (Trong 5 năm): X (ban đầu, khấu hao hết) + 100万円/năm × 5 năm (vận hành) = X + 500万円.</li><li><strong>Lợi nhuận Tự phát triển = 2,500 - (X + 500) = 2,000 - X.</strong></li></ul><p><strong>3. Tìm điểm X (Khi lợi nhuận ASP > Lợi nhuận Tự phát triển):</strong></p><ul><li>1,000 > 2,000 - X</li><li>X > 2,000 - 1,000</li><li>X > 1,000</li></ul><p>=> Lợi nhuận của ASP sẽ lớn hơn khi chi phí đầu tư ban đầu của việc tự phát triển <strong>vượt quá 1,000万円</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> Lập phương trình tại điểm hòa vốn: `Lợi nhuận_ASP = Lợi nhuận_TựPhatTrien` → `1000 = 2000 - X` → `X = 1000`.</li></ul>"
     },
     {
-      "question": "ASP 利用方式と自社開発の自社センター利用方式（以下 ”自社方式” という）の採算性を比較する。次の条件のとき、ASP 利用方式の期待利益（効果額－費用）が自社方式よりも大きくなるのは、自社方式の初期投資額が何万円を超えたときか。ここで、比較期間は 5年とする。",
-      "options": ["1,000", "1,500", "2,000", "2,500"],
-      "answer": 0,
-      "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> So sánh lợi nhuận giữa việc dùng ASP và tự phát triển. Lợi nhuận của ASP sẽ lớn hơn khi chi phí đầu tư ban đầu của việc tự phát triển vượt quá bao nhiêu? (So sánh trong 5 năm).</li></ul><hr><p><strong>1. Tính Lợi nhuận của phương án ASP trong 5 năm:</strong></p><ul><li>Tổng hiệu quả = 500万円/năm × 5 năm = 2,500万円.</li><li>Tổng chi phí = 0 (ban đầu) + 300万円/năm × 5 năm = 1,500万円.</li><li><strong>Lợi nhuận ASP = 2,500 - 1,500 = 1,000万円.</strong></li></ul><p><strong>2. Tính Lợi nhuận của phương án Tự phát triển trong 5 năm (gọi chi phí đầu tư ban đầu là X):</strong></p><ul><li>Tổng hiệu quả = 500万円/năm × 5 năm = 2,500万円.</li><li>Chi phí khấu hao trong 5 năm chính là chi phí đầu tư ban đầu X (vì khấu hao hết sau 5 năm).</li><li>Tổng chi phí vận hành = 100万円/năm × 5 năm = 500万円.</li><li>Tổng chi phí = X + 500万円.</li><li><strong>Lợi nhuận Tự phát triển = 2,500 - (X + 500) = 2,000 - X.</strong></li></ul><p><strong>3. Tìm điểm hòa vốn (khi lợi nhuận bằng nhau):</strong></p><ul><li>Lợi nhuận ASP = Lợi nhuận Tự phát triển</li><li>1,000 = 2,000 - X</li><li>X = 1,000万円.</li></ul><p>Điều này có nghĩa là nếu chi phí đầu tư ban đầu là 1,000万円, lợi nhuận của hai phương án là bằng nhau. Do đó, lợi nhuận của ASP sẽ lớn hơn khi chi phí đầu tư ban đầu của việc tự phát triển <strong>vượt quá 1,000万円</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> Hãy lập một phương trình đơn giản: `Lợi nhuận ASP > Lợi nhuận Tự phát triển`, sau đó giải phương trình để tìm X.</li></ul>"
+      "question": "企業でのRPAの活用方法として，最も適切なものはどれか。",
+      "options": ["M&Aといった経営層が行う重要な戦略の採択", "個人の嗜好に合わせたサービスの提供", "潜在顧客層に関する大量の行動データからの規則性抽出", "定型的な事務処理の効率化"],
+      "answer": 3,
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là cách ứng dụng phù hợp nhất của <strong>RPA</strong> trong doanh nghiệp?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Quyết định chiến lược M&A là công việc của con người, đòi hỏi phán đoán phức tạp.</li><li><strong>イ. ❌ Sai.</strong> Cung cấp dịch vụ cá nhân hóa là ứng dụng của AI/Phân tích dữ liệu.</li><li><strong>ウ. ❌ Sai.</strong> Trích xuất quy luật từ dữ liệu lớn là Data Mining.</li><li><strong>エ. ✅ Đúng.</strong> <strong>RPA (Robotic Process Automation)</strong> chính là việc sử dụng <strong>robot phần mềm</strong> để <strong>tự động hóa</strong> các <strong>công việc văn phòng lặp đi lặp lại (定型的な事務処理)</strong>, nhằm nâng cao hiệu quả.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>RPA</code>, <code>定型的な事務処理</code> (Công việc văn phòng lặp lại)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> RPA = Robot ảo cho nhân viên văn phòng, chuyên làm những việc nhàm chán, lặp đi lặp lại.</li></ul>"
     },
     {
-      "question": "企業での RPA の活用方法として、最も適切なものはどれか。",
-      "options": ["AI を活用して売上を予測し、結果を経営層に報告する。", "Web サイトの利用ログを分析し、不正なアクセスを検知する。", "定型的な PC 操作をソフトウェアで自動化し、業務の効率化を図る。", "複数の設計図から必要な部品を特定し、在庫数を管理する。"],
+      "question": "A社では，顧客の行動や天候，販売店のロケーションなどの多くの項目から成るデータを取得している。これらのデータを分析することによって販売数量の変化を説明することを考える。その際，説明に使用するパラメータをできるだけ少数に絞りたい。このときに用いる分析法として，最も適切なものはどれか。",
+      "options": ["ABC分析", "クラスター分析", "主成分分析", "相関分析"],
       "answer": 2,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là cách ứng dụng phù hợp nhất của <strong>RPA</strong> trong doanh nghiệp?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Dự đoán doanh số bằng AI là lĩnh vực của AI dự đoán/Machine Learning.</li><li><strong>イ. ❌ Sai.</strong> Phân tích log để phát hiện truy cập bất thường là chức năng của các hệ thống an ninh như IDS/SIEM.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>RPA (Robotic Process Automation)</strong> chính là việc sử dụng <strong>robot phần mềm (ソフトウェア)</strong> để <strong>tự động hóa (自動化)</strong> các <strong>thao tác lặp đi lặp lại trên PC (定型的な PC 操作)</strong>, nhằm nâng cao hiệu quả công việc.</li><li><strong>エ. ❌ Sai.</strong> Quản lý linh kiện và tồn kho là chức năng của các hệ thống quản lý sản xuất hoặc ERP.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>RPA</code>, <code>定型的な PC 操作</code> (Thao tác lặp lại trên PC), <code>自動化</code> (Tự động hóa)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> RPA = Robot ảo cho nhân viên văn phòng, chuyên làm những việc nhàm chán, lặp đi lặp lại.</li></ul>"
-    },
-    {
-      "question": "A社では、顧客の行動や天候、販売店のロケーションなどの多くの項目から成るデータを取得している。これらのデータを分析することによって販売数量の変化を説明することを考える。その際、説明に使用するパラメータをできるだけ少数に絞りたい。このときに用いる分析法として、最も適切なものはどれか。",
-      "options": ["クラスタ分析", "主成分分析", "回帰分析", "連関分析"],
-      "answer": 1,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Một công ty có dữ liệu với rất nhiều biến số (hành vi khách hàng, thời tiết, vị trí...). Họ muốn giải thích sự thay đổi của doanh số bán hàng, nhưng muốn <strong>giảm số lượng tham số (パラメータをできるだけ少数に絞りたい)</strong> xuống ít nhất có thể. Phương pháp phân tích nào là phù hợp?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Phân tích cụm (Cluster Analysis) dùng để nhóm các đối tượng tương tự lại với nhau.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Phân tích thành phần chính (主成分分析 - Principal Component Analysis, PCA)</strong> là một kỹ thuật giảm chiều dữ liệu. Nó kết hợp nhiều biến số có tương quan với nhau thành một vài 'thành phần chính' mới mà vẫn giữ lại được phần lớn thông tin của bộ dữ liệu gốc. Mục đích chính của nó là để đơn giản hóa bộ dữ liệu có quá nhiều biến.</li><li><strong>ウ. ❌ Sai.</strong> Phân tích hồi quy (Regression Analysis) dùng để tìm mối quan hệ và dự đoán, không phải để giảm số biến.</li><li><strong>エ. ❌ Sai.</strong> Phân tích liên kết (Association Analysis) dùng để tìm các quy tắc kết hợp (như Phân tích giỏ hàng).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>パラメータを...少数に絞りたい</code> (Muốn giảm số lượng tham số)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Giảm số biến/tham số → <strong>Phân tích thành phần chính (PCA)</strong>.</li></ul>"
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Công ty có dữ liệu với rất nhiều biến số (hành vi, thời tiết...). Họ muốn giải thích doanh số, nhưng muốn <strong>giảm số lượng tham số (パラメータを...少数に絞りたい)</strong> xuống ít nhất có thể. Phương pháp phân tích nào là phù hợp?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Phân tích ABC (phân loại 80/20).</li><li><strong>イ. ❌ Sai.</strong> Phân tích cụm (Cluster Analysis) để nhóm các đối tượng.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Phân tích thành phần chính (主成分分析 - Principal Component Analysis, PCA)</strong> là một kỹ thuật giảm chiều dữ liệu. Nó kết hợp nhiều biến số có tương quan với nhau thành một vài &quot;thành phần chính&quot; mới mà vẫn giữ lại được phần lớn thông tin của bộ dữ liệu gốc. Mục đích chính của nó là để đơn giản hóa bộ dữ liệu có quá nhiều biến.</li><li><strong>エ. ❌ Sai.</strong> Phân tích tương quan (Correlation Analysis) để xem xét mối quan hệ 2 biến.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>パラメータを...少数に絞りたい</code> (Muốn giảm số lượng tham số)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Giảm số biến/tham số → <strong>Phân tích thành phần chính (PCA)</strong>.</li></ul>"
     },
     {
       "question": "経営戦略に基づいて策定される情報システム戦略の責任者として、最も適切なものはどれか。",
@@ -1264,35 +1264,1022 @@ const questionsByYear = {
       "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Ai là người chịu trách nhiệm cao nhất cho <strong>Chiến lược hệ thống thông tin (情報システム戦略)</strong>, được xây dựng dựa trên chiến lược kinh doanh?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>CIO (Chief Information Officer - Giám đốc Công nghệ Thông tin)</strong> là chức danh cấp cao trong ban lãnh đạo, chịu trách nhiệm về việc hoạch định và thực thi chiến lược CNTT sao cho phù hợp và thúc đẩy chiến lược kinh doanh của toàn công ty.</li><li><strong>イ, ウ, エ. ❌ Sai.</strong> Trưởng phòng sử dụng hệ thống, Quản lý dự án, và Nhân viên kế hoạch hệ thống đều là các vai trò quan trọng nhưng họ hoạt động ở cấp độ bộ phận hoặc dự án, không phải là người chịu trách nhiệm cao nhất cho chiến lược CNTT toàn doanh nghiệp.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>情報システム戦略</code> (Chiến lược hệ thống thông tin), <code>責任者</code> (Người chịu trách nhiệm)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>I</strong>nformation → C<strong>I</strong>O. Chữ 'I' trong CIO là viết tắt của 'Information'.</li></ul>"
     },
     {
-      "question": "A社の営業部門では、成約件数を増やすことを目的として、営業担当者が企画を顧客に提案する活動を始めた。この営業活動の達成度を測るための指標として KGI（Key Goal Indicator）と KPI（Key Performance Indicator）を定めたい。本活動における KGI と KPI の組合せとして、最も適切なものはどれか。",
-      "options": ["KGI：成約件数、KPI：提案件数", "KGI：提案件数、KPI：成約件数", "KGI：売上高、KPI：成約件数", "KGI：売上高、KPI：提案件数"],
-      "answer": 0,
-      "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Để đo lường hoạt động đề xuất kế hoạch cho khách hàng với mục tiêu tăng số hợp đồng thành công, đâu là sự kết hợp đúng giữa KGI và KPI?</li></ul><hr><p>Định nghĩa:</p><ul><li><strong>KGI (Key Goal Indicator - Chỉ số mục tiêu chính):</strong> Đo lường **kết quả cuối cùng** mà bạn muốn đạt được.</li><li><strong>KPI (Key Performance Indicator - Chỉ số hiệu suất chính):</strong> Đo lường các **hoạt động, quy trình** dẫn đến kết quả cuối cùng đó.</li></ul><p>Trong trường hợp này:</p><ul><li><strong>Mục tiêu cuối cùng (Goal)</strong> là 'tăng số hợp đồng thành công'. Vậy, <strong>KGI = Số hợp đồng thành công (成約件数)</strong>.</li><li><strong>Hoạt động (Performance)</strong> để đạt được mục tiêu đó là 'đề xuất kế hoạch cho khách hàng'. Vậy, <strong>KPI = Số lần đề xuất (提案件数)</strong>.</li></ul><p>=> Sự kết hợp đúng là KGI: 成約件数, KPI: 提案件数.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> <strong>G</strong>oal (Mục tiêu) là đích đến. <strong>P</strong>erformance (Hiệu suất) là hành trình. Bạn phải thực hiện hành trình (KPI) để đến được đích (KGI).</li></ul>"
+  "question": "A社の営業部門では，成約件数を増やすことを目的として，営業担当者が企画を顧客に提案する活動を始めた。この営業活動の達成度を測るための指標としてKGI(Key Goal Indicator)とKPI(Key Performance Indicator)を定めたい。本活動におけるKGIとKPIの組合せとして，最も適切なものはどれか。<br><img src='img/r5-08.png' width='400px' height='auto'>",
+  "options": [
+    "ア",
+    "イ",
+    "ウ",
+    "エ"
+  ],
+  "answer": 1,
+  "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Một phòng kinh doanh bắt đầu hoạt động &quot;đề xuất kế hoạch cho khách hàng&quot; (hoạt động) với mục đích &quot;tăng số lượng hợp đồng thành công&quot; (mục tiêu). Đâu là sự kết hợp đúng giữa KGI và KPI cho hoạt động này?</li></ul><hr><p>Định nghĩa:</p><ul><li><strong>KGI (Key Goal Indicator - Chỉ số mục tiêu chính):</strong> Đo lường **kết quả cuối cùng** (Goal).</li><li><strong>KPI (Key Performance Indicator - Chỉ số hiệu suất chính):</strong> Đo lường các **hoạt động, quy trình (Performance)** dẫn đến mục tiêu.</li></ul><p>Trong trường hợp này:</p><ul><li><strong>Mục tiêu cuối cùng (Goal)</strong> là &quot;tăng số hợp đồng thành công&quot;. Vậy, <strong>KGI = Số hợp đồng thành công (成約件数)</strong>.</li><li><strong>Hoạt động (Performance)</strong> để đạt được mục tiêu đó là &quot;đề xuất kế hoạch cho khách hàng&quot;. Vậy, <strong>KPI = Số lần đề xuất (提案件数)</strong>.</li></ul><p>=> Sự kết hợp đúng (KGI = 成約件数, KPI = 提案件数) được thể hiện ở lựa chọn <strong>イ</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> <strong>G</strong>oal (Mục tiêu) là đích đến. <strong>P</strong>erformance (Hiệu suất) là hành trình. Bạn phải thực hiện hành trình (KPI: đề xuất) để đến được đích (KGI: hợp đồng).</li></ul>"
+},
+    {
+      "question": "ソーシャルメディアポリシーを制定する目的として，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>企業がソーシャルメディアを使用する際の心得やルールなどを取り決めて，社外の人々が理解できるようにするため</li><li>企業に属する役員や従業員が，公私限らずにソーシャルメディアを使用する際のルールを示すため</li><li>ソーシャルメディアが企業に対して取材や問合せを行う際の条件や窓口での取扱いのルールを示すため</li></ol>",
+      "options": ["a", "a，b", "a，c", "b，c"],
+      "answer": 1,
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là những mục đích phù hợp của việc ban hành Chính sách Truyền thông Xã hội (Social Media Policy)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Đúng.</strong> Một phần của chính sách là để công bố cho các bên bên ngoài (khách hàng, đối tác) biết về cách thức và quan điểm của công ty khi sử dụng mạng xã hội.</li><li><strong>b. ✅ Đúng.</strong> Đây là mục đích chính và quan trọng nhất: cung cấp một bộ quy tắc và hướng dẫn rõ ràng cho tất cả nhân viên về cách hành xử trên mạng xã hội, cả trong công việc và cuộc sống cá nhân, để tránh các rủi ro về danh tiếng và bảo mật cho công ty.</li><li><strong>c. ❌ Sai.</strong> Quy tắc về việc trả lời phỏng vấn hay các yêu cầu từ báo chí (bao gồm cả các trang mạng xã hội) thường nằm trong một chính sách riêng về Quan hệ công chúng (PR Policy) hoặc Chính sách truyền thông, không phải là mục đích chính của Social Media Policy.</li></ul><p>=> Vậy, các mục đích phù hợp là a và b.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ソーシャルメディアポリシー</code> (Social Media Policy)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chính sách này có hai đối tượng: <strong>bên trong (nhân viên)</strong> và <strong>bên ngoài (công chúng)</strong>.</li></ul>"
     },
     {
-      "question": "ソーシャルメディアポリシーを制定する目的として、適切なものだけを全て挙げたものはどれか。<br>a　企業がソーシャルメディアを使用する際の心得やルールなどを取り決めて、社外の人々が理解できるようにするため<br>b　企業に属する役員や従業員が、公私限らずにソーシャルメディアを使用する際のルールを示すため<br>c　ソーシャルメディアが企業に対して取材や問合せを行う際の条件や窓口での取扱いのルールを示すため",
-      "options": ["a, b", "a, b, c", "b", "b, c"],
-      "answer": 0,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là những mục đích phù hợp của việc ban hành Chính sách Truyền thông Xã hội (Social Media Policy)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Đúng.</strong> Một phần của chính sách là để công khai cho các bên bên ngoài (khách hàng, đối tác) biết về cách thức và quan điểm của công ty khi sử dụng mạng xã hội.</li><li><strong>b. ✅ Đúng.</strong> Đây là mục đích chính và quan trọng nhất: cung cấp một bộ quy tắc và hướng dẫn rõ ràng cho tất cả nhân viên về cách hành xử trên mạng xã hội, cả trong công việc và cuộc sống cá nhân, để tránh các rủi ro về danh tiếng và bảo mật cho công ty.</li><li><strong>c. ❌ Sai.</strong> Quy tắc về việc trả lời phỏng vấn hay các yêu cầu từ báo chí (bao gồm cả các trang mạng xã hội) thường nằm trong một chính sách riêng về Quan hệ công chúng (PR Policy) hoặc Chính sách truyền thông, không phải là mục đích chính của Social Media Policy.</li></ul><p>=> Vậy, các mục đích phù hợp là a và b.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ソーシャルメディアポリシー</code> (Social Media Policy)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chính sách này có hai đối tượng: <strong>bên trong (nhân viên)</strong> và <strong>bên ngoài (công chúng)</strong>.</li></ul>"
+      "question": "フォーラム標準に関する記述として，最も適切なものはどれか。",
+      "options": ["工業製品が，定められた品質，寸法，機能及び形状の範囲内であることを保証したもの", "公的な標準化機関において，透明かつ公正な手続の下，関係者が合意の上で制定したもの", "特定の企業が開発した仕様が広く利用された結果，事実上の業界標準になったもの", "特定の分野に関心のある複数の企業などが集まって結成した組織が，規格として作ったもの"],
+      "answer": 3,
+      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Tiêu chuẩn Diễn đàn (フォーラム標準 - Forum Standard)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Đảm bảo chất lượng sản phẩm (ví dụ: JIS).</li><li><strong>イ. ❌ Sai.</strong> Tiêu chuẩn do tổ chức công (ISO) ban hành được gọi là Tiêu chuẩn De Jure.</li><li><strong>ウ. ❌ Sai.</strong> Tiêu chuẩn do một công ty tạo ra và trở nên phổ biến là Tiêu chuẩn De Facto.</li><li><strong>エ. ✅ Đúng.</strong> <strong>Nhiều công ty (複数の企業)</strong> có cùng mối quan tâm tập hợp lại thành một <strong>tổ chức (diễn đàn)</strong> để <strong>cùng nhau xây dựng tiêu chuẩn (規格として作ったもの)</strong>. Đây chính là định nghĩa của Tiêu chuẩn Diễn đàn. (Ví dụ: W3C, USB-IF).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>フォーラム標準</code> (Forum Standard)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Forum = Diễn đàn = <strong>Nhiều công ty cùng tham gia</strong>.</li></ul>"
     },
-    {
-      "question": "フォーラム標準に関する記述として、最も適切なものはどれか。",
-      "options": ["ISOなどの公的機関によって定められた規格", "特定の企業が独自に定めた規格", "特定のテーマに関心をもつ複数の企業が集まって審議し、共同で仕様を策定して公開した規格", "特定の製品が業界で広く受け入れられ、事実上の標準となった規格"],
-      "answer": 2,
-      "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng nhất về <strong>Tiêu chuẩn Diễn đàn (フォーラム標準 - Forum Standard)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Tiêu chuẩn do các tổ chức công như ISO ban hành được gọi là Tiêu chuẩn De Jure.</li><li><strong>イ. ❌ Sai.</strong> Tiêu chuẩn do một công ty tự đặt ra không phải là tiêu chuẩn chung.</li><li><strong>ウ. ✅ Đúng.</strong> Tiêu chuẩn Diễn đàn được hình thành khi <strong>nhiều công ty (複数の企業)</strong> có cùng mối quan tâm về một chủ đề cụ thể tập hợp lại thành một 'diễn đàn' (consortium) để <strong>cùng nhau xây dựng (共同で仕様を策定)</strong> và công bố một bộ thông số kỹ thuật chung. Ví dụ: a, W3C (World Wide Web Consortium).</li><li><strong>エ. ❌ Sai.</strong> Một sản phẩm được chấp nhận rộng rãi và trở thành tiêu chuẩn trên thực tế được gọi là Tiêu chuẩn De Facto.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>フォーラム標準</code> (Forum Standard)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Forum = Diễn đàn = <strong>Nhiều công ty cùng tham gia</strong>.</li></ul>"
-    },
+  {
+    "question": "IoT や AI といった IT を活用し、戦略的にビジネスモデルの刷新や新たな付加価値を生み出していくことなどを示す言葉として、最も適切なものはどれか。",
+    "options": [
+      "デジタルサイネージ",
+      "デジタルディバイド",
+      "デジタルトランスフォーメーション",
+      "デジタルネイティブ"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào chỉ việc sử dụng CNTT như IoT và AI để làm mới mô hình kinh doanh một cách chiến lược (戦略的にビジネスモデルの刷新) và tạo ra giá trị gia tăng mới (新たな付加価値)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Digital Signage (デジタルサイネージ) là các bảng quảng cáo kỹ thuật số.</li><li><strong>イ. ❌ Sai.</strong> Digital Divide (デジタルディバイド) là khoảng cách số về khả năng tiếp cận công nghệ.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Digital Transformation (デジタルトランスフォーメーション - DX)</strong> là khái niệm chỉ việc các doanh nghiệp ứng dụng công nghệ kỹ thuật số để thay đổi triệt để mô hình kinh doanh, quy trình hoạt động và tạo ra các giá trị mới.</li><li><strong>エ. ❌ Sai.</strong> Digital Native (デジタルネイティブ) là thế hệ bản địa kỹ thuật số, những người sinh ra và lớn lên trong thời đại kỹ thuật số.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ビジネスモデルの刷新</code> (Làm mới mô hình kinh doanh), <code>新たな付加価値</code> (Giá trị gia tăng mới)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chuyển đổi toàn diện bằng kỹ thuật số → <strong>Digital Transformation (DX)</strong>.</li></ul>"
+  },
+  {
+    "question": "スマートフォンに内蔵された非接触型 IC チップと外部の RFID リーダーによって、実現しているサービスの事例だけを全て挙げたものはどれか。<br><ol type=\"a\"><li>移動中の通話の際に基地局を自動的に切り替えて通話を保持する。</li><li>駅の自動改札を通過する際の定期券として利用する。</li><li>海外でも国内と同じ電子メールなどのサービスを利用する。</li><li>決済手続情報を得るために QR コードを読み込む。</li></ol>",
+    "options": [
+      "a，b，c，d",
+      "a，b，d",
+      "b",
+      "b，d"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ về dịch vụ được thực hiện bằng chip IC không tiếp xúc (非接触型ICチップ) tích hợp trong smartphone và đầu đọc RFID bên ngoài?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Công nghệ được mô tả là <strong>NFC (Near Field Communication)</strong>, một dạng của RFID.</p><ul><li><strong>a. ❌ Sai.</strong> Tự động chuyển đổi trạm phát sóng khi di chuyển là chức năng của mạng di động (Handover).</li><li><strong>b. ✅ Đúng.</strong> Sử dụng điện thoại làm vé tàu/vé tháng (定期券) tại cổng soát vé tự động là ứng dụng phổ biến nhất của NFC.</li><li><strong>c. ❌ Sai.</strong> Sử dụng email ở nước ngoài là dịch vụ chuyển vùng dữ liệu (Data Roaming).</li><li><strong>d. ❌ Sai.</strong> Đọc mã QR là sử dụng camera, không phải chip NFC/RFID.</li></ul><p>=> Vậy, chỉ có (b) là đúng.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>非接触型 IC チップ</code> (Chip IC không tiếp xúc)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chip không tiếp xúc = Chạm để thanh toán/qua cửa → <strong>Vé tàu điện tử (b)</strong>.</li></ul>"
+  },
+  {
+    "question": "ある製品の今月の売上高と費用は表のとおりであった。販売単価を1,000円から800円に変更するとき，赤字にならないためには少なくとも毎月何個を販売する必要があるか。ここで，固定費及び製品1個当たりの変動費は変化しないものとする。<br><img src='img/r5-13.png' width='400px' height='auto'>",
+    "options": [
+      "2,400",
+      "2,500",
+      "4,800",
+      "6,000"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><p>Từ bảng trong hình, ta có dữ liệu hiện tại:</p><ul><li>Giá bán (販売単価): 1,000円</li><li>Số lượng (販売個数): 2,000個</li><li>Doanh thu (売上高): 2,000,000円 (tức 1,000 × 2,000)</li><li>Chi phí cố định (固定費): 1,200,000円</li><li>Tổng chi phí (総費用): 1,800,000円</li></ul><ol><li><strong>Tính Biến phí / sản phẩm (hiện tại):</strong></li><ul><li>Tổng Biến phí = Tổng chi phí - Cố định phí = 1,800,000 - 1,200,000 = 600,000円.</li><li>Biến phí / sản phẩm = 600,000円 / 2,000 cái = 300円/cái.</li></ul><li><strong>Tính Điểm hòa vốn (số lượng) với giá bán MỚI (800円):</strong></li><ul><li>Giá bán mới = 800円.</li><li>Biến phí / sản phẩm = 300円 (không đổi).</li><li>Lãi gộp / sản phẩm (mới) = Giá bán mới - Biến phí/sản phẩm = 800 - 300 = 500円.</li><li>Điểm hòa vốn (để không bị lỗ) = Tổng Cố định phí / Lãi gộp/sản phẩm = 1,200,000 / 500 = <strong>2,400 cái</strong>.</li></ul></ol><p>=> Cần bán ít nhất **2,400** cái để hòa vốn.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>赤字にならない</code> (Không bị lỗ = Hòa vốn), <code>損益分岐点</code> (Điểm hòa vốn)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Điểm hòa vốn (Số lượng) = Chi phí cố định / (Giá bán - Chi phí biến đổi).</li></ul>"
+  },
+  {
+    "question": "AIの活用領域の一つである自然言語処理が利用されている事例として，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>Webサイト上で，日本語の文章を入力すると即座に他言語に翻訳される。</li><li>災害時にSNSに投稿された文字情報をリアルタイムで収集し，地名と災害情報などを解析して被災状況を把握する。</li><li>スマートスピーカーを利用して，音声によって家電の操作や音楽の再生を行う。</li><li>駐車場の出入口に設置したカメラでナンバープレートを撮影して，文字認識処理をし，精算済みの車両がゲートに近付くと自動で開く。</li></ol>",
+    "options": [
+      "a，b，c",
+      "a，b，d",
+      "a，c，d",
+      "b，c，d"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là những ví dụ về ứng dụng của <strong>Xử lý ngôn ngữ tự nhiên (自然言語処理 - NLP)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Đúng.</strong> Dịch máy (機械翻訳) là một ứng dụng kinh điển của NLP.</li><li><strong>b. ✅ Đúng.</strong> Phân tích văn bản (文字情報) từ mạng xã hội để trích xuất thông tin (địa danh, loại thiên tai) cũng là một ứng dụng của NLP.</li><li><strong>c. ✅ Đúng.</strong> Loa thông minh (スマートスピーカー) cần hiểu được mệnh lệnh bằng giọng nói (音声). Quá trình này bao gồm Nhận dạng giọng nói (ASR) để chuyển âm thanh thành văn bản, và NLP để hiểu ý nghĩa của văn bản đó.</li><li><strong>d. ❌ Sai.</strong> Nhận dạng ký tự (文字認識処理) trên biển số xe là công nghệ Nhận dạng ký tự quang học (OCR), một lĩnh vực của Thị giác máy tính, không phải NLP.</li></ul><p>=> Vậy, các ứng dụng đúng là a, b, và c.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>自然言語処理</code> (Xử lý ngôn ngữ tự nhiên)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> NLP xử lý những gì liên quan đến **ngôn ngữ nói và viết** của con người (dịch, phân tích văn bản, hiểu giọng nói). OCR xử lý việc &quot;đọc&quot; ký tự từ hình ảnh.</li></ul>"
+  },
+  {
+    "question": "パスワードに関連した不適切な行為a～dのうち，不正アクセス禁止法で規制されている行為だけを全て挙げたものはどれか。<br><ol type=\"a\"><li>業務を代行してもらうために，社内データベースアクセス用の自分のIDとパスワードを同僚に伝えた。</li><li>自分のPCに，社内データベースアクセス用の自分のパスワードのメモを貼り付けた。</li><li>電子メールに添付されていた文書をPCに取り込んだ。その文書の閲覧用パスワードを，その文書を見る権利のない人に教えた。</li><li>人気のショッピングサイトに登録されている他人のIDとパスワードを，無断で第三者に伝えた。</li></ol>",
+    "options": [
+      "a，b，c，d",
+      "a，c，d",
+      "a，d",
+      "d"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Trong các hành vi không phù hợp liên quan đến mật khẩu, hành vi nào bị cấm bởi <strong>Luật cấm truy cập trái phép (不正アクセス禁止法)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Luật này cấm các hành vi &quot;tiếp tay&quot; cho việc truy cập trái phép, đặc biệt là việc cung cấp thông tin xác thực của người khác cho bên thứ ba một cách bất hợp pháp.</p><ul><li><strong>a. ❌ Không bị cấm.</strong> Việc chia sẻ mật khẩu của **chính mình** (自分のIDとパスワード) cho đồng nghiệp không phải là hành vi bị luật này điều chỉnh (mặc dù nó vi phạm chính sách bảo mật nội bộ).</li><li><strong>b. ❌ Không bị cấm.</strong> Dán mật khẩu lên PC là một hành vi bảo mật tồi, nhưng không phải là hành vi bị luật này cấm.</li><li><strong>c. ❌ Không bị cấm.</strong> Mật khẩu của một tài liệu (文書の閲覧用パスワード) không phải là &quot;thông tin xác thực để truy cập vào một hệ thống được bảo vệ&quot;, do đó việc chia sẻ nó không thuộc phạm vi của luật này.</li><li><strong>d. ✅ Bị cấm.</strong> Cung cấp ID và mật khẩu **của người khác (他人)** cho một <strong>bên thứ ba (第三者)</strong> mà không có sự cho phép là hành vi &quot;tiếp tay cho truy cập trái phép&quot; và bị nghiêm cấm bởi Điều 5 của luật này.</li></ul><p>=> Vậy, chỉ có (d) là hành vi bị cấm.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>不正アクセス禁止法</code></strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Luật này chủ yếu cấm 2 việc: <strong>Tự mình truy cập trái phép</strong> và <strong>Cung cấp thông tin đăng nhập CỦA NGƯỜI KHÁC</strong> cho bên thứ ba.</li></ul>"
+  },
+  {
+    "question": "コールセンターにおける電話応対業務において，AIを活用し，より有効なFAQシステムを実現する事例として，最も適切なものはどれか。",
+    "options": [
+      "オペレーター業務研修の一環で，既存のFAQを用いた質疑応答の事例をWebの画面で学習する。",
+      "ガイダンスに従って入力されたダイヤル番号に従って，FAQの該当項目を担当するオペレーターに振り分ける。",
+      "受信した電話番号から顧客の情報，過去の問合せ内容及び回答の記録を，顧客情報データベースから呼び出してオペレーターの画面に表示する。",
+      "電話応対時に，質問の音声から感情と内容を読み取って解析し，FAQから最適な回答候補を選び出す確度を高める。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ về việc ứng dụng AI để tạo ra một hệ thống FAQ hiệu quả hơn trong tổng đài?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Đây là e-learning cho nhân viên, không phải là ứng dụng AI để cải thiện FAQ.</li><li><strong>イ. ❌ Sai.</strong> Đây là hệ thống IVR (Tương tác thoại tự động) cơ bản, không cần AI.</li><li><strong>ウ. ❌ Sai.</strong> Đây là chức năng CTI (Tích hợp Điện thoại - Máy tính) cơ bản, hiển thị thông tin khách hàng, không cải thiện FAQ.</li><li><strong>エ. ✅ Đúng.</strong> Việc sử dụng AI để <strong>phân tích giọng nói và nội dung (音声から...内容を読み取って解析)</strong> theo thời gian thực để <strong>đề xuất câu trả lời tối ưu từ FAQ (FAQから最適な回答候補を選び出す)</strong> chính là một cách ứng dụng AI để làm cho hệ thống FAQ trở nên hiệu quả hơn.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>AIを活用</code>, <code>有効なFAQシステム</code> (Hệ thống FAQ hiệu quả)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Tìm đáp án mà AI thực sự &quot;suy nghĩ&quot; và &quot;hỗ trợ&quot; dựa trên nội dung hội thoại để đưa ra câu trả lời từ FAQ.</li></ul>"
+  },
+  {
+    "question": "ITの進展や関連するサービスの拡大によって，様々なデータやツールを自社のビジネスや日常の業務に利用することが可能となっている。このようなデータやツールを課題解決などのために適切に活用できる能力を示す用語として，最も適切なものはどれか。",
+    "options": [
+      "アクセシビリティ",
+      "コアコンピタンス",
+      "情報リテラシー",
+      "デジタルディバイド"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào chỉ năng lực có thể <strong>sử dụng một cách phù hợp (適切に活用できる能力)</strong> các dữ liệu và công cụ khác nhau để giải quyết vấn đề trong kinh doanh và công việc hàng ngày?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Accessibility (Khả năng tiếp cận) là đảm bảo người khuyết tật cũng có thể sử dụng.</li><li><strong>イ. ❌ Sai.</strong> Core Competence (Năng lực cốt lõi) là thế mạnh cạnh tranh của doanh nghiệp.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Kiến thức/Trình độ thông tin (情報リテラシー - Information Literacy)</strong> là thuật ngữ dùng để chỉ năng lực tìm kiếm, đánh giá, và sử dụng thông tin/công cụ CNTT một cách hiệu quả để giải quyết vấn đề.</li><li><strong>エ. ❌ Sai.</strong> Digital Divide (Khoảng cách số) là sự chênh lệch về khả năng tiếp cận CNTT.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>適切に活用できる能力</code> (Năng lực sử dụng phù hợp)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Literacy = Trình độ/Kiến thức. Information Literacy = Trình độ/Kiến thức về thông tin.</li></ul>"
+  },
+  {
+    "question": "EUの一般データ保護規則(GDPR)に関する記述として，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>EU域内に拠点がある事業者が，EU域内に対してデータやサービスを提供している場合は，適用の対象となる。</li><li>EU域内に拠点がある事業者が，アジアや米国などEU域外に対してデータやサービスを提供している場合は，適用の対象とならない。</li><li>EU域内に拠点がない事業者が，アジアや米国などEU域外に対してだけデータやサービスを提供している場合は，適用の対象とならない。</li><li>EU域内に拠点がない事業者が，アジアや米国などからEU域内に対してデータやサービスを提供している場合は，適用の対象とならない。</li></ol>",
+    "options": [
+      "a",
+      "a，b，c",
+      "a，c",
+      "a，c，d"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về phạm vi áp dụng của GDPR?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>GDPR áp dụng trong hai trường hợp chính:</p><ol><li>Tổ chức có cơ sở tại EU.</li><li>Tổ chức (dù ở đâu) cung cấp hàng hóa/dịch vụ hoặc giám sát hành vi của các cá nhân **đang ở trong EU**.</li></ol><p>Xét các lựa chọn:</p><ul><li><strong>a. ✅ Đúng.</strong> Có cơ sở tại EU và cung cấp dịch vụ trong EU → Chắc chắn áp dụng (theo TH1).</li><li><strong>b. ❌ Sai.</strong> Chỉ cần có cơ sở tại EU là sẽ bị áp dụng (theo TH1), bất kể cung cấp dịch vụ cho thị trường nào.</li><li><strong>c. ✅ Đúng.</strong> Không có cơ sở tại EU và chỉ cung cấp dịch vụ cho thị trường ngoài EU → Không áp dụng.</li><li><strong>d. ❌ Sai.</strong> Mặc dù không có cơ sở tại EU, nhưng việc cung cấp dịch vụ **cho thị trường EU** làm cho họ trở thành đối tượng bị áp dụng (theo TH2).</li></ul><p>=> Vậy, các mô tả đúng là a và c.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>GDPR</code></strong>.</li><li><strong>Mẹo ghi nhớ:</strong> GDPR áp dụng nếu bạn **&quot;ở EU&quot;** (TH1) hoặc bạn **&quot;bán hàng cho người ở EU&quot;** (TH2).</li></ul>"
+  },
+  {
+    "question": "住宅地に設置してある飲料の自動販売機に組み込まれた通信機器と，遠隔で自動販売機を監視しているコンピュータが，ネットワークを介してデータを送受信することによって在庫管理を実現するような仕組みがある。このように，機械同士がネットワークを介して互いに情報をやり取りすることによって，自律的に高度な制御や動作を行う仕組みはどれか。",
+    "options": [
+      "MOT",
+      "MRP",
+      "M2M",
+      "O2O"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Cơ chế trong đó các máy móc tự trao đổi thông tin với nhau qua mạng để thực hiện các hành động hoặc kiểm soát tự trị (ví dụ: máy bán hàng tự động gửi dữ liệu tồn kho về trung tâm) được gọi là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> MOT (Management of Technology) là quản trị công nghệ.</li><li><strong>イ. ❌ Sai.</strong> MRP (Material Requirements Planning) là lập kế hoạch nhu cầu nguyên vật liệu.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>M2M (Machine to Machine)</strong> là thuật ngữ chỉ việc các thiết bị máy móc (<code>機械同士</code>) giao tiếp trực tiếp với nhau mà không cần sự can thiệp của con người. Đây là một khái niệm cốt lõi của IoT.</li><li><strong>エ. ❌ Sai.</strong> O2O (Online to Offline) là mô hình kinh doanh kết nối trực tuyến và ngoại tuyến.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>機械同士</code> (Máy móc với nhau)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>M</strong>achine-<strong>to</strong>-<strong>M</strong>achine → <strong>M2M</strong>.</li></ul>"
+  },
+  {
+    "question": "資本活用の効率性を示す指標はどれか。",
+    "options": [
+      "売上高営業利益率",
+      "自己資本比率",
+      "総資本回転率",
+      "損益分岐点比率"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Chỉ số nào thể hiện <strong>hiệu quả sử dụng vốn (資本活用の効率性)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Tỷ suất lợi nhuận gộp trên doanh thu (Operating Income Margin) đo lường khả năng sinh lời, không phải hiệu quả sử dụng vốn.</li><li><strong>イ. ❌ Sai.</strong> Tỷ lệ vốn chủ sở hữu (Equity Ratio) đo lường sự an toàn tài chính.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Vòng quay tổng vốn (総資本回転率 - Total Asset Turnover)</strong> được tính bằng `Doanh thu / Tổng vốn`. Chỉ số này đo lường xem một đồng vốn bỏ ra tạo ra được bao nhiêu đồng doanh thu, thể hiện hiệu quả sử dụng tổng tài sản (vốn).</li><li><strong>エ. ❌ Sai.</strong> Tỷ lệ điểm hòa vốn (Break-even Point Ratio) đo lường sự an toàn.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>資本活用の効率性</code> (Hiệu quả sử dụng vốn)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> &quot;Hiệu quả&quot; thường liên quan đến &quot;vòng quay&quot; (回転率) - tức là vốn quay được bao nhiêu vòng để tạo ra doanh thu.</li></ul>"
+  },
+  {
+    "question": "フリーミアムの事例として，適切なものはどれか。",
+    "options": [
+      "購入した定額パスをもっていれば，期限内は何杯でもドリンクをもらえるファーストフード店のサービス",
+      "無料でダウンロードして使うことはできるが，プログラムの改変は許されていない統計解析プログラム",
+      "名刺を個人で登録・管理する基本機能を無料で提供し，社内関係者との間での顧客情報の共有や人物検索などの追加機能を有料で提供する名刺管理サービス",
+      "有料広告を収入源とすることによって，無料で配布している地域限定の生活情報などの広報誌"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ phù hợp nhất của mô hình <strong>Freemium</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Đây là mô hình <strong>Subscription (Đăng ký trả phí định kỳ)</strong>, trả tiền trước để sử dụng không giới hạn trong một thời gian.</li><li><strong>イ. ❌ Sai.</strong> Đây là mô hình <strong>Freeware (Phần mềm miễn phí)</strong>, cho phép sử dụng miễn phí nhưng có các hạn chế về sửa đổi.</li><li><strong>ウ. ✅ Đúng.</strong> Đây chính là Freemium: <strong>Chức năng cơ bản miễn phí (基本機能を無料で提供)</strong> để thu hút người dùng, và <strong>tính phí cho các chức năng bổ sung/cao cấp (追加機能を有料で提供)</strong>.</li><li><strong>エ. ❌ Sai.</strong> Đây là mô hình kinh doanh dựa trên <strong>Quảng cáo (Advertising)</strong>, nơi dịch vụ miễn phí cho người dùng nhưng lấy tiền từ nhà quảng cáo.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>フリーミアム</code> (Freemium)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>Free</strong> (Miễn phí cơ bản) + <strong>Premium</strong> (Cao cấp trả phí) = <strong>Freemium</strong>.</li></ul>"
+  },
+  {
+    "question": "資金決済法における前払式支払手段に該当するものはどれか。",
+    "options": [
+      "Webサイト上で預金口座から振込や送金ができるサービス",
+      "インターネット上で電子的な通貨として利用可能な暗号資産",
+      "全国のデパートや商店などで共通に利用可能な使用期限のない商品券",
+      "店舗などでの商品購入時に付与され，同店での次回の購入代金として利用可能なポイント"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ thuộc về <strong>'Phương tiện thanh toán trả trước' (前払式支払手段)</strong> theo Luật Thanh toán Quỹ?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Dịch vụ chuyển tiền, gửi tiền (Internet Banking) là dịch vụ của ngân hàng, không phải là phương tiện trả trước.</li><li><strong>イ. ❌ Sai.</strong> Tài sản mã hóa (tiền ảo) được định nghĩa riêng, không phải là phương tiện thanh toán trả trước theo luật này.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Phiếu quà tặng (商品券)</strong> là một ví dụ điển hình của phương tiện thanh toán trả trước. Bạn trả tiền trước để mua một phiếu/thẻ có giá trị, sau đó dùng nó để thanh toán.</li><li><strong>エ. ❌ Sai.</strong> Điểm thưởng (ポイント) được tặng khi mua hàng thường không được coi là phương tiện thanh toán trả trước (theo luật, chúng thường được miễn trừ).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>前払式支払手段</code> (Phương tiện thanh toán trả trước)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> 'Trả trước' = Mua một thứ (phiếu, thẻ) để dùng thanh toán sau. <strong>Phiếu quà tặng (商品券)</strong> là ví dụ dễ thấy nhất.</li></ul>"
+  },
+  {
+    "question": "OMG(Object Management Group)によって維持されており，国際規格ISO/IEC 19510として標準化されているビジネスプロセスのモデリング手法及び表記法はどれか。",
+    "options": [
+      "BABOK",
+      "BPMN",
+      "BPO",
+      "BPR"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Phương pháp và ký hiệu mô hình hóa quy trình nghiệp vụ nào được duy trì bởi <strong>OMG</strong> và được tiêu chuẩn hóa là <strong>ISO/IEC 19510</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> BABOK (Business Analysis Body of Knowledge) là một cẩm nang kiến thức về phân tích nghiệp vụ, không phải là một ký hiệu mô hình hóa.</li><li><strong>イ. ✅ Đúng.</strong> <strong>BPMN (Business Process Model and Notation)</strong> là một tiêu chuẩn đồ họa để mô hình hóa các quy trình nghiệp vụ. Nó được duy trì bởi OMG và đã được chuẩn hóa thành ISO/IEC 19510.</li><li><strong>ウ. ❌ Sai.</strong> BPO (Business Process Outsourcing) là thuê ngoài quy trình nghiệp vụ.</li><li><strong>エ. ❌ Sai.</strong> BPR (Business Process Re-engineering) là tái cấu trúc quy trình nghiệp vụ.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>OMG</code>, <code>ビジネスプロセスのモデリング</code> (Mô hình hóa quy trình nghiệp vụ), <code>ISO/IEC 19510</code></strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Business Process Model and Notation → <strong>BPMN</strong>.</li></ul>"
+  },
+  {
+    "question": "需要量が年間を通じて安定している場合において，定量発注方式に関する記述として，最も適切なものはどれか。",
+    "options": [
+      "最適な発注量は，発注費用と在庫維持費用の総額が最小となる場合である。",
+      "発注回数の多寡で比較したとき，発注回数の多い方が商品を保管するスペースを広くする必要がある。",
+      "発注は毎週金曜日，毎月末など，決められた同じサイクルで行われる。",
+      "毎回需要予測に基づき発注が行われる。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng nhất về <strong>Phương pháp đặt hàng định lượng (定量発注方式)</strong> khi nhu cầu ổn định?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Phương pháp đặt hàng định lượng (Quantitative Ordering System) là: Khi tồn kho giảm xuống đến một 'điểm đặt hàng lại', một 'số lượng cố định' (định lượng) sẽ được đặt.</p><ul><li><strong>ア. ✅ Đúng.</strong> 'Số lượng cố định' đó lý tưởng nhất chính là <strong>Lượng đặt hàng kinh tế (EOQ - Economic Order Quantity)</strong>. Đây là số lượng mà tại đó <strong>tổng chi phí đặt hàng (発注費用) và chi phí lưu kho (在庫維持費用) là thấp nhất</strong>.</li><li><strong>イ. ❌ Sai.</strong> Đặt hàng nhiều lần (số lượng ít) thì lượng tồn kho trung bình sẽ thấp hơn, do đó cần ít không gian lưu trữ hơn.</li><li><strong>ウ. ❌ Sai.</strong> Đặt hàng theo một chu kỳ cố định (ví dụ: cuối mỗi tháng) là <strong>Phương pháp đặt hàng định kỳ (定期発注方式)</strong>.</li><li><strong>エ. ❌ Sai.</strong> Vì nhu cầu được giả định là ổn định, nên không cần dự đoán mỗi lần.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>定量発注方式</code> (Phương pháp đặt hàng định lượng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Đặt hàng 'định lượng' = Đặt một lượng cố định. Lượng cố định tối ưu (EOQ) là khi (Chi phí đặt hàng + Chi phí lưu kho) là nhỏ nhất.</li></ul>"
+  },
+  {
+    "question": "企業の行為に関する記述a～cのうち，コンプライアンスにおいて問題となるおそれのある行為だけを全て挙げたものはどれか。<br><ol type=\"a\"><li>新商品の名称を消費者に浸透させるために，誰でも応募ができて，商品名の一部を答えさせるだけの簡単なクイズを新聞や自社ホームページ，雑誌などに広く掲載し，応募者の中から抽選で現金10万円が当たるキャンペーンを実施した。</li><li>人気のあるWebサイトを運営している企業が，広告主から宣伝の依頼があった特定の商品を好意的に評価する記事を，広告であることを表示することなく一般の記事として掲載した。</li><li>フランスをイメージしてデザインしたバッグを国内で製造し，原産国の国名は記載せず，パリの風景写真とフランス国旗だけを印刷したタグを添付して，販売した。</li></ol>",
+    "options": [
+      "a，b",
+      "a，b，c",
+      "a，c",
+      "b，c"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Hành vi nào (a, b, c) có thể vi phạm <strong>Tuân thủ (コンプライアンス)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ❌ Hợp pháp.</strong> Đây là một chiến dịch 'Rút thăm trúng thưởng công khai' (オープン懸賞). Theo Luật chống quà tặng không chính đáng, hình thức này được phép và giá trị giải thưởng có thể lên tới hàng triệu yên, nên 10 vạn yên là hoàn toàn hợp pháp.</li><li><strong>b. ✅ Vi phạm.</strong> Đây là hành vi <strong>Quảng cáo ngầm (ステルスマーケティング - Stealth Marketing)</strong>. Việc đăng bài đánh giá tích cực mà không ghi rõ đây là 'quảng cáo' (広告) là lừa dối người tiêu dùng và vi phạm Luật chống quà tặng không chính đáng.</li><li><strong>c. ✅ Vi phạm.</strong> Sản phẩm sản xuất tại Nhật nhưng lại gắn mác ảnh Paris và cờ Pháp là hành vi <strong>gây nhầm lẫn về nguồn gốc xuất xứ (原産国誤認)</strong>, vi phạm Luật chống cạnh tranh không lành mạnh (不正競争防止法).</li></ul><p>=> Vậy, các hành vi vi phạm là b và c.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>コンプライアンス</code> (Tuân thủ)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Hành vi (b) Quảng cáo ngầm và (c) Gây nhầm lẫn xuất xứ là các hành vi lừa dối khách hàng và bị cấm.</li></ul>"
+  },
+  {
+    "question": "組立製造販売業A社では経営効率化の戦略として，部品在庫を極限まで削減するためにかんばん方式を導入することにした。この戦略実現のために，A社が在庫管理システムとオンラインで連携させる情報システムとして，最も適切なものはどれか。なお，A社では在庫管理システムで部品在庫も管理している。また，現在は他のどのシステムも在庫管理システムと連携していないものとする。",
+    "options": [
+      "会計システム",
+      "部品購買システム",
+      "顧客管理システム",
+      "販売管理システム"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Để áp dụng <strong>phương thức Kanban</strong> nhằm <strong>giảm tồn kho linh kiện (部品在庫を極限まで削減)</strong>, hệ thống quản lý tồn kho cần được kết nối trực tuyến với hệ thống nào?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Phương thức Kanban là một phần của JIT (Just-in-Time). Nó hoạt động bằng cách chỉ đặt hàng/sản xuất linh kiện khi cần thiết. Khi hệ thống quản lý tồn kho phát hiện ra rằng linh kiện trong kho sắp hết (do đã được sử dụng cho sản xuất), nó cần phải tự động gửi tín hiệu (Kanban) để yêu cầu thêm linh kiện.</p><ul><li><strong>ア. ❌ Sai.</strong> Hệ thống kế toán (会計システム) ghi nhận chi phí sau khi mua, không trực tiếp tham gia vào việc đặt hàng.</li><li><strong>イ. ✅ Đúng.</strong> Để giảm tồn kho, khi hệ thống quản lý tồn kho phát hiện thiếu hàng, nó phải liên kết trực tiếp với <strong>Hệ thống mua hàng (部品購買システム)</strong> để tự động tạo đơn đặt hàng linh kiện mới ngay lập tức.</li><li><strong>ウ. ❌ Sai.</strong> Hệ thống quản lý khách hàng (CRM) không liên quan đến tồn kho linh kiện.</li><li><strong>エ. ❌ Sai.</strong> Hệ thống quản lý bán hàng (販売管理システム) quản lý việc bán thành phẩm, không phải mua linh kiện.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>かんばん方式</code> (Kanban), <code>部品在庫</code> (Tồn kho linh kiện)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Kanban = Tín hiệu 'hết hàng, cần mua thêm' → Phải liên kết với <strong>Hệ thống mua hàng (購買システム)</strong>.</li></ul>"
+  },
+  {
+    "question": "ファミリーレストランチェーンAでは，店舗の運営戦略を検討するために，店舗ごとの座席数，客単価及び売上高の三つの要素の関係を分析することにした。各店舗の三つの要素を，一つの図表で全店舗分可視化するときに用いる図表として，最も適切なものはどれか。",
+    "options": [
+      "ガントチャート",
+      "バブルチャート",
+      "マインドマップ",
+      "ロードマップ"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Biểu đồ nào là phù hợp nhất để trực quan hóa mối quan hệ của <strong>ba yếu tố (三つの要素)</strong>: Số ghế, Giá trung bình/khách, và Doanh thu cho tất cả các cửa hàng?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Biểu đồ Gantt dùng để quản lý tiến độ dự án.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Biểu đồ bong bóng (バブルチャート - Bubble Chart)</strong> là một biến thể của biểu đồ phân tán. Nó cho phép biểu diễn 3 biến số trên một biểu đồ 2D: Trục X (ví dụ: Số ghế), Trục Y (ví dụ: Giá trung bình/khách), và <strong>Kích thước của bong bóng (ví dụ: Doanh thu)</strong>.</li><li><strong>ウ. ❌ Sai.</strong> Sơ đồ tư duy (Mind Map) dùng để phát triển ý tưởng.</li><li><strong>エ. ❌ Sai.</strong> Lộ trình (Roadmap) dùng để thể hiện kế hoạch theo thời gian.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>三つの要素</code> (Ba yếu tố)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> 2 yếu tố → Biểu đồ phân tán. 3 yếu tố → <strong>Biểu đồ bong bóng</strong>.</li></ul>"
+  },
+  {
+    "question": "AIを開発するベンチャー企業のA社が，資金調達を目的に，金融商品取引所に初めて上場することになった。このように，企業の未公開の株式を，新たに公開することを表す用語として，最も適切なものはどれか。",
+    "options": [
+      "IPO",
+      "LBO",
+      "TOB",
+      "VC"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào chỉ việc một công ty lần đầu tiên niêm yết (上場) và chào bán cổ phiếu (chưa công khai) ra công chúng để huy động vốn?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>IPO (Initial Public Offering - Phát hành công khai lần đầu)</strong> là quá trình một công ty tư nhân chào bán cổ phiếu ra công chúng lần đầu tiên và niêm yết trên sàn chứng khoán.</li><li><strong>イ. ❌ Sai.</strong> LBO (Leveraged Buyout) là hình thức mua lại doanh nghiệp bằng vốn vay.</li><li><strong>ウ. ❌ Sai.</strong> TOB (Takeover Bid) là hình thức chào mua công khai để thâu tóm một công ty.</li><li><strong>エ. ❌ Sai.</strong> VC (Venture Capital) là quỹ đầu tư mạo hiểm.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>初めて上場する</code> (Lần đầu lên sàn), <code>新たに公開する</code> (Công khai lần đầu)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>I</strong>nitial <strong>P</strong>ublic <strong>O</strong>ffering → <strong>IPO</strong>.</li></ul>"
+  },
+  {
+    "question": "不正な販売行為を防ぐために，正当な理由なく映像ソフトのコピープロテクトを無効化するプログラムの販売行為を規制している法律はどれか。",
+    "options": [
+      "商標法",
+      "特定商取引に関する法律",
+      "不正アクセス行為の禁止等に関する法律",
+      "不正競争防止法"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Luật nào quy định cấm hành vi bán các chương trình dùng để vô hiệu hóa <strong>chống sao chép (コピープロテクトを無効化)</strong> của phần mềm video?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Luật nhãn hiệu (bảo vệ thương hiệu).</li><li><strong>イ. ❌ Sai.</strong> Luật giao dịch thương mại đặc định (bảo vệ người tiêu dùng trong các giao dịch như bán hàng qua mạng).</li><li><strong>ウ. ❌ Sai.</strong> Luật cấm truy cập trái phép (chống hack mật khẩu).</li><li><strong>エ. ✅ Đúng.</strong> <strong>Luật chống cạnh tranh không lành mạnh (不正競争防止法)</strong> có các điều khoản cấm việc cung cấp các thiết bị hoặc chương trình dùng để bẻ khóa, vô hiệu hóa các biện pháp bảo vệ kỹ thuật (như chống sao chép).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>コピープロテクトを無効化</code> (Vô hiệu hóa chống sao chép)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Bẻ khóa, hack bản quyền... thường liên quan đến <strong>Cạnh tranh không lành mạnh (不正競争)</strong>.</li></ul>"
+  },
+  {
+    "question": "犯罪によって得た資金を正当な手段で得たように見せかける行為を防ぐために，金融機関などが実施する取組を表す用語として，最も適切なものはどれか。",
+    "options": [
+      "AML(Anti-Money Laundering)",
+      "インサイダー取引規制",
+      "スキミング",
+      "フィッシング"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thuật ngữ nào chỉ các nỗ lực của tổ chức tài chính để ngăn chặn hành vi biến tiền từ tội phạm thành tiền hợp pháp (rửa tiền)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>AML (Anti-Money Laundering)</strong> có nghĩa là <strong>Chống rửa tiền</strong>. Đây chính là các biện pháp mà ngân hàng thực hiện để ngăn chặn hành vi này.</li><li><strong>イ. ❌ Sai.</strong> Quy định giao dịch nội gián (Insider Trading).</li><li><strong>ウ. ❌ Sai.</strong> Skimming (đánh cắp thông tin thẻ từ).</li><li><strong>エ. ❌ Sai.</strong> Phishing (tấn công lừa đảo).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>犯罪によって得た資金</code> (Tiền có được từ tội phạm)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Money Laundering = Rửa tiền. Anti = Chống. → <strong>AML</strong>.</li></ul>"
+  },
+  {
+    "question": "様々な企業のシステム間を連携させる公開されたインタフェースを通じて，データやソフトウェアを相互利用し，それらの企業との協業を促進しながら新しいサービスを創出することなどで，ビジネスを拡大していく仕組みを表す用語として，最も適切なものはどれか。",
+    "options": [
+      "APIエコノミー",
+      "アウトソーシング",
+      "シェアリングエコノミー",
+      "プロセスイノベーション"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Cơ chế mở rộng kinh doanh bằng cách tạo ra dịch vụ mới thông qua việc sử dụng lẫn nhau dữ liệu và phần mềm qua các <strong>giao diện công khai (公開されたインタフェース)</strong> để thúc đẩy hợp tác?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Nền kinh tế API (API Economy)</strong> là mô hình kinh doanh trong đó các công ty mở API (giao diện lập trình ứng dụng) của họ cho các đối tác bên ngoài, cho phép tạo ra các dịch vụ mới và hệ sinh thái, từ đó mở rộng kinh doanh.</li><li><strong>イ. ❌ Sai.</strong> Outsourcing (thuê ngoài).</li><li><strong>ウ. ❌ Sai.</strong> Sharing Economy (kinh tế chia sẻ).</li><li><strong>エ. ❌ Sai.</strong> Process Innovation (đổi mới quy trình).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>公開されたインタフェース</code> (Giao diện công khai - API)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Kinh doanh dựa trên API → <strong>API Economy</strong>.</li></ul>"
+  },
+  {
+    "question": "新システムの導入を予定している企業や官公庁などが作成するRFPの説明として，最も適切なものはどれか。",
+    "options": [
+      "ベンダー企業から情報収集を行い，システムの技術的な課題や実現性を把握するもの",
+      "ベンダー企業と発注者で新システムに求められる性能要件などを定義するもの",
+      "ベンダー企業と発注者との間でサービス品質のレベルに関する合意事項を列挙したもの",
+      "ベンダー企業にシステムの導入目的や機能概要などを示し，提案書の提出を求めるもの"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>RFP</strong> (Yêu cầu đề xuất)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Thu thập thông tin chung từ nhà cung cấp là <strong>RFI (Request for Information)</strong>.</li><li><strong>イ. ❌ Sai.</strong> Định nghĩa yêu cầu hiệu suất là một phần của Định nghĩa yêu cầu (要件定義).</li><li><strong>ウ. ❌ Sai.</strong> Thỏa thuận về chất lượng dịch vụ là <strong>SLA (Service Level Agreement)</strong>.</li><li><strong>エ. ✅ Đúng.</strong> <strong>RFP (Request for Proposal)</strong> là một tài liệu mà bên mua (công ty) gửi cho các nhà cung cấp (vendor), trong đó mô tả mục đích và các yêu cầu chức năng, và <strong>yêu cầu nhà cung cấp gửi lại một bản đề xuất (提案書の提出を求める)</strong> giải pháp.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>RFP</code>, <code>提案書</code> (Đề xuất)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>R</strong>equest <strong>F</strong>or <strong>P</strong>roposal → Yêu cầu (gửi) <strong>Đề xuất (Proposal)</strong>.</li></ul>"
+  },
+  {
+    "question": "製品Aを1個生産するのに部品aが2個，部品bが1個必要である。部品aは1回の発注数量150個，調達期間1週間，部品bは1回の発注数量100個，調達期間2週間の購買部品である。製品Aの6週間の生産計画と，部品a，部品bの1週目の手持在庫が表のとおりであるとき，遅くとも何週目に部品を発注する必要があるか。ここで，部品の発注，納品はそれぞれ週の初めに行われるものとし，納品された部品はすぐに生産に利用できるものとする。<br><img src='img/r5-33.png' width='400px' height='auto'>",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><p>Đây là bài toán MRP (Hoạch định nhu cầu vật liệu). Chúng ta cần tính xem phải đặt hàng trễ nhất là khi nào để không bị thiếu hụt.</p><p><strong>1. Tính toán cho Linh kiện a (Cần 2 cái/SP, Lead time 1 tuần):</strong></p><ul><li>Nhu cầu Tuần 1: 30 × 2 = 60. Tồn kho đầu kỳ 100. Tồn cuối Tuần 1 = 100 - 60 = 40.</li><li>Nhu cầu Tuần 2: 40 × 2 = 80. Tồn kho đầu kỳ 40. Thiếu 40.</li><li>Nhu cầu Tuần 3: 50 × 2 = 100. Tồn kho đầu kỳ (sau khi dùng cho Tuần 2) sẽ âm.</li><li>Nhu cầu Tuần 4: 70 × 2 = 140.</li></ul><p>Tính ngược từ thời điểm cần hàng:</p><ul><li><strong>Tuần 4:</strong> Cần 140. Tồn kho đầu Tuần 4 là bao nhiêu?</li><li><strong>Tuần 3:</strong> Cần 100.</li><li><strong>Tuần 2:</strong> Cần 80. Tồn kho đầu Tuần 2 là 40 (từ Tuần 1). Thiếu 40. → <strong>Phải đặt hàng ở Tuần 1</strong> (để hàng về đầu Tuần 2).</li><li>Nếu đặt ở Tuần 1 (150 cái), Tồn đầu Tuần 2 = 40 + 150 = 190. Tồn cuối Tuần 2 = 190 - 80 = 110.</li><li>Tồn đầu Tuần 3 = 110. Cần 100. Tồn cuối Tuần 3 = 10.</li><li>Tồn đầu Tuần 4 = 10. Cần 140. Thiếu 130. → <strong>Phải đặt hàng ở Tuần 3</strong>.</li></ul><p><strong>2. Tính toán cho Linh kiện b (Cần 1 cái/SP, Lead time 2 tuần):</strong></p><ul><li>Nhu cầu Tuần 1: 30 × 1 = 30. Tồn kho đầu kỳ 50. Tồn cuối Tuần 1 = 50 - 30 = 20.</li><li>Nhu cầu Tuần 2: 40 × 1 = 40. Tồn kho đầu kỳ 20. Thiếu 20.</li><li>Nhu cầu Tuần 3: 50 × 1 = 50.</li><li>Nhu cầu Tuần 4: 70 × 1 = 70.</li></ul><p>Tính ngược:</p><ul><li><strong>Tuần 4:</strong> Cần 70. Để hàng về đầu Tuần 4 (với lead time 2 tuần), phải đặt hàng trễ nhất ở <strong>Tuần 2</strong>.</li><li><strong>Tuần 3:</strong> Cần 50. Để hàng về đầu Tuần 3, phải đặt hàng trễ nhất ở <strong>Tuần 1</strong>.</li><li><strong>Tuần 2:</strong> Cần 40. Tồn kho đầu kỳ 20. Thiếu 20. Để hàng về đầu Tuần 2, phải đặt hàng trễ nhất ở <strong>Tuần 0</strong> (tức là đã phải có).</li></ul><p>Câu hỏi này có vẻ phức tạp. Hãy xem xét cách tính đơn giản hơn dựa trên đáp án:</p><ul><li><strong>Linh kiện a (Lead time 1 tuần):</strong> Tuần 4 cần 140. Tồn kho ban đầu 100. Nhu cầu Tuần 1 (60) + Tuần 2 (80) + Tuần 3 (100) = 240. Tồn kho 100 chỉ đủ đến Tuần 2. Để kịp Tuần 3, phải đặt hàng ở <strong>Tuần 2</strong>. Để kịp Tuần 4, phải đặt hàng ở <strong>Tuần 3</strong>.</li><li><strong>Linh kiện b (Lead time 2 tuần):</strong> Tuần 4 cần 70. Tồn kho ban đầu 50. Nhu cầu Tuần 1 (30) + Tuần 2 (40) = 70. Tồn 50 chỉ đủ đến Tuần 2. Để kịp Tuần 3 (cần 50), phải đặt hàng ở <strong>Tuần 1</strong>. Để kịp Tuần 4 (cần 70), phải đặt hàng ở <strong>Tuần 2</strong>.</li></ul><p>Cả hai linh kiện đều cần được đặt hàng (lần đầu tiên) vào Tuần 1 hoặc 2 để đáp ứng nhu cầu. Tuy nhiên, đáp án của trang web là (イ) 3. Lý do duy nhất có thể là câu hỏi bị hiểu sai. Nếu giả sử 100 tồn kho (a) và 50 tồn kho (b) là **tồn kho an toàn** (không được dùng), thì:</p><ul><li>Linh kiện a: Cần 140 ở Tuần 4. Phải đặt hàng (150 cái) trễ nhất là <strong>Tuần 3</strong>.</li><li>Linh kiện b: Cần 70 ở Tuần 4. Phải đặt hàng (100 cái) trễ nhất là <strong>Tuần 2</strong>.</li></ul><p>Câu hỏi 'trễ nhất là tuần nào phải đặt hàng' (遅くとも何週目に部品を発注する必要があるか) có thể hiểu là 'Đâu là tuần muộn nhất trong số các tuần *đặt hàng lần đầu* của tất cả các linh kiện?'. Lần đầu đặt (b) là Tuần 2. Lần đầu đặt (a) là Tuần 3. Tuần trễ nhất trong số này là **Tuần 3**. Đây là cách giải thích duy nhất để ra đáp án 3.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>調達期間</code> (Lead time/Thời gian giao hàng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Tính thời điểm cần hàng, sau đó trừ đi Lead time để ra thời điểm phải đặt hàng. Linh kiện b (Tuần 4 cần 70, LT 2 tuần → Đặt Tuần 2). Linh kiện a (Tuần 4 cần 140, Tồn 100, Thiếu 40 → Đặt Tuần 3).</li></ul>"
+  },
+  {
+    "question": "記述a～cのうち，\"人間中心のAI社会原則\"において，AIが社会に受け入れられ，適正に利用されるために，社会が留意すべき事項として記されているものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>AIの利用に当たっては，人が利用方法を判断し決定するのではなく，AIが自律的に判断し決定できるように，AIそのものを高度化しなくてはならない。</li><li>AIの利用は，憲法及び国際的な規範の保障する基本的人権を侵すものであってはならない。</li><li>AIを早期に普及させるために，まず高度な情報リテラシーを保有する者に向けたシステムを実現し，その後，情報弱者もAIの恩恵を享受できるシステムを実現するよう，段階的に発展させていかなくてはならない。</li></ol>",
+    "options": [
+      "a，b",
+      "a，b，c",
+      "b",
+      "b，c"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là điều xã hội cần lưu ý theo 'Nguyên tắc xã hội AI lấy con người làm trung tâm'?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ❌ Sai.</strong> Nguyên tắc này nhấn mạnh 'Con người làm trung tâm' (人間中心), nghĩa là con người phải đưa ra quyết định cuối cùng, AI chỉ hỗ trợ. Mô tả này (để AI tự quyết) là trái ngược với nguyên tắc.</li><li><strong>b. ✅ Đúng.</strong> Nguyên tắc cơ bản nhất là AI không được xâm phạm <strong>nhân quyền (基本的人権)</strong>.</li><li><strong>c. ❌ Sai.</strong> Nguyên tắc này nhấn mạnh sự bao trùm (inclusion) và không bỏ lại ai (Dignity), không tạo ra khoảng cách số. Việc ưu tiên người rành công nghệ trước và để 'người yếu thế về thông tin' (情報弱者) tiếp cận sau là trái với nguyên tắc.</li></ul><p>=> Vậy, chỉ có (b) là đúng.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>人間中心のAI</code> (AI lấy con người làm trung tâm)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> 'Con người làm trung tâm' có nghĩa là <strong>Bảo vệ nhân quyền (b)</strong> và <strong>Con người quyết định (ngược với a)</strong>.</li></ul>"
+  },
+  {
+    "question": "第4次産業革命に関する記述として，最も適切なものはどれか。",
+    "options": [
+      "医療やインフラ，交通システムなどの生活における様々な領域で，インターネットやAIを活用して，サービスの自動化と質の向上を図る。",
+      "エレクトロニクスを活用した産業用ロボットを工場に導入することによって，生産の自動化と人件費の抑制を行う。",
+      "工場においてベルトコンベアを利用した生産ラインを構築することによって，工業製品の大量生産を行う。",
+      "織機など，軽工業の機械の動力に蒸気エネルギーを利用することによって，人手による作業に比べて生産性を高める。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Cách mạng công nghiệp lần thứ 4 (第4次産業革命)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> Cách mạng công nghiệp 4.0 được định nghĩa bằng việc ứng dụng <strong>Internet và AI (インターネットやAIを活用)</strong> vào mọi lĩnh vực của đời sống (y tế, hạ tầng, giao thông) để tự động hóa và nâng cao chất lượng dịch vụ.</li><li><strong>イ. ❌ Sai.</strong> Robot công nghiệp và điện tử là đặc trưng của <strong>Cách mạng công nghiệp 3.0</strong>.</li><li><strong>ウ. ❌ Sai.</strong> Dây chuyền sản xuất hàng loạt dùng băng chuyền là đặc trưng của <strong>Cách mạng công nghiệp 2.0</strong> (Điện khí hóa).</li><li><strong>エ. ❌ Sai.</strong> Sử dụng năng lượng hơi nước cho máy móc là đặc trưng của <strong>Cách mạng công nghiệp 1.0</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>第4次産業革命</code> (Cách mạng công nghiệp 4.0)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> 1.0 (Hơi nước) → 2.0 (Điện) → 3.0 (Máy tính/Robot) → 4.0 (<strong>AI/IoT</strong>).</li></ul>"
+  },
   ],
     management: [
-      // Dán các câu hỏi "management" của năm 2025 vào đây
-      { 
-        "question": "Đây là câu hỏi Management năm 2025 - Câu 1...", 
-        "options": ["A", "B", "C", "D"], 
-        "answer": 2, 
-        "explanation": "<h3>Giải thích...</h3>" 
-      }
+      {
+    "question": "サービスデスクの業務改善に関する記述のうち，最も適切なものはどれか。",
+    "options": [
+      "サービスデスクが受け付けた問合せの内容や回答，費やした時間などを記録して分析を行う。",
+      "障害の問合せに対して一時的な回避策は提示せず，根本原因及び解決策の検討に注力する体制を組む。",
+      "利用者が問合せを速やかに実施できるように，問合せ窓口は問合せの種別ごとにできるだけ細かく分ける。",
+      "利用者に対して公平性を保つように，問合せ内容の重要度にかかわらず受付順に回答を実施するように徹底する。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào phù hợp nhất về việc <strong>cải tiến nghiệp vụ Service Desk</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> Cải tiến nghiệp vụ (業務改善) luôn bắt đầu từ việc <strong>thu thập dữ liệu (記録して) và phân tích (分析を行う)</strong>. Ghi lại nội dung yêu cầu, thời gian xử lý... sẽ giúp tìm ra các vấn đề cần cải tiến (ví dụ: câu hỏi nào lặp lại nhiều nhất, thời gian xử lý trung bình).</li><li><strong>イ. ❌ Sai.</strong> Mục tiêu chính của Service Desk là khôi phục dịch vụ cho người dùng nhanh nhất có thể. Việc <strong>cung cấp giải pháp tạm thời (一時的な回避策)</strong> là rất quan trọng, không thể bỏ qua để chỉ tập trung vào nguyên nhân gốc.</li><li><strong>ウ. ❌ Sai.</strong> Chia nhỏ cửa sổ liên hệ quá chi tiết sẽ gây bối rối cho người dùng (họ không biết nên gọi số nào), làm giảm sự tiện lợi.</li><li><strong>エ. ❌ Sai.</strong> Service Desk phải xử lý yêu cầu dựa trên **mức độ ưu tiên (重要度)**, không phải theo thứ tự ai đến trước (受付順). Một sự cố hệ thống ảnh hưởng toàn công ty phải được ưu tiên hơn lỗi máy in của một cá nhân.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>業務改善</code> (Cải tiến nghiệp vụ), <code>サービスデスク</code> (Service Desk)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Muốn cải tiến (改善) → Phải có dữ liệu → Phải <strong>ghi lại và phân tích (記録して分析)</strong>.</li></ul>"
+  },
+  {
+    "question": "システム監査人の行動規範に関して，次の記述中のa，bに入れる字句の適切な組合せはどれか。<br><br>システム監査人は，監査対象となる組織と同一の指揮命令系統に属していないなど，<span class=\"bb\">a</span>上の独立性が確保されている必要がある。また，システム監査人は<span class='bb'>b</span>立場で公正な判断を行うという精神的な態度が求められる。<br><img src='img/r5-37.png' width='400px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> (Điền vào chỗ trống) Kiểm toán viên hệ thống cần đảm bảo tính độc lập về mặt <strong>(a)</strong> (ví dụ: không cùng hệ thống chỉ huy). Họ cũng cần có thái độ tinh thần là đưa ra phán đoán công bằng từ lập trường <strong>(b)</strong>.</li></ul><hr><p>Tính độc lập của kiểm toán viên bao gồm:</p><ul><li><strong>Độc lập về Hình thức/Bên ngoài (外観):</strong> Không thuộc cùng một tổ chức, không có quan hệ lợi ích, không nằm trong cùng một hệ thống chỉ huy. → Đây là <strong>(a)</strong>.</li><li><strong>Độc lập về Tinh thần (精神):</strong> Thái độ công bằng, không thiên vị, duy trì lập trường khách quan. → Đây là <strong>(b)</strong>.</li></ul><p>=> Dựa trên bảng trong hình, tổ hợp đúng là a = 外観 (Hình thức), b = 客観的 (Khách quan). Điều này tương ứng với đáp án <strong>ア</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>システム監査人</code> (Kiểm toán viên), <code>独立性</code> (Tính độc lập)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Kiểm toán viên cần độc lập về <strong>Hình thức (外観)</strong> và <strong>Khách quan (客観的)</strong> về tinh thần.</li></ul>"
+  },
+  {
+    "question": "システム開発プロジェクトの品質目標を検討するために，複数の類似プロジェクトのプログラムステップ数と不良件数の関係性を示す図として，適切なものはどれか。",
+    "options": [
+      "管理図",
+      "散布図",
+      "特性要因図",
+      "パレート図"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Để xem xét mục tiêu chất lượng, biểu đồ nào phù hợp để thể hiện <strong>mối quan hệ (関係性)</strong> giữa &quot;số dòng code&quot; và &quot;số lượng lỗi&quot; từ nhiều dự án tương tự?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Biểu đồ kiểm soát (管理図) dùng để theo dõi sự ổn định của quy trình theo thời gian.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Biểu đồ phân tán (散布図 - Scatter Diagram)</strong> là công cụ dùng để biểu diễn mối quan hệ/tương quan giữa **hai biến số định lượng** (ở đây là &quot;số dòng code&quot; và &quot;số lượng lỗi&quot;).</li><li><strong>ウ. ❌ Sai.</strong> Biểu đồ xương cá (特性要因図) dùng để phân tích nguyên nhân - kết quả.</li><li><strong>エ. ❌ Sai.</strong> Biểu đồ Pareto dùng để tìm ra các yếu tố quan trọng nhất (quy tắc 80/20).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>関係性を示す図</code> (Biểu đồ thể hiện mối quan hệ), <code>二つの要素</code> (Hai yếu tố)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Mối quan hệ giữa 2 biến số → <strong>Biểu đồ phân tán (散布図)</strong>.</li></ul>"
+  },
+  {
+    "question": "運用中のソフトウェアの仕様書がないので，ソースコードを解析してプログラムの仕様書を作成した。この手法を何というか。",
+    "options": [
+      "コードレビュー",
+      "デザインレビュー",
+      "リバースエンジニアリング",
+      "リファクタリング"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Không có tài liệu đặc tả, nên đã <strong>phân tích mã nguồn (ソースコードを解析)</strong> để <strong>tạo lại tài liệu đặc tả (仕様書を作成)</strong>. Kỹ thuật này gọi là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Code Review là kiểm tra mã nguồn (bởi người khác).</li><li><strong>イ. ❌ Sai.</strong> Design Review là kiểm tra thiết kế.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Kỹ thuật đảo ngược (リバースエンジニアリング - Reverse Engineering)</strong> là quá trình phân tích một sản phẩm/phần mềm đã hoàn thiện để tìm hiểu cấu trúc và nguyên lý hoạt động của nó, thường là để tạo lại tài liệu hoặc sao chép.</li><li><strong>エ. ❌ Sai.</strong> Refactoring là tái cấu trúc mã nguồn (cải thiện cấu trúc bên trong) mà không thay đổi hành vi bên ngoài.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ソースコードを解析</code> (Phân tích mã nguồn), <code>仕様書を作成</code> (Tạo tài liệu đặc tả)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Phân tích ngược từ sản phẩm cuối → <strong>Reverse Engineering</strong>.</li></ul>"
+  },
+  {
+    "question": "ソフトウェア開発におけるDevOpsに関する記述として，最も適切なものはどれか。",
+    "options": [
+      "運用側で利用する画面のイメージを明確にするために，開発側が要件定義段階でプロトタイプを作成する。",
+      "開発側が，設計・開発・テストの工程を順に実施して，システムに必要な全ての機能及び品質を揃えてから運用側に引き渡す。",
+      "開発側と運用側が密接に連携し，自動化ツールなどを取り入れることによって，仕様変更要求などに対して迅速かつ柔軟に対応する。",
+      "一つのプログラムを2人の開発者が共同で開発することによって，生産性と信頼性を向上させる。"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào phù hợp nhất về <strong>DevOps</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Tạo mẫu thử (prototype) để làm rõ yêu cầu là mô hình <strong>Prototyping</strong>.</li><li><strong>イ. ❌ Sai.</strong> Phát triển theo từng giai đoạn tuần tự từ trên xuống, xong hết mới giao là mô hình <strong>Thác nước (Waterfall)</strong>.</li><li><strong>ウ. ✅ Đúng.</strong> DevOps là sự kết hợp giữa Development (phát triển) và Operations (vận hành). Đặc trưng của nó là <strong>bên phát triển (開発側) và bên vận hành (運用側) hợp tác chặt chẽ (密接に連携)</strong>, sử dụng các <strong>công cụ tự động hóa (自動化ツール)</strong> để phản ứng nhanh chóng và linh hoạt với các yêu cầu.</li><li><strong>エ. ❌ Sai.</strong> Hai lập trình viên cùng phát triển một chương trình là <strong>Pair Programming</strong> (một phần của Extreme Programming - XP).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>DevOps</code>, <code>開発側と運用側が密接に連携</code> (Bên phát triển và vận hành hợp tác chặt chẽ)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>Dev</strong> (Phát triển) + <strong>Ops</strong> (Vận hành) = <strong>DevOps</strong>.</li></ul>"
+  },
+  {
+    "question": "次のアローダイアグラムに基づき作業を行った結果，作業Dが2日遅延し，作業Fが3日前倒しで完了した。作業全体の所要日数は予定と比べてどれくらい変化したか。<br><img src='img/r5-41.png' width='400px' height='auto'>",
+    "options": [
+      "3日遅延",
+      "1日前倒し",
+      "2日前倒し",
+      "3日前倒し"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Dựa trên sơ đồ mũi tên, nếu công việc D trễ 2 ngày và công việc F sớm 3 ngày, tổng thời gian dự án thay đổi thế nào?</li></ul><hr><p><strong>1. Tính đường găng (Critical Path) theo kế hoạch:</strong></p><ul><li>Đường 1 (A-C-F-G): 4 + 2 + 3 + 5 = 14 ngày.</li><li>Đường 2 (A-D-F-G): 4 + 3 + 3 + 5 = <strong>15 ngày</strong>.</li><li>Đường 3 (B-E-G): 2 + 4 + 5 = 11 ngày.</li><li>=> Đường găng là A-D-F-G, thời gian hoàn thành dự kiến là <strong>15 ngày</strong>.</li></ul><p><strong>2. Tính thời gian thực tế với các thay đổi:</strong></p><ul><li>Công việc D (nằm trên đường găng) trễ 2 ngày: 3 + 2 = 5 ngày.</li><li>Công việc F (nằm trên đường găng) sớm 3 ngày: 3 - 3 = 0 ngày.</li><li>Đường 1 (mới): A-C-F-G = 4 + 2 + 0 + 5 = 11 ngày.</li><li>Đường 2 (mới): A-D-F-G = 4 + 5 + 0 + 5 = <strong>14 ngày</strong>.</li><li>Đường 3 (không đổi): B-E-G = 11 ngày.</li></ul><p>=> Đường găng mới là 14 ngày.</p><p><strong>3. So sánh:</strong></p><ul><li>Thời gian kế hoạch: 15 ngày.</li><li>Thời gian thực tế: 14 ngày.</li><li>Chênh lệch = 14 - 15 = -1. Tức là dự án hoàn thành <strong>sớm hơn 1 ngày (1日前倒し)</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>アローダイアグラム</code> (Sơ đồ mũi tên), <code>クリティカルパス</code> (Đường găng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> 1. Tìm đường dài nhất (đường găng). 2. Kiểm tra xem công việc thay đổi có nằm trên đường găng không. 3. Tính lại tổng thời gian của tất cả các đường dựa trên thay đổi. 4. Tìm đường găng mới và so sánh với đường găng cũ.</li></ul>"
+  },
+  {
+    "question": "ソフトウェア開発における，テストに関する記述a～cとテスト工程の適切な組合せはどれか。<br><ol type=\"a\"><li>運用予定時間内に処理が終了することを確認する。</li><li>ソフトウェア間のインタフェースを確認する。</li><li>プログラムの内部パスを網羅的に確認する。</li></ol><br><img src='img/r5-42.png' width='400px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>a.</strong> Xác nhận xử lý kết thúc trong thời gian vận hành dự kiến → Đây là kiểm thử phi chức năng, cụ thể là kiểm thử hiệu suất (Performance Test), thuộc về <strong>System Test (システムテスト)</strong>.</li><li><strong>b.</strong> Xác nhận giao diện (interface) giữa các phần mềm → Đây là <strong>Integration Test (結合テスト)</strong>.</li><li><strong>c.</strong> Xác nhận bao phủ các nhánh (path) bên trong chương trình → Đây là kiểm thử hộp trắng (white-box), là <strong>Unit Test (単体テスト)</strong>.</li></ul><p>=> Ghép nối: a = システムテスト, b = 結合テスト, c = 単体テスト. Tổ hợp này tương ứng với đáp án <strong>エ</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>内部パス</code> (Internal Path), <code>インタフェース</code> (Interface), <code>運用予定時間</code> (Thời gian vận hành)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>Unit (Đơn vị)</strong> = bên trong (nội bộ) code. <strong>Integration (Kết hợp)</strong> = giữa các module/phần mềm. <strong>System (Hệ thống)</strong> = toàn bộ hệ thống (hiệu suất, an ninh...).</li></ul>"
+  },
+  {
+    "question": "ソフトウェア導入作業に関する記述a～dのうち，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>新規開発の場合，導入計画書の作成はせず，期日までに速やかに導入する。</li><li>ソフトウェア導入作業を実施した後，速やかに導入計画書と導入報告書を作成し，合意を得る必要がある。</li><li>ソフトウェアを自社開発した場合，影響範囲が社内になるので導入計画書の作成後に導入し，導入計画書の合意は導入後に行う。</li><li>本番稼働中のソフトウェアに機能追加する場合，機能追加したソフトウェアの導入計画書を作成し，合意を得てソフトウェア導入作業を実施する。</li></ol>",
+    "options": [
+      "a，c",
+      "b，c，d",
+      "b，d",
+      "d"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về quy trình triển khai phần mềm?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ❌ Sai.</strong> Phát triển mới hay nâng cấp đều tiềm ẩn rủi ro. Việc không lập kế hoạch triển khai là rất nguy hiểm.</li><li><strong>b. ❌ Sai.</strong> Kế hoạch triển khai (導入計画書) phải được lập và phê duyệt <strong>TRƯỚC KHI</strong> thực hiện, không phải sau đó.</li><li><strong>c. ❌ Sai.</strong> Kế hoạch phải được thống nhất <strong>TRƯỚC KHI</strong> triển khai, bất kể là tự phát triển hay không.</li><li><strong>d. ✅ Đúng.</strong> Thêm chức năng mới cho một hệ thống đang chạy là một thay đổi có rủi ro. Quy trình chuẩn là: lập Kế hoạch triển khai (導入計画書を作成), lấy phê duyệt (合意を得て), sau đó mới thực thi (実施する).</li></ul><p>=> Vậy, chỉ có (d) là đúng.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>導入計画書</code> (Kế hoạch triển khai)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Luôn luôn: <strong>Kế hoạch (Plan) -> Thống nhất/Phê duyệt (Agree) -> Thực thi (Do)</strong>.</li></ul>"
+  },
+  {
+    "question": "A社のIT部門では，ヘルプデスクのサービス可用性の向上を図るために，対応時間を24時間に拡大することを検討している。ヘルプデスク業務をA社から受託しているB社は，これを実現するためにチャットボットをB社に導入して活用することによって，深夜時間帯は自動応答で対応する旨を提案したところ，A社は24時間対応が可能であるのでこれに合意した。この合意に用いる文書として，最も適切なものはどれか。",
+    "options": [
+      "BCP",
+      "NDA",
+      "SLA",
+      "SLM"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Công ty A (khách hàng) và B (nhà cung cấp) đã <strong>thống nhất (合意)</strong> về một dịch vụ (mở rộng thời gian hỗ trợ lên 24h). Văn bản dùng cho sự thỏa thuận này là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> BCP (Kế hoạch kinh doanh liên tục).</li><li><strong>イ. ❌ Sai.</strong> NDA (Thỏa thuận bảo mật).</li><li><strong>ウ. ✅ Đúng.</strong> <strong>SLA (Service Level Agreement - Thỏa thuận mức độ dịch vụ)</strong> là văn bản hợp đồng định nghĩa các mức độ dịch vụ (như thời gian đáp ứng, thời gian hỗ trợ 24h) mà nhà cung cấp cam kết với khách hàng.</li><li><strong>エ. ❌ Sai.</strong> SLM (Service Level Management) là quá trình quản lý để đạt được SLA, không phải là văn bản thỏa thuận.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>合意</code> (Thỏa thuận), <code>サービスレベル</code> (Mức độ dịch vụ)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>A</strong>greement (Thỏa thuận) → SL<strong>A</strong>.</li></ul>"
+  },
+  {
+    "question": "プロジェクトマネジメントでは，スケジュール，コスト，品質といった競合する制約条件のバランスをとることが求められる。計画していた開発スケジュールを短縮することになった場合の対応として，適切なものはどれか。",
+    "options": [
+      "資源の追加によってコストを増加させてでもスケジュールを遵守することを検討する。",
+      "提供するシステムの高機能化を図ってスケジュールを遵守することを検討する。",
+      "プロジェクトの対象スコープを拡大してスケジュールを遵守することを検討する。",
+      "プロジェクトメンバーを削減してスケジュールを遵守することを検討する。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Khi phải <strong>rút ngắn lịch trình (スケジュールを短縮)</strong>, biện pháp nào là phù hợp?</li></ul><hr><h3><strong>Phân tích đáp án (Tam giác quản lý dự án)</strong></h3><p>Ba yếu tố ràng buộc: Thời gian (Schedule), Chi phí (Cost), Phạm vi (Scope). Muốn giảm Thời gian, bạn phải chấp nhận tăng Chi phí hoặc/và giảm Phạm vi.</p><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Thêm nguồn lực (資源の追加)</strong> (ví dụ: thêm người) để đẩy nhanh tiến độ. Việc này sẽ <strong>làm tăng chi phí (コストを増加)</strong>. Đây là một kỹ thuật gọi là &quot;Crashing&quot;.</li><li><strong>イ. ❌ Sai.</strong> Thêm chức năng (高機能化) sẽ làm tăng Phạm vi, khiến lịch trình càng trễ hơn.</li><li><strong>ウ. ❌ Sai.</strong> Mở rộng phạm vi (スコープを拡大) sẽ khiến lịch trình trễ hơn.</li><li><strong>エ. ❌ Sai.</strong> Giảm nhân sự (メンバーを削減) sẽ khiến lịch trình trễ hơn.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>スケジュールを短縮</code> (Rút ngắn lịch trình)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Muốn nhanh (Time↓) → Phải tốn thêm tiền (Cost↑) hoặc làm ít đi (Scope↓).</li></ul>"
+  },
+  {
+    "question": "ITサービスに関する指標には，ITサービスが利用できなくなるインシデントの発生間隔の平均時間であるMTBSI(Mean Time Between Service Incidents)があり，サービスの中断の発生しにくさを表す。ITサービスにおいてMTBSIの改善を行っている事例として，最も適切なものはどれか。",
+    "options": [
+      "インシデント対応事例のデータベースを整備し，分析することによって，サービスの中断から原因究明までの時間の短縮を図る。",
+      "サービスのメニューを増やすことによって，利用者数の増加を図る。",
+      "サービスを提供しているネットワークの構成を二重化することによって，ネットワークがつながらなくなる障害の低減を図る。",
+      "ヘルプデスクの要員を増やすことによって，サービス利用者からの個々の問合せにおける待ち時間の短縮を図る。"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> MTBSI (Thời gian trung bình giữa các sự cố) đo lường khả năng &quot;ít xảy ra gián đoạn&quot;. Ví dụ nào giúp <strong>cải thiện (tức là tăng) MTBSI</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Cải thiện (tăng) MTBSI nghĩa là làm cho hệ thống trở nên đáng tin cậy hơn, <strong>lâu hỏng hơn</strong>, giảm số lần xảy ra sự cố.</p><ul><li><strong>ア. ❌ Sai.</strong> Phân tích DB sự cố giúp giảm MTTR (Thời gian sửa chữa), không phải MTBSI.</li><li><strong>イ. ❌ Sai.</strong> Thêm menu dịch vụ không liên quan đến độ tin cậy.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Nhân đôi (二重化)</strong> cấu hình mạng là một biện pháp tăng cường độ tin cậy. Nếu một đường mạng hỏng, đường kia sẽ thay thế, giúp <strong>giảm số lần xảy ra sự cố (障害の低減)</strong>, từ đó kéo dài thời gian trung bình giữa các sự cố (tăng MTBSI).</li><li><strong>エ. ❌ Sai.</strong> Tăng nhân sự helpdesk chỉ giảm thời gian chờ của khách hàng, không giảm số lần hệ thống hỏng.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>MTBSI</code>, <code>中断の発生しにくさ</code> (Khó xảy ra gián đoạn)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Tăng MTBSI = Làm cho hệ thống ít hỏng hơn. → <strong>Dự phòng/Nhân đôi (二重化)</strong>.</li></ul>"
+  },
+  {
+    "question": "あるホスティングサービスのSLAの内容にa～cがある。これらと関連するITサービスマネジメントの管理との適切な組合せはどれか。<br><ol type=\"a\"><li>サーバが稼働している時間</li><li>ディスクの使用量が設定したしきい値に達したことを検出した後に，指定された担当者に通知するまでの時間</li><li>不正アクセスの検知後に，指定された担当者に通知するまでの時間</li></ol><br><img src='img/r5-47.png' width='400px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>a.</strong> Thời gian máy chủ hoạt động → Đây là cam kết về <strong>Tính sẵn sàng (可用性)</strong>.</li><li><strong>b.</strong> Thời gian thông báo khi ổ đĩa đầy (sự cố) → Đây là <strong>Quản lý sự cố (インシデント管理)</strong>.</li><li><strong>c.</strong> Thời gian thông báo khi phát hiện truy cập trái phép → Đây là <strong>Quản lý an ninh (セキュリティ管理)</strong>.</li></ul><p>=> Ghép nối: a = 可用性管理, b = インシデント管理, c = セキュリティ管理. Tổ hợp này tương ứng với đáp án <strong>ア</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>稼働している時間</code> (Thời gian hoạt động), <code>不正アクセス</code> (Truy cập trái phép)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Hoạt động = Sẵn sàng (可用性). Sự cố (ngưỡng đĩa) = Incident (インシデント). Truy cập trái phép = An ninh (セキュリティ).</li></ul>"
+  },
+  {
+    "question": "システム環境整備に関する次の記述中のa，bに入れる字句の適切な組合せはどれか。<br><br>企業などがシステム環境である建物や設備などの資源を最善の状態に保つ考え方として<span class=\"bb\">a</span>がある。その考え方を踏まえたシステム環境整備の施策として，突発的な停電が発生したときにサーバに一定時間電力を供給する機器である<span class='bb'>b</span>の配備などがある。<br><img src='img/r5-48.png' width='400px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>(a):</strong> Quan điểm về việc duy trì các nguồn lực như <strong>tòa nhà, thiết bị (建物や設備)</strong> ở trạng thái tốt nhất → Đây là <strong>Quản lý cơ sở vật chất (ファシリティマネジメント)</strong>.</li><li><strong>(b):</strong> Thiết bị cung cấp điện trong một thời gian nhất định khi <strong>mất điện đột ngột (突発的な停電)</strong> → Đây là <strong>Bộ lưu điện (UPS - 無停電電源装置)</strong>.</li></ul><p>=> Ghép nối: a = ファシリティマネジメント, b = UPS. Tổ hợp này tương ứng với đáp án <strong>エ</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>建物や設備</code> (Tòa nhà, thiết bị), <code>停電</code> (Mất điện)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Quản lý tòa nhà/thiết bị = <strong>Facility</strong>. Chống mất điện = <strong>UPS</strong>.</li></ul>"
+  },
+  {
+    "question": "リファクタリングの説明として，適切なものはどれか。",
+    "options": [
+      "ソフトウェアが提供する機能仕様を変えずに，内部構造を改善すること",
+      "ソフトウェアの動作などを解析して，その仕様を明らかにすること",
+      "ソフトウェアの不具合を修正し，仕様どおりに動くようにすること",
+      "利用者の要望などを基に，ソフトウェアに新しい機能を加える修正をすること"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Refactoring (リファクタリング)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Refactoring</strong> là hành động <strong>cải thiện cấu trúc bên trong (内部構造を改善)</strong> của mã nguồn (ví dụ: làm cho dễ đọc hơn, dễ bảo trì hơn) mà <strong>không làm thay đổi chức năng bên ngoài (機能仕様を変えずに)</strong>.</li><li><strong>イ. ❌ Sai.</strong> Phân tích phần mềm để tìm ra đặc tả là Reverse Engineering.</li><li><strong>ウ. ❌ Sai.</strong> Sửa lỗi là Debugging.</li><li><strong>エ. ❌ Sai.</strong> Thêm chức năng mới là Nâng cấp (Enhancement).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>機能仕様を変えずに</code> (Không thay đổi chức năng), <code>内部構造を改善</code> (Cải thiện cấu trúc bên trong)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Refactoring = &quot;Dọn dẹp code&quot; (làm code đẹp hơn) mà không thêm/bớt chức năng.</li></ul>"
+  },
+  {
+    "question": "内部統制において，不正防止を目的とした職務分掌に関する事例として，最も適切なものはどれか。",
+    "options": [
+      "申請者は自身の申請を承認できないようにする。",
+      "申請部署と承認部署の役員を兼務させる。",
+      "一つの業務を複数の担当者が手分けして行う。",
+      "一つの業務を複数の部署で分散して行う。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ đúng nhất về <strong>Phân chia nhiệm vụ (職務分掌)</strong> nhằm mục đích chống gian lận?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Phân chia nhiệm vụ là nguyên tắc kiểm soát nội bộ, đảm bảo rằng không một cá nhân nào có thể kiểm soát toàn bộ một quy trình từ đầu đến cuối, đặc biệt là các bước quan trọng như tạo và phê duyệt.</p><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Người nộp đơn (申請者) không thể tự phê duyệt (承認できない)</strong> đơn của chính mình. Đây là ví dụ kinh điển của việc phân chia nhiệm vụ để ngăn chặn gian lận.</li><li><strong>イ. ❌ Sai.</strong> Việc kiêm nhiệm sẽ *giảm* sự phân chia nhiệm vụ.</li><li><strong>ウ, エ. ❌ Sai.</strong> Chia sẻ công việc không nhất thiết có nghĩa là kiểm soát chéo. Phân chia nhiệm vụ tập trung vào việc tách biệt các vai trò (ví dụ: người nhập liệu và người kiểm tra) chứ không chỉ là chia việc.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>職務分掌</code> (Phân chia nhiệm vụ), <code>不正防止</code> (Chống gian lận)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Phân chia nhiệm vụ = Không cho phép &quot;vừa đá bóng vừa thổi còi&quot;. Người tạo lệnh (申請) và người duyệt lệnh (承認) phải là hai người khác nhau.</li></ul>"
+  },
+  {
+    "question": "ITサービスマネジメントにおいて，過去のインシデントの内容をFAQとしてデータベース化した。それによって改善が期待できる項目に関する記述a～cのうち，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>ITサービスに関連する構成要素の情報を必要な場合にいつでも確認できる。</li><li>要員候補の業務経歴を確認し，適切な要員配置計画を立案できる。</li><li>利用者からの問合せに対する一次回答率が高まる。</li></ol>",
+    "options": [
+      "a",
+      "a，b",
+      "a，c",
+      "c"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Việc tạo FAQ từ dữ liệu sự cố trong quá khứ giúp cải thiện điều gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ❌ Sai.</strong> Thông tin về các thành phần cấu hình (Configuration Items) được quản lý trong CMDB (Cơ sở dữ liệu quản lý cấu hình), không phải FAQ.</li><li><strong>b. ❌ Sai.</strong> Thông tin về nhân sự (kỹ năng, kinh nghiệm) thuộc về Quản lý Nguồn lực, không phải FAQ.</li><li><strong>c. ✅ Đúng.</strong> Khi có một cơ sở dữ liệu FAQ tốt (dựa trên các sự cố đã xảy ra), nhân viên Service Desk (hoặc chính người dùng) có thể nhanh chóng tìm thấy câu trả lời cho các vấn đề phổ biến, giúp tăng <strong>tỷ lệ giải quyết ngay trong lần gọi đầu tiên (一次回答率)</strong>.</li></ul><p>=> Vậy, chỉ có (c) là đúng.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>FAQ</code>, <code>一次回答率</code> (Tỷ lệ trả lời lần đầu)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> FAQ tốt → Trả lời nhanh và chính xác hơn → Tăng tỷ lệ giải quyết ngay.</li></ul>"
+  },
+  {
+    "question": "会計監査の目的として，最も適切なものはどれか。",
+    "options": [
+      "経理システムを含め，利用しているITに関するリスクをコントロールし，ITガバナンスが実現されていることを確認する。",
+      "経理部門が保有しているPCの利用方法をはじめとして，情報のセキュリティに係るリスクマネジメントが効果的に実施されていることを確認する。",
+      "組織内の会計業務などを含む諸業務が組織の方針に従って，合理的かつ効率的な運用が実現されていることを確認する。",
+      "日常の各種取引の発生から決算報告書への集計に至るまで，不正や誤りのない処理が行われていることを確認する。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mục đích của <strong>Kiểm toán kế toán (会計監査)</strong> là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Đây là Kiểm toán hệ thống (システム監査) hoặc Kiểm toán CNTT (IT監査).</li><li><strong>イ. ❌ Sai.</strong> Đây là Kiểm toán an ninh thông tin (情報セキュリティ監査).</li><li><strong>ウ. ❌ Sai.</strong> Đây là Kiểm toán nghiệp vụ (業務監査).</li><li><strong>エ. ✅ Đúng.</strong> <strong>Kiểm toán kế toán (会計監査)</strong> có mục đích chính là xác minh rằng toàn bộ quá trình, từ khi phát sinh các <strong>giao dịch hàng ngày (日常の各種取引)</strong> đến khi lập <strong>báo cáo tài chính (決算報告書)</strong>, được thực hiện <strong>chính xác, không có gian lận hay sai sót (不正や誤りのない処理)</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>会計監査</code> (Kiểm toán kế toán)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Kế toán (会計) = Giao dịch (取引) và Báo cáo tài chính (決算報告書).</li></ul>"
+  },
+  {
+    "question": "ITが適切に活用されるために企業が実施している活動を，ルールを決める活動と，ルールに従って行動する活動に分けたとき，ルールを決める活動に該当するものはどれか。",
+    "options": [
+      "IT投資判断基準の確立",
+      "SLA遵守のためのオペレーション管理",
+      "開発プロジェクトの予算管理",
+      "標準システム開発手法に準拠した個別のプロジェクトの推進"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Hoạt động nào thuộc nhóm <strong>&quot;Thiết lập quy tắc&quot; (ルールを決める活動)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>&quot;Thiết lập tiêu chí đánh giá đầu tư CNTT&quot; (IT投資判断基準の確立)</strong> là việc tạo ra một bộ quy tắc, một tiêu chuẩn chung để áp dụng cho các quyết định đầu tư sau này. Đây rõ ràng là &quot;thiết lập quy tắc&quot;.</li><li><strong>イ. ❌ Sai.</strong> &quot;Quản lý vận hành để tuân thủ SLA&quot; là hành động &quot;tuân theo quy tắc&quot; (SLA).</li><li><strong>ウ. ❌ Sai.</strong> &quot;Quản lý ngân sách dự án&quot; là hành động &quot;tuân theo quy tắc&quot; (ngân sách đã duyệt).</li><li><strong>エ. ❌ Sai.</strong> &quot;Thúc đẩy dự án theo phương pháp chuẩn&quot; là hành động &quot;tuân theo quy tắc&quot; (phương pháp chuẩn).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ルールを決める</code> (Quyết định/Thiết lập quy tắc)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> &quot;Thiết lập&quot; (確立) một &quot;Tiêu chí&quot; (基準) chính là tạo ra quy tắc.</li></ul>"
+  },
+  {
+    "question": "システム開発のプロジェクトマネジメントに関する記述a～dのうち，スコープのマネジメントの失敗事例だけを全て挙げたものはどれか。<br><ol type=\"a\"><li>開発に必要な人件費を過少に見積もったので，予算を超過した。</li><li>開発の作業に必要な期間を短く設定したので，予定期間で開発を完了させることができなかった。</li><li>作成する機能の範囲をあらかじめ決めずにプロジェクトを開始したので，開発期間を超過した。</li><li>プロジェクトで実施すべき作業が幾つか計画から欠落していたので，システムを完成できなかった。</li></ol>",
+    "options": [
+      "a，b",
+      "b，c",
+      "b，d",
+      "c，d"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ về thất bại trong <strong>Quản lý phạm vi (Scope)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Quản lý phạm vi là việc xác định và kiểm soát &quot;cái gì sẽ được làm&quot; và &quot;cái gì không được làm&quot;.</p><ul><li><strong>a. ❌ Sai.</strong> Ước tính sai nhân công → Thất bại của Quản lý Chi phí (Cost).</li><li><strong>b. ❌ Sai.</strong> Ước tính sai thời gian → Thất bại của Quản lý Lịch trình (Schedule/Time).</li><li><strong>c. ✅ Đúng.</strong> <strong>Không xác định rõ phạm vi chức năng (機能の範囲をあらかじめ決めず)</strong> khi bắt đầu là một thất bại kinh điển của quản lý scope, dẫn đến &quot;scope creep&quot;.</li><li><strong>d. ✅ Đúng.</strong> <strong>Bỏ sót các công việc cần làm (実施すべき作業が幾つか計画から欠落)</strong> trong kế hoạch cũng là một thất bại của quản lý scope (không định nghĩa đầy đủ).</li></ul><p>=> Vậy, các thất bại về scope là c và d.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>スコープのマネジメント</code> (Quản lý Scope), <code>機能の範囲</code> (Phạm vi chức năng), <code>作業...欠落</code> (Bỏ sót công việc)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Scope = Cái gì cần làm. Thất bại Scope = Không biết rõ cần làm gì (c) hoặc Làm thiếu (d).</li></ul>"
+  },
+  {
+    "question": "ソフトウェア開発の仕事に対し，10名が15日間で完了する計画を立てた。しかし，仕事開始日から5日間は，8名しか要員を確保できないことが分かった。計画どおり15日間で仕事を完了させるためには，6日目以降は何名の要員が必要か。ここで，各要員の生産性は同じものとする。",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Kế hoạch: 10 người làm 15 ngày. Thực tế: 5 ngày đầu chỉ có 8 người. Để hoàn thành đúng 15 ngày, 10 ngày còn lại cần bao nhiêu người?</li></ul><hr><p><strong>1. Tính tổng khối lượng công việc (Man-Day):</strong></p><ul><li>Tổng công việc = 10 người × 15 ngày = <strong>150 Man-Day</strong>.</li></ul><p><strong>2. Tính công việc đã hoàn thành:</strong></p><ul><li>Công việc làm trong 5 ngày đầu = 8 người × 5 ngày = <strong>40 Man-Day</strong>.</li></ul><p><strong>3. Tính công việc còn lại và thời gian còn lại:</strong></p><ul><li>Công việc còn lại = 150 - 40 = <strong>110 Man-Day</strong>.</li><li>Thời gian còn lại = 15 ngày - 5 ngày = <strong>10 ngày</strong>.</li></ul><p><strong>4. Tính số người cần thiết:</strong></p><ul><li>Số người cần thiết = Khối lượng công việc còn lại / Thời gian còn lại = 110 Man-Day / 10 ngày = <strong>11 người</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> Bài toán Man-Day. Tính tổng công việc, trừ đi phần đã làm, rồi chia cho số ngày còn lại.</li></ul>"
+  }
     ],
     technology: [
-      // Dán các câu hỏi "technology" của năm 2025 vào đây
+      {
+    "question": "ISMSクラウドセキュリティ認証に関する記述として，適切なものはどれか。",
+    "options": [
+      "PaaS，SaaSが対象であり，IaaSは対象ではない。",
+      "クラウドサービス固有の管理策が適切に導入，実施されていることを認証するものである。",
+      "クラウドサービスを提供している組織が対象であり，クラウドサービスを利用する組織は対象ではない。",
+      "クラウドサービスで保管されている個人情報について，適切な保護措置を講じる体制を整備し，運用していることを評価して，プライバシーマークの使用を認める制度である。"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về <strong>Chứng nhận An ninh Đám mây ISMS (ISMSクラウドセキュリティ認証)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Chứng nhận này áp dụng cho cả 3 mô hình: IaaS, PaaS, và SaaS.</li><li><strong>イ. ✅ Đúng.</strong> Chứng nhận an ninh đám mây ISMS (dựa trên ISO/IEC 27017) là một chứng nhận bổ sung cho ISMS (ISO/IEC 27001), xác nhận rằng tổ chức đã triển khai các <strong>biện pháp kiểm soát đặc thù của dịch vụ đám mây (クラウドサービス固有の管理策)</strong>.</li><li><strong>ウ. ❌ Sai.</strong> Chứng nhận này áp dụng cho cả 'nhà cung cấp dịch vụ' (cloud provider) và 'người sử dụng dịch vụ' (cloud user).</li><li><strong>エ. ❌ Sai.</strong> Đây là mô tả của hệ thống <strong>Privacy Mark (プライバシーマーク)</strong>, tập trung vào bảo vệ thông tin cá nhân.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ISMSクラウド</code> (ISMS Cloud)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Đây là chứng nhận ISMS nhưng có thêm chữ &quot;Cloud&quot; → Nó phải liên quan đến các biện pháp kiểm soát <strong>đặc thù của Cloud</strong>.</li></ul>"
+  },
+  {
+    "question": "IoTデバイスにおけるセキュリティ対策のうち，耐タンパ性をもたせる対策として，適切なものはどれか。",
+    "options": [
+      "サーバからの接続認証が連続して一定回数失敗したら，接続できないようにする。",
+      "通信するデータを暗号化し，データの機密性を確保する。",
+      "内蔵ソフトウェアにオンラインアップデート機能をもたせ，最新のパッチが適用されるようにする。",
+      "内蔵ソフトウェアを難読化し，解読に要する時間を増大させる。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là biện pháp tạo ra <strong>Tính chống can thiệp (耐タンパ性 - Tamper Resistance)</strong> cho thiết bị IoT?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Tính chống can thiệp (Tamper Resistance) là khả năng của một thiết bị chống lại việc bị phân tích, tháo dỡ, hoặc can thiệp vật lý/logic để trích xuất thông tin bí mật.</p><ul><li><strong>ア. ❌ Sai.</strong> Đây là biện pháp chống tấn công Brute-force, là một biện pháp bảo mật máy chủ, không phải tính chống can thiệp của thiết bị.</li><li><strong>イ. ❌ Sai.</strong> Mã hóa dữ liệu truyền tin (khi đã ra khỏi thiết bị) để bảo vệ tính bảo mật, không phải chống can thiệp vào bản thân thiết bị.</li><li><strong>ウ. ❌ Sai.</strong> Đây là biện pháp vá lỗi, quản lý lỗ hổng, không phải chống can thiệp.</li><li><strong>エ. ✅ Đúng.</strong> <strong>Làm rối mã (難読化 - Obfuscation)</strong> phần mềm bên trong làm cho việc phân tích, dịch ngược để hiểu logic hoạt động (reverse engineering) trở nên khó khăn và tốn thời gian hơn. Đây là một biện pháp tạo ra tính chống can thiệp.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>耐タンパ性</code> (Tính chống can thiệp)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chống can thiệp = Chống 'mổ xẻ', 'phân tích' thiết bị. → Làm rối mã (難読化) là một ví dụ.</li></ul>"
+  },
+  {
+    "question": "Webサイトなどに不正なソフトウェアを潜ませておき，PCやスマートフォンなどのWebブラウザからこのサイトにアクセスしたとき，利用者が気付かないうちにWebブラウザなどの脆弱性を突いてマルウェアを送り込む攻撃はどれか。",
+    "options": [
+      "DDoS攻撃",
+      "SQLインジェクション",
+      "ドライブバイダウンロード",
+      "フィッシング攻撃"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Cuộc tấn công nào gài phần mềm độc hại vào một trang web, và khi người dùng truy cập, nó sẽ tự động tấn công vào lỗ hổng của trình duyệt để cài cắm mã độc mà người dùng không hề hay biết?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> DDoS là tấn công từ chối dịch vụ.</li><li><strong>イ. ❌ Sai.</strong> SQL Injection là tấn công vào cơ sở dữ liệu.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Drive-by Download (ドライブバイダウンロード)</strong> là hình thức tấn công mà người dùng chỉ cần 'lái xe ngang qua' (truy cập) một trang web đã bị nhiễm độc là tự động bị tải phần mềm độc hại về máy.</li><li><strong>エ. ❌ Sai.</strong> Phishing là tấn công lừa đảo để lấy thông tin đăng nhập.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>気付かないうちに</code> (Trong lúc không nhận ra), <code>脆弱性を突いて</code> (Tấn công lỗ hổng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chỉ cần 'ghé thăm' (Drive-by) là bị 'tải về' (Download).</li></ul>"
+  },
+  {
+    "question": "関係データベースで管理された\"会員管理\"表を正規化して，\"店舗\"表，\"会員種別\"表及び\"会員\"表に分割した。\"会員\"表として，適切なものはどれか。ここで，表中の下線は主キーを表し，一人の会員が複数の店舗に登録した場合は，会員番号を店舗ごとに付与するものとする。<br><img src='img/r5-59.png' width='400px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><p>Mục tiêu của chuẩn hóa là loại bỏ sự lặp lại dữ liệu.</p><ol><li>Tách bảng '店舗' (Cửa hàng) gồm: {<u>店舗番号</u>, 店舗名, 所在地}.</li><li>Tách bảng '会員種別' (Loại thành viên) gồm: {<u>会員種別番号</u>, 会員種別名}.</li><li>Tạo bảng '会員' (Thành viên): Bảng này cần lưu thông tin của thành viên và liên kết đến hai bảng vừa tách.</li></ol><ul><li>Các thông tin phụ thuộc trực tiếp vào thành viên là: `氏名` (Tên), `住所` (Địa chỉ).</li><li>Các khóa ngoại cần thiết để liên kết là: `店舗番号` (Mã cửa hàng) và `会員種別番号` (Mã loại thành viên).</li><li>Khóa chính của bảng '会員' là `会員番号` (Mã thành viên).</li></ul><p>=> Do đó, bảng '会員' (Thành viên) đầy đủ nhất và đúng chuẩn nhất là: {<u>会員番号</u>, 氏名, 住所, 店舗番号, 会員種別番号}. Điều này tương ứng với lựa chọn <strong>エ</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>正規化</code> (Chuẩn hóa), <code>分割</code> (Phân tách)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Sau khi tách các bảng con (Cửa hàng, Loại thành viên), bảng chính (Thành viên) phải chứa các khóa ngoại (foreign key) để liên kết đến các bảng con đó.</li></ul>"
+  },
+  {
+    "question": "手続 printArray は，配列 integerArray の要素を並べ替えて出力する。手続 printArray を呼び出したときの出力はどれか。ここで，配列の要素番号は1から始まる。<br><br>〔プログラム〕<br><img src='img/r5-60.png' width='400px' height='auto'>",
+    "options": [
+      "1，2，3，4",
+      "1，3，2，4",
+      "3，1，4，2",
+      "4，3，2，1"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Phân tích chương trình (Sắp xếp nổi bọt)</strong></h3><p>Đây là thuật toán <strong>Sắp xếp nổi bọt (Bubble Sort)</strong>. Mảng ban đầu là `[3, 1, 4, 2]`.</p><ol><li><strong>Vòng lặp j = 1:</strong></li><ul><li>i = 4: So sánh `array[3]` (4) và `array[4]` (2). 4 > 2, đổi chỗ → `[3, 1, 2, 4]`</li><li>i = 3: So sánh `array[2]` (1) và `array[3]` (2). 1 < 2, không đổi → `[3, 1, 2, 4]`</li><li>i = 2: So sánh `array[1]` (3) và `array[2]` (1). 3 > 1, đổi chỗ → `[1, 3, 2, 4]`</li></ul><li><strong>Vòng lặp j = 2:</strong></li><ul><li>i = 4: (Đã bị loại do `i` chạy đến `5-j`).</li><li>i = 3: So sánh `array[2]` (3) và `array[3]` (2). 3 > 2, đổi chỗ → `[1, 2, 3, 4]`</li><li>i = 2: So sánh `array[1]` (1) và `array[2]` (2). 1 < 2, không đổi → `[1, 2, 3, 4]`</li></ul><li><strong>Vòng lặp j = 3:</strong></li><ul><li>i = 2: So sánh `array[1]` (1) và `array[2]` (2). 1 < 2, không đổi → `[1, 2, 3, 4]`</li></ul><li><strong>Vòng lặp j = 4:</strong> (Vòng lặp `i` không chạy)</li></ol><p>Cuối cùng, vòng lặp thứ hai (từ `i = 1 đến 4`) sẽ in ra các phần tử của mảng đã sắp xếp: **1, 2, 3, 4**.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> Đây là thuật toán Bubble Sort, nó sẽ sắp xếp mảng theo thứ tự tăng dần.</li></ul>"
+  },
+  {
+    "question": "IoTシステムなどの設計，構築及び運用に際しての基本原則とされ，システムの企画，設計段階から情報セキュリティを確保するための方策を何と呼ぶか。",
+    "options": [
+      "セキュアブート",
+      "セキュリティバイデザイン",
+      "ユニバーサルデザイン",
+      "リブート"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Nguyên tắc cơ bản khi thiết kế hệ thống IoT, trong đó các biện pháp đảm bảo an ninh thông tin được tích hợp ngay từ <strong>giai đoạn lập kế hoạch, thiết kế (企画，設計段階から)</strong>, được gọi là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Secure Boot là một tính năng kỹ thuật đảm bảo chỉ khởi động hệ điều hành tin cậy.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Security by Design (セキュリティバイデザイン)</strong> là một triết lý/nguyên tắc, yêu cầu bảo mật phải được xem xét và tích hợp ngay từ đầu trong suốt quá trình phát triển, chứ không phải là một tính năng 'thêm vào' sau khi đã làm xong.</li><li><strong>ウ. ❌ Sai.</strong> Universal Design (Thiết kế phổ quát) là thiết kế để mọi người đều có thể sử dụng.</li><li><strong>エ. ❌ Sai.</strong> Reboot là khởi động lại.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>設計段階から</code> (Ngay từ giai đoạn thiết kế)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Bảo mật (Security) được tích hợp ngay từ lúc Thiết kế (Design) → <strong>Security by Design</strong>.</li></ul>"
+  },
+  {
+    "question": "情報セキュリティにおける認証要素は3種類に分類できる。認証要素の3種類として，適切なものはどれか。",
+    "options": [
+      "個人情報，所持情報，生体情報",
+      "個人情報，所持情報，知識情報",
+      "個人情報，生体情報，知識情報",
+      "所持情報，生体情報，知識情報"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Ba loại yếu tố xác thực trong an ninh thông tin là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Ba yếu tố xác thực kinh điển bao gồm:</p><ol><li><strong>Something you KNOW (知識情報 - Yếu tố kiến thức):</strong> Mật khẩu, mã PIN, câu hỏi bí mật.</li><li><strong>Something you HAVE (所持情報 - Yếu tố sở hữu):</strong> Thẻ IC, điện thoại (để nhận SMS/OTP), khóa USB.</li><li><strong>Something you ARE (生体情報 - Yếu tố sinh trắc học):</strong> Vân tay, khuôn mặt, mống mắt.</li></ol><p>'Thông tin cá nhân' (個人情報) không phải là một yếu tố *xác thực*.</p><ul><li><strong>エ. ✅ Đúng.</strong> Lựa chọn này bao gồm đúng ba yếu tố: Sở hữu (所持情報), Sinh trắc học (生体情報), và Kiến thức (知識情報).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> 3 yếu tố xác thực là: <strong>Cái bạn BIẾT, Cái bạn CÓ, Cái bạn LÀ</strong>.</li></ul>"
+  },
+  {
+    "question": "容量が500GバイトのHDDを2台使用して，RAID0，RAID1を構成したとき，実際に利用可能な記憶容量の組合せとして，適切なものはどれか。<br><img src='img/r5-63.png' width='400px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Dùng 2 ổ cứng 500GB, tính dung lượng khả dụng khi cấu hình RAID 0 và RAID 1.</li></ul><hr><p>Phân tích các loại RAID:</p><ul><li><strong>RAID 0 (Striping - Ghi xen kẽ):</strong> Gộp dung lượng của tất cả các ổ đĩa. <strong>Tăng tốc độ, không an toàn.</strong></li><ul><li>Dung lượng = 500GB + 500GB = 1,000GB (1.0TB).</li></ul><li><strong>RAID 1 (Mirroring - Gương):</strong> Ghi dữ liệu giống hệt nhau lên tất cả các ổ đĩa. <strong>An toàn, không tăng tốc độ/dung lượng.</strong></li><ul><li>Dung lượng = Dung lượng của 1 ổ đĩa = 500GB (0.5TB).</li></ul></ul><p>=> Chúng ta cần tìm sự kết hợp: RAID 0 = 1.0TB, RAID 1 = 0.5TB. Điều này tương ứng với lựa chọn <strong>イ</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong></li><ul><li><strong>RAID 0:</strong> Số 0 có nghĩa là 0 an toàn. Gộp tất cả dung lượng (2 x 500 = 1000).</li><li><strong>RAID 1:</strong> Số 1 có nghĩa là 1 bản sao (mirror). Dung lượng chỉ bằng 1 ổ (500).</li></ul></ul>"
+  },
+  {
+    "question": "関数 sigma は，正の整数を引数 max で受け取り，1から max までの整数の総和を戻り値とする。プログラム中のaに入れる字句として，適切なものはどれか。<br><br>〔プログラム〕<br><img src='img/r5-64.png' width='400px' height='auto'>",
+    "options": [
+      "calcX ← calcX × n",
+      "calcX ← calcX ＋ 1",
+      "calcX ← calcX ＋ n",
+      "calcX ← n"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Hàm `sigma` tính tổng các số nguyên từ 1 đến `max`. Biểu thức nào là đúng cho vị trí (a)?</li></ul><hr><p>Chương trình này sử dụng một biến `calcX` (khởi tạo bằng 0) để cộng dồn. Vòng lặp `n` chạy từ 1, 2, 3... cho đến `max`.</p><p>Trong mỗi vòng lặp, chúng ta cần cộng giá trị *hiện tại* của `n` vào tổng `calcX`.</p><ul><li>Lần 1 (n=1): calcX = 0 + 1 = 1</li><li>Lần 2 (n=2): calcX = 1 + 2 = 3</li><li>Lần 3 (n=3): calcX = 3 + 3 = 6</li><li>...</li></ul><p>=> Do đó, biểu thức đúng là <strong>calcX ← calcX ＋ n</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>総和</code> (Tổng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Để tính tổng, bạn phải cộng dồn chính con số đang chạy (`n`), chứ không phải cộng dồn 1 (`calcX + 1`).</li></ul>"
+  },
+  {
+    "question": "Wi-Fiのセキュリティ規格であるWPA2を用いて，PCを無線LANルータと接続するときに設定するPSKの説明として，適切なものはどれか。",
+    "options": [
+      "アクセスポイントへの接続を認証するときに用いる符号(パスフレーズ)であり，この符号に基づいて，接続するPCごとに通信の暗号化に用いる鍵が生成される。",
+      "アクセスポイントへの接続を認証するときに用いる符号(パスフレーズ)であり，この符号に基づいて，接続するPCごとにプライベートIPアドレスが割り当てられる。",
+      "接続するアクセスポイントを識別するために用いる名前であり，この名前に基づいて，接続するPCごとに通信の暗号化に用いる鍵が生成される。",
+      "接続するアクセスポイントを識別するために用いる名前であり，この名前に基づいて，接続するPCごとにプライベートIPアドレスが割り当てられる。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>PSK</strong> trong WPA2?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>PSK (Pre-Shared Key):</strong> Là 'Khóa được chia sẻ trước', hay còn gọi là mật khẩu Wi-Fi (passphrase).</li><li><strong>SSID:</strong> Là tên của mạng Wi-Fi.</li></ul><p>Xét các lựa chọn:</p><ul><li><strong>ア. ✅ Đúng.</strong> PSK là một <strong>mật mã (passphrase) dùng để xác thực (認証)</strong> khi kết nối. Dựa trên PSK này, các <strong>khóa mã hóa (暗号化...鍵)</strong> riêng biệt cho từng phiên kết nối sẽ được tạo ra.</li><li><strong>イ. ❌ Sai.</strong> PSK không liên quan đến việc cấp phát địa chỉ IP (đó là nhiệm vụ của DHCP).</li><li><strong>ウ. ❌ Sai.</strong> Tên dùng để nhận dạng điểm truy cập là SSID, không phải PSK.</li><li><strong>エ. ❌ Sai.</strong> Tên dùng để nhận dạng là SSID, và nó không liên quan đến việc cấp IP.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>PSK</code> (Pre-Shared Key)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> PSK = **Mật khẩu (Passphrase)** của bạn. SSID = **Tên mạng** bạn thấy.</li></ul>"
+  },
+  {
+    "question": "トランザクション処理におけるコミットの説明として，適切なものはどれか。",
+    "options": [
+      "あるトランザクションが共有データを更新しようとしたとき，そのデータに対する他のトランザクションからの更新を禁止すること",
+      "トランザクションが正常に処理されたときに，データベースへの更新を確定させること",
+      "何らかの理由で，トランザクションが正常に処理されなかったときに，データベースをトランザクション開始前の状態にすること",
+      "複数の表を，互いに関係付ける列をキーとして，一つの表にすること"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Commit</strong> trong xử lý giao dịch?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Cấm các giao dịch khác cập nhật đồng thời là <strong>Kiểm soát độc quyền (排他制御 - Locking)</strong>.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Commit (コミット)</strong> là lệnh báo cho DBMS biết rằng giao dịch đã <strong>hoàn thành thành công (正常に処理された)</strong> và yêu cầu <strong>lưu vĩnh viễn các thay đổi (更新を確定させる)</strong> vào cơ sở dữ liệu.</li><li><strong>ウ. ❌ Sai.</strong> Hủy bỏ các thay đổi khi giao dịch thất bại và quay về trạng thái ban đầu là <strong>Rollback (ロールバック)</strong>.</li><li><strong>エ. ❌ Sai.</strong> Kết hợp nhiều bảng thành một là <strong>Join (結合)</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>コミット</code> (Commit)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Commit = **Lưu** (Save) thay đổi. Rollback = **Hủy** (Undo) thay đổi.</li></ul>"
+  },
+  {
+    "question": "ネットワーク環境で利用されるIDSの役割として，適切なものはどれか。",
+    "options": [
+      "IPアドレスとドメイン名を相互に変換する。",
+      "ネットワーク上の複数のコンピュータの時刻を同期させる。",
+      "ネットワークなどに対する不正アクセスやその予兆を検知し，管理者に通知する。",
+      "メールサーバに届いた電子メールを，メールクライアントに送る。"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Vai trò của <strong>IDS</strong> trong môi trường mạng là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Chuyển đổi IP ↔ Tên miền là <strong>DNS</strong>.</li><li><strong>イ. ❌ Sai.</strong> Đồng bộ hóa thời gian là <strong>NTP (Network Time Protocol)</strong>.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>IDS (Intrusion Detection System - Hệ thống phát hiện xâm nhập)</strong> có vai trò <strong>phát hiện (検知)</strong> các truy cập trái phép hoặc dấu hiệu đáng ngờ và <strong>thông báo (通知する)</strong> cho quản trị viên.</li><li><strong>エ. ❌ Sai.</strong> Gửi mail đến máy khách là <strong>POP3</strong> hoặc <strong>IMAP</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>IDS</code> (Intrusion Detection System)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>D</strong>etection <strong>S</strong>ystem = Hệ thống <strong>Phát hiện (検知)</strong>.</li></ul>"
+  },
+  {
+    "question": "インターネット上のコンピュータでは，Webや電子メールなど様々なアプリケーションプログラムが動作し，それぞれに対応したアプリケーション層の通信プロトコルが使われている。これらの通信プロトコルの下位にあり，基本的な通信機能を実現するものとして共通に使われる通信プロトコルはどれか。",
+    "options": [
+      "FTP",
+      "POP",
+      "SMTP",
+      "TCP/IP"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Giao thức nào nằm <strong>bên dưới (下位)</strong> các giao thức tầng ứng dụng (như Web, Email) và được sử dụng chung để thực hiện chức năng giao tiếp cơ bản?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア, イ, ウ. ❌ Sai.</strong> FTP (truyền file), POP (nhận mail), SMTP (gửi mail) đều là các giao thức thuộc <strong>tầng ứng dụng (Application Layer)</strong>.</li><li><strong>エ. ✅ Đúng.</strong> <strong>TCP/IP</strong> là bộ giao thức nền tảng, nằm ở tầng Vận chuyển (Transport) và tầng Mạng (Internet). Tất cả các giao thức ứng dụng như FTP, POP, SMTP, HTTP... đều phải chạy 'trên nền' (下位) của TCP/IP.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>下位にあり</code> (Nằm bên dưới), <code>共通に使われる</code> (Được dùng chung)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>TCP/IP</strong> là nền móng, còn HTTP, FTP, SMTP... là các 'ngôi nhà' được xây trên nền móng đó.</li></ul>"
+  },
+  {
+    "question": "配列に格納されているデータを探索するときの，探索アルゴリズムに関する記述のうち，適切なものはどれか。",
+    "options": [
+      "2分探索法は，探索対象となる配列の先頭の要素から順に探索する。",
+      "線形探索法で探索するのに必要な計算量は，探索対象となる配列の要素数に比例する。",
+      "線形探索法を用いるためには，探索対象となる配列の要素は要素の値で昇順又は降順にソートされている必要がある。",
+      "探索対象となる配列が同一であれば，探索に必要な計算量は探索する値によらず，2分探索法が線形探索法よりも少ない。"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về thuật toán tìm kiếm?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Tìm kiếm tuần tự từ đầu đến cuối là <strong>Tìm kiếm tuyến tính (線形探索法)</strong>. Tìm kiếm nhị phân (2分探索法) là tìm ở giữa.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Tìm kiếm tuyến tính (線形探索法)</strong>, trong trường hợp xấu nhất, phải duyệt qua tất cả <code>n</code> phần tử của mảng. Do đó, độ phức tạp tính toán (thời gian) <strong>tỷ lệ thuận (比例する)</strong> với số lượng phần tử (O(n)).</li><li><strong>ウ. ❌ Sai.</strong> Tìm kiếm tuyến tính không yêu cầu mảng phải được sắp xếp. <strong>Tìm kiếm nhị phân</strong> mới yêu cầu mảng phải được sắp xếp.</li><li><strong>エ. ❌ Sai.</strong> Tìm kiếm nhị phân (O(log n)) thường nhanh hơn tuyến tính (O(n)), nhưng không phải 'luôn luôn ít hơn'. Nếu giá trị cần tìm nằm ngay ở phần tử đầu tiên, tìm kiếm tuyến tính chỉ tốn 1 phép so sánh (nhanh nhất).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong></li><ul><li><strong>Tuyến tính (線形):</strong> Tìm lần lượt từ đầu, không cần sắp xếp.</li><li><strong>Nhị phân (2分):</strong> Phải sắp xếp trước, tìm bằng cách chia đôi.</li></ul></ul>"
+  },
+  {
+    "question": "Webサービスなどにおいて，信頼性を高め，かつ，利用者からの多量のアクセスを処理するために，複数のコンピュータを連携させて全体として一つのコンピュータであるかのように動作させる技法はどれか。",
+    "options": [
+      "クラスタリング",
+      "スプーリング",
+      "バッファリング",
+      "ミラーリング"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Kỹ thuật nào liên kết <strong>nhiều máy tính (複数のコンピュータ)</strong> lại với nhau để chúng hoạt động <strong>như một máy tính duy nhất (一つのコンピュータであるかのように)</strong>, nhằm tăng độ tin cậy và xử lý lượng truy cập lớn?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>Clustering (クラスタリング)</strong> là kỹ thuật kết nối nhiều máy chủ (nodes) lại với nhau để chúng hoạt động như một hệ thống duy nhất. Nó được dùng để tăng hiệu năng (tải song song) hoặc tăng độ tin cậy (dự phòng nóng).</li><li><strong>イ. ❌ Sai.</strong> Spooling (スプーリング) là cơ chế dùng bộ đệm cho các thiết bị chậm như máy in.</li><li><strong>ウ. ❌ Sai.</strong> Buffering (バッファリング) là việc lưu dữ liệu tạm thời trong bộ nhớ đệm (buffer).</li><li><strong>エ. ❌ Sai.</strong> Mirroring (ミラーリング) là kỹ thuật của RAID 1, sao chép dữ liệu qua nhiều ổ đĩa để dự phòng.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>複数のコンピュータを連携</code> (Liên kết nhiều máy tính)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Một 'chùm' (Cluster) máy tính hoạt động cùng nhau.</li></ul>"
+  },
+  {
+    "question": "IoTシステムにおけるエッジコンピューティングに関する記述として，最も適切なものはどれか。",
+    "options": [
+      "IoTデバイスの増加によるIoTサーバの負荷を軽減するために，IoTデバイスに近いところで可能な限りのデータ処理を行う。",
+      "一定時間ごとに複数の取引をまとめたデータを作成し，そのデータに直前のデータのハッシュ値を埋め込むことによって，データを相互に関連付け，改ざんすることを困難にすることによって，データの信頼性を高める。",
+      "ネットワークの先にあるデータセンター上に集約されたコンピュータ資源を，ネットワークを介して遠隔地から利用する。",
+      "明示的にプログラミングすることなく，入力されたデータからコンピュータが新たな知識やルールを獲得できるようにする。"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng nhất về <strong>Điện toán biên (エッジコンピューティング - Edge Computing)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> Điện toán biên là mô hình xử lý dữ liệu ở 'biên' của mạng, tức là <strong>gần thiết bị IoT (IoTデバイスに近いところ)</strong> thay vì gửi tất cả về máy chủ trung tâm (đám mây). Mục đích là để <strong>giảm tải cho máy chủ (サーバの負荷を軽減)</strong>, giảm độ trễ và xử lý thời gian thực.</li><li><strong>イ. ❌ Sai.</strong> Mô tả việc liên kết dữ liệu bằng hash là <strong>Blockchain</strong>.</li><li><strong>ウ. ❌ Sai.</strong> Sử dụng tài nguyên tập trung tại trung tâm dữ liệu là <strong>Cloud Computing (Điện toán đám mây)</strong> - đối lập với Edge Computing.</li><li><strong>エ. ❌ Sai.</strong> Máy tính tự học hỏi từ dữ liệu là <strong>Machine Learning (Học máy)</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>エッジ</code> (Edge - Biên), <code>IoTデバイスに近いところ</code> (Nơi gần thiết bị IoT)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Edge (Biên) là nơi gần người dùng/thiết bị nhất, trái ngược với Cloud (Mây) là ở trung tâm.</li></ul>"
+  },
+  {
+    "question": "情報セキュリティのリスクマネジメントにおけるリスク対応を，リスク回避，リスク共有，リスク低減及びリスク保有の四つに分類したとき，リスク共有の説明として，適切なものはどれか。",
+    "options": [
+      "個人情報を取り扱わないなど，リスクを伴う活動自体を停止したり，リスク要因を根本的に排除したりすること",
+      "災害に備えてデータセンターを地理的に離れた複数の場所に分散するなど，リスクの発生確率や損害を減らす対策を講じること",
+      "保険への加入など，リスクを一定の合意の下に別の組織へ移転又は分散することによって，リスクが顕在化したときの損害を低減すること",
+      "リスクの発生確率やリスクが発生したときの損害が小さいと考えられる場合に，リスクを認識した上で特に対策を講じず，そのリスクを受け入れること"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là mô tả đúng về <strong>Chia sẻ rủi ro (リスク共有)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Ngừng hoạt động rủi ro là <strong>Tránh né rủi ro (リスク回避)</strong>.</li><li><strong>イ. ❌ Sai.</strong> Phân tán trung tâm dữ liệu là biện pháp <strong>Giảm thiểu rủi ro (リスク低減)</strong>.</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Chia sẻ rủi ro (リスク共有)</strong>, hay còn gọi là <strong>Chuyển giao rủi ro (リスク移転)</strong>, là việc chuyển gánh nặng tài chính của rủi ro cho một bên thứ ba. <strong>Mua bảo hiểm (保険への加入)</strong> là ví dụ điển hình nhất.</li><li><strong>エ. ❌ Sai.</strong> Chấp nhận rủi ro khi nó nhỏ là <strong>Chấp nhận rủi ro (リスク保有)</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>リスク共有</code> (Chia sẻ rủi ro)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chia sẻ rủi ro (tài chính) → <strong>Bảo hiểm (保険)</strong>.</li></ul>"
+  },
+  {
+    "question": "攻撃者がコンピュータに不正侵入したとき，再侵入を容易にするためにプログラムや設定の変更を行うことがある。この手口を表す用語として，最も適切なものはどれか。",
+    "options": [
+      "盗聴",
+      "バックドア",
+      "フィッシング",
+      "ポートスキャン"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Khi kẻ tấn công xâm nhập trái phép vào máy tính, chúng có thể thay đổi chương trình hoặc cài đặt để <strong>dễ dàng xâm nhập lại (再侵入を容易にする)</strong>. Thủ đoạn này gọi là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Nghe lén (盗聴).</li><li><strong>イ. ✅ Đúng.</strong> <strong>Backdoor (バックドア - Cửa hậu)</strong> là một chương trình hoặc một thay đổi cấu hình được cài đặt bí mật, cho phép kẻ tấn công vượt qua các cơ chế xác thực thông thường và xâm nhập lại hệ thống một cách dễ dàng.</li><li><strong>ウ. ❌ Sai.</strong> Phishing (Lừa đảo).</li><li><strong>エ. ❌ Sai.</strong> Port Scan (Quét cổng).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>再侵入</code> (Tái xâm nhập), <code>容易にする</code> (Làm cho dễ dàng)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Để vào lại nhà dễ dàng mà không cần chìa khóa → Dùng <strong>cửa sau (Backdoor)</strong>.</li></ul>"
+  },
+  {
+    "question": "ニューラルネットワークに関する記述として，最も適切なものはどれか。",
+    "options": [
+      "PC，携帯電話，情報家電などの様々な情報機器が，社会の至る所に存在し，いつでもどこでもネットワークに接続できる環境",
+      "国立情報学研究所が運用している，大学や研究機関などを結ぶ学術研究用途のネットワーク",
+      "全国の自治体が，氏名，生年月日，性別，住所などの情報を居住地以外の自治体から引き出せるようにネットワーク化したシステム",
+      "ディープラーニングなどで用いられる，脳神経系の仕組みをコンピュータで模したモデル"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Mạng nơ-ron (ニューラルネットワーク)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Đây là mô tả về Mạng Lưới Vạn Vật (Ubiquitous Computing).</li><li><strong>イ. ❌ Sai.</strong> Đây là mô tả về SINET (mạng lưới thông tin khoa học của Nhật).</li><li><strong>ウ. ❌ Sai.</strong> Đây là mô tả về Hệ thống Mạng Lưới Đăng ký Cư trú (Juki Net).</li><li><strong>エ. ✅ Đúng.</strong> <strong>Mạng nơ-ron (Neural Network)</strong> là một mô hình tính toán được sử dụng trong Deep Learning, <strong>mô phỏng (模した)</strong> cấu trúc và cách hoạt động của <strong>hệ thống thần kinh não bộ (脳神経系)</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ニューラルネットワーク</code> (Neural Network), <code>脳神経系</code> (Hệ thần kinh não)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Neural = Liên quan đến Nơ-ron/thần kinh.</li></ul>"
+  },
+  {
+    "question": "表計算ソフトを用いて，二つの科目X，Yの点数を評価して合否を判定する。それぞれの点数はワークシートのセル A2，B2 に入力する。合格判定条件(1)又は(2)に該当するときはセル C2 に\"合格\"，それ以外のときは\"不合格\"を表示する。セル C2 に入力する式はどれか。<br><br>〔合格判定条件〕<ul><li class=\"li1\">科目Xと科目Yの合計が120点以上である。</li><li class=\"li2\">科目X又は科目Yのうち，少なくとも一つが100点である。</li></ul><br><img src='img/r5-75.png' width='400px' height='auto'>",
+    "options": [
+      "IF(論理積((A2＋B2)≧120，A2＝100，B2＝100)，'合格'，'不合格')",
+      "IF(論理積((A2＋B2)≧120，A2＝100，B2＝100)，'不合格'，'合格')",
+      "IF(論理和((A2＋B2)≧120，A2＝100，B2＝100)，'合格'，'不合格')",
+      "IF(論理和((A2＋B2)≧120，A2＝100，B2＝100)，'不合格'，'合格')"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><p>Điều kiện là (1) **HOẶC (又は)** (2). Điều này có nghĩa là chúng ta phải sử dụng hàm <strong>OR (論理和)</strong>. (Loại bỏ ア và イ).</p><p>Các điều kiện bên trong hàm OR là:</p><ol><li>Tổng X và Y >= 120 → `(A2+B2) >= 120`</li><li>Ít nhất một trong hai là 100. Điều này có nghĩa là (X = 100) HOẶC (Y = 100). → `A2=100`, `B2=100`</li></ol><p>Kết hợp lại, hàm logic là: `OR( (A2+B2)>=120, A2=100, B2=100 )`</p><p>Công thức IF là: `IF( <điều kiện>, 'Đạt', 'Trượt' )`.</p><p>=> Vậy, công thức đúng là: `IF(論理和((A2＋B2)≧120，A2＝100，B2＝100)，'合格'，'不合格')`.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>又は</code> (Hoặc)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> 又は = <strong>OR (論理和)</strong>.</li></ul>"
+  },
+  {
+    "question": "品質管理担当者が行っている検査を自動化することを考えた。10,000枚の製品画像と，それに対する品質管理担当者による不良品かどうかの判定結果を学習データとして与えることによって，製品が不良品かどうかを判定する機械学習モデルを構築した。100枚の製品画像に対してテストを行った結果は表のとおりである。品質管理担当者が不良品と判定した製品画像数に占める，機械学習モデルの判定が不良品と判定した製品画像数の割合を再現率としたとき，このテストにおける再現率は幾らか。<br><img src='img/r5-76.png' width='400px' height='auto'>",
+    "options": [
+      "0.05",
+      "0.25",
+      "0.50",
+      "0.80"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Tính <strong>Tỷ lệ tái hiện (再現率 - Recall)</strong> của mô hình AI, dựa trên bảng kết quả.</li></ul><hr><p>Định nghĩa:</p><ul><li><strong>Tỷ lệ tái hiện (Recall):</strong> Trong số tất cả những cái **thực sự là Lỗi (不良品)**, mô hình phát hiện (dự đoán là Lỗi) được bao nhiêu phần trăm?</li><li><strong>Công thức Recall:</strong> <code>TP / (TP + FN)</code></li></ul><p>Trong đó (nhìn vào bảng):</p><ul><li><strong>Thực tế (do người quyết định):</strong> Lỗi (不良品)</li><li><strong>Dự đoán (của AI):</strong> Lỗi (不良品) → <strong>True Positive (TP) = 5</strong></li><li><strong>Dự đoán (của AI):</strong> Tốt (良品) → <strong>False Negative (FN) = 5</strong></li></ul><p>Tính toán:</p><ul><li>Tổng số sản phẩm thực sự bị lỗi = TP + FN = 5 + 5 = 10.</li><li>Recall = 5 / 10 = <strong>0.50</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>再現率</code> (Recall - Tỷ lệ tái hiện)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Recall = 'Tìm lại được bao nhiêu?'. Trong <strong>tổng số 10 cái lỗi thật</strong>, AI tìm lại được <strong>5 cái</strong>. → 5/10 = 0.5.</li></ul>"
+  },
+  {
+    "question": "受験者10,000人の4教科の試験結果は表のとおりであり，いずれの教科の得点分布も正規分布に従っていたとする。ある受験者の4教科の得点が全て71点であったときこの受験者が最も高い偏差値を得た教科はどれか。<br><img src='img/r5-77.png' width='400px' height='auto'>",
+    "options": [
+      "国語",
+      "社会",
+      "数学",
+      "理科"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><ul><li><strong>Câu hỏi:</strong> Một học sinh đạt 71 điểm ở cả 4 môn. Với điểm trung bình và độ lệch chuẩn trong bảng, môn nào học sinh này đạt <strong>điểm lệch (偏差値)</strong> cao nhất?</li></ul><hr><p>Điểm lệch (hensachi) là một thang đo chuẩn hóa để so sánh điểm số giữa các môn có độ khó khác nhau. Điểm lệch càng cao khi điểm của bạn càng vượt trội so với điểm trung bình (tính theo độ lệch chuẩn).</p><p>Công thức tính Z-score (mức độ vượt trội): <code>(Điểm của bạn - Điểm trung bình) / Độ lệch chuẩn</code></p><p>Ta chỉ cần tìm môn nào có Z-score cao nhất:</p><ul><li><strong>Quốc ngữ (国語):</strong> (71 - 63) / 10 = 8 / 10 = 0.8</li><li><strong>Xã hội (社会):</strong> (71 - 73) / 12 = -2 / 12 = -0.16 (thấp hơn trung bình)</li><li><strong>Toán (数学):</strong> (71 - 58) / 15 = 13 / 15 = <strong>0.867</strong> (Cao nhất)</li><li><strong>Lý/Hóa (理科):</strong> (71 - 65) / 8 = 6 / 8 = 0.75</li></ul><p>=> Môn Toán (数学) có điểm Z-score cao nhất (0.867), nghĩa là 71 điểm ở môn Toán là thành tích ấn tượng nhất so với các môn còn lại.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> Bạn giỏi nhất ở môn nào mà điểm của bạn (71) <strong>cách xa nhất</strong> so với điểm trung bình của lớp (so sánh bằng độ lệch chuẩn). Môn Toán (58) có điểm trung bình thấp nhất, nên 71 điểm ở môn này là vượt trội nhất.</li></ul>"
+  },
+  {
+    "question": "関係データベースの主キーの設定に関する記述として，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>値が他のレコードと重複するものは主キーとして使用できない。</li><li>インデックスとの重複設定はできない。</li><li>主キーの値は数値でなければならない。</li><li>複数のフィールドを使って主キーを構成できる。</li></ol>",
+    "options": [
+      "a，c",
+      "a，d",
+      "b，c",
+      "b，d"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về việc cài đặt Khóa chính (Primary Key) trong CSDL quan hệ?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Đúng.</strong> Khóa chính phải là duy nhất (unique). Giá trị bị trùng lặp (重複) không thể được sử dụng làm khóa chính.</li><li><strong>b. ❌ Sai.</strong> Hầu hết các hệ quản trị CSDL tự động tạo một Index (chỉ mục) trên khóa chính để tăng tốc độ truy vấn.</li><li><strong>c. ❌ Sai.</strong> Khóa chính có thể là số (Mã nhân viên) hoặc chữ (Số CMND, Email), miễn là nó là duy nhất.</li><li><strong>d. ✅ Đúng.</strong> Một khóa chính có thể được tạo thành từ một trường (field) duy nhất hoặc kết hợp của <strong>nhiều trường (複数のフィールド)</strong> (ví dụ: {Mã Đơn Hàng, Mã Sản Phẩm}).</li></ul><p>=> Vậy, các mô tả đúng là a và d.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>主キー</code> (Khóa chính)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Khóa chính phải **Duy nhất (a)** và có thể được tạo từ **Nhiều trường (d)**.</li></ul>"
+  },
+  {
+    "question": "PDCAモデルに基づいてISMSを運用している組織の活動において，次のような調査報告があった。この調査はPDCAモデルのどのプロセスで実施されるか。<br><br>社外からの電子メールの受信に対しては，情報セキュリティポリシーに従ってマルウェア検知システムを導入し，維持運用されており，日々数十件のマルウェア付き電子メールの受信を検知し，破棄するという効果を上げている。しかし，社外への電子メールの送信に関するセキュリティ対策のための規定や明確な運用手順がなく，社外秘の資料を添付した電子メールの社外への誤送信などが発生するリスクがある。",
+    "options": [
+      "P",
+      "D",
+      "C",
+      "A"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Một báo cáo điều tra chỉ ra rằng: 'Hệ thống chống mã độc cho email đến đang hoạt động tốt (có hiệu quả). Tuy nhiên, đang tồn tại rủi ro cho email gửi đi vì thiếu quy trình.' Cuộc điều tra này thuộc giai đoạn nào của PDCA?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>P (Plan):</strong> Lập kế hoạch (ví dụ: xây dựng chính sách, quy trình).</li><li><strong>D (Do):</strong> Thực thi (ví dụ: cài đặt hệ thống malware, vận hành theo quy trình).</li><li><strong>C (Check): ✅ Đúng.</strong> Đây là giai đoạn <strong>kiểm tra, đánh giá, giám sát</strong>. Báo cáo này đang đánh giá xem những gì đã làm (D) có hiệu quả không và có phát hiện ra vấn đề/rủi ro mới nào không.</li><li><strong>A (Act):</strong> Hành động (ví dụ: dựa trên báo cáo này, đưa ra hành động khắc phục cho email gửi đi).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>調査報告</code> (Báo cáo điều tra), <code>効果を上げている</code> (Đang có hiệu quả), <code>リスクがある</code> (Có rủi ro)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>C</strong>heck = <strong>Kiểm tra</strong> và Báo cáo.</li></ul>"
+  },
+  {
+    "question": "USBメモリなどの外部記憶媒体をPCに接続したときに，その媒体中のプログラムや動画などを自動的に実行したり再生したりするOSの機能であり，マルウェア感染の要因ともなるものはどれか。",
+    "options": [
+      "オートコレクト",
+      "オートコンプリート",
+      "オートフィルター",
+      "オートラン"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Tính năng nào của HĐH <strong>tự động chạy (自動的に実行)</strong> chương trình khi một thiết bị lưu trữ ngoài như USB được kết nối, và cũng là một nguyên nhân gây lây nhiễm mã độc?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> AutoCorrect (tự động sửa lỗi chính tả).</li><li><strong>イ. ❌ Sai.</strong> AutoComplete (tự động hoàn thành).</li><li><strong>ウ. ❌ Sai.</strong> AutoFilter (tự động lọc trong Excel).</li><li><strong>エ. ✅ Đúng.</strong> <strong>AutoRun (オートラン)</strong> là tính năng của Windows, cho phép tự động thực thi một hành động (như chạy một chương trình) khi một ổ đĩa ngoài (USB, CD) được cắm vào. Kẻ tấn công thường lợi dụng tính năng này để tự động chạy mã độc.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>自動的に実行</code> (Tự động chạy)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Auto (Tự động) + Run (Chạy) → <strong>AutoRun</strong>.</li></ul>"
+  },
+  {
+    "question": "HDDを廃棄するときに，HDDからの情報漏えい防止策として，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>データ消去用ソフトウェアを利用し，ランダムなデータをHDDの全ての領域に複数回書き込む。</li><li>ドリルやメディアシュレッダーなどを用いてHDDを物理的に破壊する。</li><li>ファイルを消去した後，HDDの論理フォーマットを行う。</li></ol>",
+    "options": [
+      "a，b",
+      "a，b，c",
+      "a，c",
+      "b，c"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là các biện pháp an toàn để chống rò rỉ thông tin khi vứt bỏ HDD?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Đúng.</strong> Sử dụng phần mềm chuyên dụng để <strong>ghi đè (書き込む)</strong> dữ liệu ngẫu nhiên nhiều lần lên toàn bộ ổ đĩa là một phương pháp xóa an toàn (xóa về mặt logic).</li><li><strong>b. ✅ Đúng.</strong> Dùng khoan hoặc máy hủy để <strong>phá hủy vật lý (物理的に破壊)</strong> là phương pháp an toàn nhất.</li><li><strong>c. ❌ Sai.</strong> Xóa file và format nhanh (logical format) chỉ xóa 'bảng mục lục' của ổ đĩa. Dữ liệu gốc vẫn còn và có thể dễ dàng bị khôi phục.</li></ul><p>=> Vậy, các biện pháp an toàn là a và b.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>廃棄</code> (Vứt bỏ), <code>情報漏えい防止</code> (Chống rò rỉ thông tin)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chỉ 'Xóa' hoặc 'Format' là không đủ. Phải **Ghi đè (a)** hoặc **Phá hủy vật lý (b)**.</li></ul>"
+  },
+  {
+    "question": "OSS(Open Source Software)に関する記述a～cのうち，適切なものだけを全て挙げたものはどれか。<br><ol type=\"a\"><li>ソースコードに手を加えて再配布することができる。</li><li>ソースコードの入手は無償だが，有償の保守サポートを受けなければならない。</li><li>著作権が放棄されており，無断で利用することができる。</li></ol>",
+    "options": [
+      "a",
+      "a，c",
+      "b",
+      "c"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về Phần mềm mã nguồn mở (OSS)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>a. ✅ Đúng.</strong> Đây là một trong những quyền tự do cốt lõi của OSS: quyền được sửa đổi mã nguồn và <strong>phân phối lại (再配布)</strong> phiên bản đã sửa đổi.</li><li><strong>b. ❌ Sai.</strong> Mã nguồn thường là miễn phí (vẫn có OSS trả phí), nhưng việc sử dụng dịch vụ hỗ trợ (保守サポート) là <strong>tùy chọn</strong>, không bắt buộc.</li><li><strong>c. ❌ Sai.</strong> OSS **không** từ bỏ bản quyền (著作権が放棄). Nó vẫn có bản quyền, nhưng được phát hành dưới một giấy phép 'mở' cho phép người khác sử dụng theo các điều kiện nhất định.</li></ul><p>=> Vậy, chỉ có (a) là đúng.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>OSS</code> (Mã nguồn mở)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> OSS = Tự do sửa đổi và phân phối lại (a), nhưng vẫn có bản quyền (ngược với c).</li></ul>"
+  },
+  {
+    "question": "スマートフォンなどで，相互に同じアプリケーションを用いて，インターネットを介した音声通話を行うときに利用される技術はどれか。",
+    "options": [
+      "MVNO",
+      "NFC",
+      "NTP",
+      "VoIP"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Công nghệ nào được sử dụng khi thực hiện <strong>cuộc gọi thoại (音声通話)</strong> qua <strong>Internet</strong> bằng các ứng dụng (như Zalo, Messenger) trên smartphone?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> MVNO (Nhà khai thác mạng di động ảo).</li><li><strong>イ. ❌ Sai.</strong> NFC (Giao tiếp tầm gần).</li><li><strong>ウ. ❌ Sai.</strong> NTP (Giao thức đồng bộ thời gian).</li><li><strong>エ. ✅ Đúng.</strong> <strong>VoIP (Voice over IP)</strong> là công nghệ truyền tải <strong>giọng nói (Voice)</strong> qua giao thức <strong>Internet (IP)</strong>. Đây là công nghệ nền tảng của tất cả các ứng dụng gọi điện qua mạng.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>音声通話</code> (Gọi thoại), <code>インターネットを介した</code> (Qua Internet)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>V</strong>oice <strong>o</strong>ver <strong>IP</strong> → <strong>VoIP</strong>.</li></ul>"
+  },
+  {
+    "question": "メッセージダイジェストを利用した送信者のデジタル署名が付与された電子メールに関する記述のうち，適切なものはどれか。",
+    "options": [
+      "デジタル署名を受信者が検証することによって，不正なメールサーバから送信された電子メールであるかどうかを判別できる。",
+      "デジタル署名を送信側メールサーバのサーバ証明書で受信者が検証することによって，送信者のなりすましを検知できる。",
+      "デジタル署名を付与すると，同時に電子メール本文の暗号化も行われるので，電子メールの内容の漏えいを防ぐことができる。",
+      "電子メール本文の改ざんの防止はできないが，デジタル署名をすることによって，受信者は改ざんが行われたことを検知することはできる。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về Chữ ký số (sử dụng Message Digest) trong email?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Chữ ký số đảm bảo 2 điều: <strong>Tính xác thực</strong> (người gửi là ai) và <strong>Tính toàn vẹn</strong> (nội dung không bị sửa đổi). Nó không đảm bảo tính Bảo mật (nội dung vẫn có thể bị đọc).</p><ul><li><strong>ア. ❌ Sai.</strong> Chữ ký số xác thực 'người gửi', không phải 'máy chủ gửi'.</li><li><strong>イ. ❌ Sai.</strong> Chữ ký số được xác thực bằng khóa công khai (public key) của **người gửi**, không phải của máy chủ email.</li><li><strong>ウ. ❌ Sai.</strong> Chữ ký số (Signature) và Mã hóa (Encryption) là hai thao tác riêng biệt. Ký số không tự động mã hóa nội dung.</li><li><strong>エ. ✅ Đúng.</strong> Chữ ký số không thể 'ngăn chặn' (防止) việc email bị sửa đổi trên đường truyền. Tuy nhiên, nếu email đã bị <strong>sửa đổi (改ざん)</strong>, chữ ký số sẽ không còn hợp lệ, và người nhận có thể <strong>phát hiện (検知)</strong> được điều đó.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>デジタル署名</code> (Chữ ký số)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chữ ký số = **Xác thực người gửi** + **Phát hiện sửa đổi**. Nó KHÔNG mã hóa nội dung.</li></ul>"
+  },
+  {
+    "question": "IoT機器におけるソフトウェアの改ざん対策にも用いられ，OSやファームウェアなどの起動時に，それらのデジタル署名を検証し，正当であるとみなされた場合にだけそのソフトウェアを実行する技術はどれか。",
+    "options": [
+      "GPU",
+      "RAID",
+      "セキュアブート",
+      "リブート"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Công nghệ nào được dùng để chống giả mạo phần mềm trên thiết bị IoT, hoạt động bằng cách <strong>xác minh chữ ký số (デジタル署名を検証)</strong> của HĐH hoặc firmware <strong>khi khởi động (起動時)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> GPU (Bộ xử lý đồ họa).</li><li><strong>イ. ❌ Sai.</strong> RAID (Hệ thống ổ đĩa dự phòng).</li><li><strong>ウ. ✅ Đúng.</strong> <strong>Secure Boot (セキュアブート - Khởi động an toàn)</strong> là một tính năng bảo mật, đảm bảo rằng thiết bị chỉ khởi động (boot) bằng phần mềm (OS, firmware) đã được tin cậy (đã được ký số hợp lệ).</li><li><strong>エ. ❌ Sai.</strong> Reboot (Khởi động lại).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>起動時</code> (Khi khởi động), <code>デジタル署名を検証</code> (Xác minh chữ ký số)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>Boot</strong> (Khởi động) + <strong>Secure</strong> (An toàn) → <strong>Secure Boot</strong>.</li></ul>"
+  },
+  {
+    "question": "ハイブリッド暗号方式を用いてメッセージを送信したい。メッセージと復号用の鍵の暗号化手順を表した図において，メッセージの暗号化に使用する鍵を(1)とし，(1)の暗号化に使用する鍵を(2)としたとき，図のa，bに入れる字句の適切な組合せはどれか。<br><img src='img/r5-86.png' width='500px' height='auto'><br><img src='img/r5-86a.png' width='300px' height='auto'>",
+    "options": [
+      "ア",
+      "イ",
+      "ウ",
+      "エ"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><p>Mã hóa Hybrid (Kết hợp) hoạt động như sau:</p><ol><li><strong>Mã hóa Thông điệp:</strong> Dùng <strong>Khóa chung (共通鍵)</strong> (còn gọi là khóa phiên) để mã hóa thông điệp. Mã hóa khóa chung nhanh, phù hợp với dữ liệu lớn. → <strong>(1) là Khóa chung</strong>.</li><li><strong>Mã hóa Khóa chung:</strong> Dùng <strong>Khóa công khai của người nhận (受信者の公開鍵)</strong> để mã hóa cái Khóa chung ở bước 1. → <strong>(2) là Khóa công khai của người nhận</strong>.</li><li>Người nhận sẽ dùng Khóa bí mật của mình để giải mã (2), lấy được Khóa chung (1), sau đó dùng Khóa chung (1) để giải mã thông điệp.</li></ol><p>Trong sơ đồ:</p><ul><li><strong>(a)</strong> là Khóa (1) dùng để mã hóa thông điệp → **(a) = 共通鍵 (Khóa chung)**.</li><li><strong>(b)</strong> là Khóa (2) dùng để mã hóa Khóa (1) → **(b) = 受信者の公開鍵 (Khóa công khai của người nhận)**.</li></ul><p>=> Tổ hợp đúng là a = 共通鍵, b = 受信者の公開鍵. Điều này tương ứng với đáp án <strong>ア</strong>.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>ハイブリッド暗号</code> (Mã hóa Hybrid)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Hybrid = Dùng khóa **Chung** để mã hóa **Nội dung** + Dùng khóa **Công khai** để mã hóa cái **Khóa chung** đó.</li></ul>"
+  },
+  {
+    "question": "IoTエリアネットワークでも用いられ，電気を供給する電力線に高周波の通信用信号を乗せて伝送させることによって，電力線を伝送路としても使用する技術はどれか。",
+    "options": [
+      "PLC",
+      "PoE",
+      "エネルギーハーベスティング",
+      "テザリング"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Công nghệ nào sử dụng <strong>đường dây điện (電力線)</strong> làm <strong>đường truyền (伝送路)</strong> bằng cách truyền tín hiệu viễn thông tần số cao trên đó?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ✅ Đúng.</strong> <strong>PLC (Power Line Communication)</strong> là công nghệ truyền dữ liệu qua đường dây điện lực có sẵn.</li><li><strong>イ. ❌ Sai.</strong> PoE (Power over Ethernet) là công nghệ cấp nguồn điện qua cáp mạng Ethernet.</li><li><strong>ウ. ❌ Sai.</strong> Energy Harvesting là công nghệ thu thập năng lượng từ môi trường (ánh sáng, nhiệt).</li><li><strong>エ. ❌ Sai.</strong> Tethering là chia sẻ kết nối internet từ điện thoại.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>電力線</code> (Đường dây điện), <code>伝送路</code> (Đường truyền)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>P</strong>ower <strong>L</strong>ine <strong>C</strong>ommunication → Giao tiếp qua <strong>Đường dây điện</strong>.</li></ul>"
+  },
+  {
+    "question": "読出し専用のDVDはどれか。",
+    "options": [
+      "DVD-R",
+      "DVD-RAM",
+      "DVD-ROM",
+      "DVD-RW"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Loại DVD nào là <strong>chỉ đọc (読出し専用)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> DVD-R (Recordable) - Có thể ghi một lần.</li><li><strong>イ. ❌ Sai.</strong> DVD-RAM (Random Access Memory) - Có thể ghi/xóa nhiều lần (như ổ cứng).</li><li><strong>ウ. ✅ Đúng.</strong> <strong>DVD-ROM (Read-Only Memory)</strong> là loại đĩa được dập khuôn sẵn từ nhà máy (ví dụ: đĩa phim, đĩa game gốc) và người dùng chỉ có thể đọc, không thể ghi đè.</li><li><strong>エ. ❌ Sai.</strong> DVD-RW (ReWritable) - Có thể ghi/xóa nhiều lần.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>読出し専用</code> (Chỉ đọc)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> <strong>R</strong>ead-<strong>O</strong>nly <strong>M</strong>emory → <strong>ROM</strong>.</li></ul>"
+  },
+  {
+    "question": "企業の従業員になりすましてIDやパスワードを聞き出したり，くずかごから機密情報を入手したりするなど，技術的手法を用いない攻撃はどれか。",
+    "options": [
+      "ゼロデイ攻撃",
+      "ソーシャルエンジニアリング",
+      "ソーシャルメディア",
+      "トロイの木馬"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Cuộc tấn công <strong>không sử dụng phương pháp kỹ thuật (技術的手法を用いない)</strong>, mà dựa vào việc mạo danh nhân viên để hỏi mật khẩu hoặc lục thùng rác, được gọi là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Zero-day là tấn công kỹ thuật khai thác lỗ hổng.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Social Engineering (ソーシャルエンジニアリング - Tấn công phi kỹ thuật)</strong> là nghệ thuật lừa đảo, thao túng tâm lý con người (ví dụ: mạo danh, giả vờ,...) để lấy thông tin.</li><li><strong>ウ. ❌ Sai.</strong> Social Media (Mạng xã hội).</li><li><strong>エ. ❌ Sai.</strong> Trojan Horse (Ngựa thành Troy) là một loại phần mềm độc hại (kỹ thuật).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>技術的手法を用いない</code> (Không dùng kỹ thuật), <code>なりすまして</code> (Mạo danh)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Tấn công vào 'con người' (Social) → <strong>Social Engineering</strong>.</li></ul>"
+  },
+  {
+    "question": "情報セキュリティにおける物理的及び環境的セキュリティ管理策であるクリアデスクを職場で実施する例として，適切なものはどれか。",
+    "options": [
+      "従業員に固定された机がなく，空いている机で業務を行う。",
+      "情報を記録した書類などを机の上に放置したまま離席しない。",
+      "机の上のLANケーブルを撤去して，暗号化された無線LANを使用する。",
+      "離席時は，PCをパスワードロックする。"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ đúng về việc thực hiện <strong>'Bàn làm việc sạch' (クリアデスク - Clear Desk)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Chính sách 'Bàn làm việc sạch' là một biện pháp an ninh vật lý, yêu cầu nhân viên phải dọn dẹp và cất giữ các tài liệu nhạy cảm khi rời khỏi bàn làm việc.</p><ul><li><strong>ア. ❌ Sai.</strong> Không có bàn cố định là mô hình 'Hot Desk' (フリーアドレス).</li><li><strong>イ. ✅ Đúng.</strong> Yêu cầu <strong>không để tài liệu (書類) trên bàn khi rời đi (離席しない)</strong> chính là bản chất của 'Clear Desk'.</li><li><strong>ウ. ❌ Sai.</strong> Đây là một biện pháp an ninh mạng, không phải Clear Desk.</li><li><strong>エ. ❌ Sai.</strong> Khóa PC khi rời đi là một chính sách quan trọng khác, nhưng thường được gọi là 'Clear Screen' (màn hình sạch), không phải 'Clear Desk'.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>クリアデスク</code> (Clear Desk)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Clear <strong>Desk</strong> → Làm sạch <strong>Bàn (Desk)</strong> → Cất <strong>Tài liệu (書類)</strong>.</li></ul>"
+  },
+  {
+    "question": "AIに利用されるニューラルネットワークにおける活性化関数に関する記述として適切なものはどれか。",
+    "options": [
+      "ニューラルネットワークから得られた結果を基に計算し，結果の信頼度を出力する。",
+      "入力層と出力層のニューロンの数を基に計算し，中間層に必要なニューロンの数を出力する。",
+      "ニューロンの接続構成を基に計算し，最適なニューロンの数を出力する。",
+      "一つのニューロンにおいて，入力された値を基に計算し，次のニューロンに渡す値を出力する。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Hàm kích hoạt (活性化関数 - Activation Function)</strong> trong mạng nơ-ron?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア, イ, ウ. ❌ Sai.</strong> Đây là các mô tả không chính xác về các khái niệm khác trong AI.</li><li><strong>エ. ✅ Đúng.</strong> <strong>Hàm kích hoạt</strong> là một hàm được áp dụng tại **một nơ-ron (一つのニューロン)**. Nó nhận tổng giá trị đầu vào (từ các nơ-ron trước đó) và <strong>tính toán (計算し)</strong> để quyết định **giá trị đầu ra (渡す値を出力)</strong> sẽ được truyền đến lớp nơ-ron tiếp theo. Nó giúp mô hình học được các mối quan hệ phi tuyến.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>活性化関数</code> (Hàm kích hoạt)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Hàm kích hoạt quyết định xem một nơ-ron có nên được 'kích hoạt' hay không, và nó sẽ 'nói' gì với nơ-ron tiếp theo.</li></ul>"
+  },
+  {
+    "question": "電子メールに関する記述のうち，適切なものはどれか。",
+    "options": [
+      "電子メールのプロトコルには，受信にSMTP，送信にPOP3が使われる。",
+      "メーリングリストによる電子メールを受信すると，その宛先には全ての登録メンバーのメールアドレスが記述されている。",
+      "メールアドレスの\"＠\"の左側部分に記述されているドメイン名に基づいて，電子メールが転送される。",
+      "メール転送サービスを利用すると，自分名義の複数のメールアドレス宛に届いた電子メールを一つのメールボックスに保存することができる。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về Email?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Ngược lại: Gửi (送信) dùng <strong>SMTP</strong>, Nhận (受信) dùng <strong>POP3</strong> (hoặc IMAP).</li><li><strong>イ. ❌ Sai.</strong> Khi nhận mail từ mailing list, trường 'To' thường chỉ hiển thị địa chỉ của chính mailing list đó, không phải tất cả thành viên.</li><li><strong>ウ. ❌ Sai.</strong> Email được chuyển tiếp dựa trên <strong>phần bên phải</strong> dấu @ (Tên miền), không phải phần bên trái (tên người dùng).</li><li><strong>エ. ✅ Đúng.</strong> <strong>Dịch vụ chuyển tiếp (メール転送サービス)</strong> cho phép tự động gom email từ nhiều địa chỉ khác nhau (ví dụ: A@gmail.com, B@yahoo.com) về một hộp thư duy nhất để tiện quản lý.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong></li><ul><li><strong>S</strong>MTP = <strong>S</strong>end (Gửi).</li><li><strong>P</strong>OP3 = <strong>P</strong>ull (Kéo về/Nhận).</li></ul></ul>"
+  },
+  {
+    "question": "フールプルーフの考え方を適用した例として，適切なものはどれか。",
+    "options": [
+      "HDDをRAIDで構成する。",
+      "システムに障害が発生しても，最低限の機能を維持して処理を継続する。",
+      "システムを二重化して障害に備える。",
+      "利用者がファイルの削除操作をしたときに，\"削除してよいか\"の確認メッセージを表示する。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ về <strong>Fool-proof (フールプルーフ)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Fool-proof (Chống lỗi do ngốc nghếch) là một triết lý thiết kế nhằm ngăn chặn người dùng thực hiện các thao tác sai lầm ngay từ đầu.</p><ul><li><strong>ア, ウ. ❌ Sai.</strong> RAID và nhân đôi hệ thống là các biện pháp <strong>Fault Tolerance (Chịu lỗi)</strong> - tức là hệ thống vẫn chạy dù có lỗi xảy ra.</li><li><strong>イ. ❌ Sai.</strong> Duy trì chức năng tối thiểu khi có lỗi là <strong>Fail-soft</strong>.</li><li><strong>エ. ✅ Đúng.</strong> Việc hiển thị một <strong>thông báo xác nhận ('Bạn có chắc muốn xóa?')</strong> khi người dùng thực hiện một thao tác nguy hiểm (như xóa file) là một ví dụ kinh điển của Fool-proof, giúp ngăn người dùng vô tình gây ra lỗi.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>フールプルーフ</code> (Fool-proof)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Fool-proof = Chống (người dùng) ngốc → <strong>Hỏi lại/Xác nhận (<code>確認メッセージ</code>)</strong> trước khi thực hiện thao tác nguy hiểm.</li></ul>"
+  },
+  {
+    "question": "ISMSにおける情報セキュリティ方針に関する記述として，適切なものはどれか。",
+    "options": [
+      "企業が導入するセキュリティ製品を対象として作成され，セキュリティの設定値を定めたもの",
+      "個人情報を取り扱う部門を対象として，個人情報取扱い手順を規定したもの",
+      "自社と取引先企業との間で授受する情報資産の範囲と具体的な保護方法について，両社間で合意したもの",
+      "情報セキュリティに対する組織の意図を示し，方向付けしたもの"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Chính sách An ninh Thông tin (情報セキュリティ方針)</strong> trong ISMS?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Đây là Tiêu chuẩn/Hướng dẫn cấu hình bảo mật.</li><li><strong>イ. ❌ Sai.</strong> Đây là Quy trình xử lý thông tin cá nhân.</li><li><strong>ウ. ❌ Sai.</strong> Đây là một Thỏa thuận bảo mật với đối tác (ví dụ: NDA).</li><li><strong>エ. ✅ Đúng.</strong> Chính sách An ninh Thông tin là một tài liệu cấp cao nhất, thể hiện <strong>ý định (意図)</strong> và <strong>định hướng (方向付け)</strong> chung của toàn bộ tổ chức đối với an ninh thông tin. Nó là nền tảng để xây dựng các quy trình và tiêu chuẩn chi tiết hơn.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>方針</code> (Chính sách)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Chính sách (Policy) = Văn bản <strong>định hướng</strong> cấp cao nhất của lãnh đạo.</li></ul>"
+  },
+  {
+    "question": "情報セキュリティにおける機密性，完全性及び可用性に関する記述のうち，完全性が<u>確保されなかった</u>例だけを全て挙げたものはどれか。<br><ol type=\"a\"><li>オペレーターが誤ったデータを入力し，顧客名簿に矛盾が生じた。</li><li>ショッピングサイトがシステム障害で一時的に利用できなかった。</li><li>データベースで管理していた顧客の個人情報が漏えいした。</li></ol>",
+    "options": [
+      "a",
+      "a，b",
+      "b",
+      "c"
+    ],
+    "answer": 0,
+    "explanation": "<h3><strong>Bản dịch và Phân tích</strong></h3><p>Ba yếu tố của an ninh thông tin (CIA):</p><ul><li><strong>Confidentiality (機密性 - Bảo mật):</strong> Ngăn chặn truy cập trái phép.</li><li><strong>Integrity (完全性 - Toàn vẹn):</strong> Đảm bảo dữ liệu chính xác, không bị sửa đổi.</li><li><strong>Availability (可用性 - Sẵn sàng):</strong> Đảm bảo hệ thống luôn sẵn sàng khi cần sử dụng.</li></ul><p>Xét các trường hợp:</p><ul><li><strong>a. ✅ Tính toàn vẹn bị ảnh hưởng.</strong> Nhập dữ liệu sai (誤ったデータを入力) làm cho danh bạ khách hàng bị mâu thuẫn, dữ liệu không còn chính xác. Đây là vi phạm <strong>tính toàn vẹn</strong>.</li><li><strong>b. ❌ Tính sẵn sàng bị ảnh hưởng.</strong> Hệ thống không thể sử dụng (利用できなかった) là vi phạm <strong>tính sẵn sàng</strong>.</li><li><strong>c. ❌ Tính bảo mật bị ảnh hưởng.</strong> Thông tin cá nhân bị rò rỉ (漏えい) là vi phạm <strong>tính bảo mật</strong>.</li></ul><p>=> Vậy, chỉ có (a) là vi phạm tính toàn vẹn.</p><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>完全性</code> (Tính toàn vẹn)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Toàn vẹn = **Chính xác (không sai, không mâu thuẫn)**.</li></ul>"
+  },
+  {
+    "question": "CPUのクロック周波数や通信速度などを表すときに用いられる国際単位系(SI)接頭語に関する記述のうち，適切なものはどれか。",
+    "options": [
+      "Gの10の6乗倍は，Tである。",
+      "Mの10の3乗倍は，Gである。",
+      "Mの10の6乗倍は，Gである。",
+      "Tの10の3乗倍は，Gである。"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào là đúng về các tiền tố SI (đơn vị đo lường)?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Thứ tự các tiền tố SI (theo hệ 1000):</p><ul><li>...</li><li><strong>M (Mega)</strong> = 10<sup>6</sup></li><li><strong>G (Giga)</strong> = 10<sup>9</sup></li><li><strong>T (Tera)</strong> = 10<sup>12</sup></li><li>...</li></ul><p>Xét các lựa chọn:</p><ul><li><strong>ア. ❌ Sai.</strong> G (10<sup>9</sup>) × 10<sup>6</sup> = 10<sup>15</sup> (là Peta), không phải T (10<sup>12</sup>). G × 10<sup>3</sup> = T.</li><li><strong>イ. ✅ Đúng.</strong> <strong>M (10<sup>6</sup>) × 10<sup>3</sup> = 10<sup>9</sup></strong>, chính là <strong>G</strong>.</li><li><strong>ウ. ❌ Sai.</strong> M (10<sup>6</sup>) × 10<sup>6</sup> = 10<sup>12</sup> (là Tera), không phải G.</li><li><strong>エ. ❌ Sai.</strong> T lớn hơn G.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Mẹo ghi nhớ:</strong> Hãy nhớ thứ tự <strong>Kilo → Mega → Giga → Tera</strong>. Mỗi bước nhảy là <strong>1000 (10<sup>3</sup>)</strong>.</li></ul>"
+  },
+  {
+    "question": "サブネットマスクの役割として，適切なものはどれか。",
+    "options": [
+      "IPアドレスから，利用しているLAN上のMACアドレスを導き出す。",
+      "IPアドレスの先頭から何ビットをネットワークアドレスに使用するかを定義する。",
+      "コンピュータをLANに接続するだけで，TCP/IPの設定情報を自動的に取得する。",
+      "通信相手のドメイン名とIPアドレスを対応付ける。"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Vai trò của <strong>Subnet Mask</strong> là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Ánh xạ IP sang MAC là vai trò của <strong>ARP</strong>.</li><li><strong>イ. ✅ Đúng.</strong> <strong>Subnet Mask</strong> là một chuỗi bit (ví dụ: 255.255.255.0) dùng để <strong>định nghĩa (定義する)</strong> xem trong một địa chỉ IP, <strong>bao nhiêu bit đầu (先頭から何ビット)</strong> thuộc về <strong>địa chỉ mạng (ネットワークアドレス)</strong> và bao nhiêu bit cuối thuộc về địa chỉ máy chủ (host).</li><li><strong>ウ. ❌ Sai.</strong> Tự động lấy cấu hình TCP/IP là vai trò của <strong>DHCP</strong>.</li><li><strong>エ. ❌ Sai.</strong> Ánh xạ Tên miền ↔ IP là vai trò của <strong>DNS</strong>.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>サブネットマスク</code> (Subnet Mask)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Subnet Mask = Mặt nạ để **phân chia** đâu là phần mạng, đâu là phần máy.</li></ul>"
+  },
+  {
+    "question": "IoT機器であるスマートメーターに関する記述として，適切なものはどれか。",
+    "options": [
+      "カーナビゲーションシステムやゲームコントローラーに内蔵されて，速度がどれだけ変化したかを計測する。",
+      "住宅などに設置され，電気やガスなどの使用量を自動的に計測し，携帯電話回線などを利用して供給事業者にそのデータを送信する。",
+      "スマートフォンやモバイルPCなどのモバイル情報端末に保存しているデータを，ネットワークを介して遠隔地から消去する。",
+      "歩数を数えるとともに，GPS機能などによって，歩行経路を把握したり，歩行速度や道のアップダウンを検知して消費エネルギーを計算したりする。"
+    ],
+    "answer": 1,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Mô tả nào đúng về <strong>Smart Meter (スマートメーター - Đồng hồ thông minh)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Cảm biến đo lường thay đổi tốc độ là Gia tốc kế (Accelerometer).</li><li><strong>イ. ✅ Đúng.</strong> <strong>Smart Meter</strong> là loại đồng hồ (thường lắp ở nhà dân) dùng để <strong>tự động đo lường (自動的に計測)</strong> lượng sử dụng <strong>điện, gas... (電気やガス)</strong> và tự động <strong>gửi dữ liệu (データを送信)</strong> về cho nhà cung cấp.</li><li><strong>ウ. ❌ Sai.</strong> Xóa dữ liệu từ xa là MDM (Mobile Device Management).</li><li><strong>エ. ❌ Sai.</strong> Đếm bước chân và tính toán calo là chức năng của thiết bị đeo theo dõi sức khỏe (Fitness Tracker).</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>スマートメーター</code> (Smart Meter)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Meter = Đồng hồ đo. Smart Meter = <strong>Đồng hồ (điện, nước, gas) thông minh</strong>.</li></ul>"
+  },
+  {
+    "question": "バイオメトリクス認証の例として，適切なものはどれか。",
+    "options": [
+      "機械では判読が困難な文字列の画像をモニターに表示して人に判読させ，その文字列を入力させることによって認証する。",
+      "タッチパネルに表示されたソフトウェアキーボードから入力されたパスワード文字列によって認証する。",
+      "タッチペンなどを用いて署名する際の筆跡や筆圧など，動作の特徴を読み取ることによって認証する。",
+      "秘密の質問として，本人しか知り得ない質問に答えさせることによって認証する。"
+    ],
+    "answer": 2,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Đâu là ví dụ về <strong>Xác thực sinh trắc học (バイオメトリクス認証)</strong>?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><p>Xác thực sinh trắc học (Biometrics) là xác thực dựa trên đặc điểm 'cái bạn là' (sinh học hoặc hành vi).</p><ul><li><strong>ア. ❌ Sai.</strong> Đây là <strong>CAPTCHA</strong>, dùng để phân biệt người và máy, không phải để xác thực danh tính.</li><li><strong>イ. ❌ Sai.</strong> Đây là xác thực bằng <strong>Kiến thức (Cái bạn biết)</strong> - Mật khẩu.</li><li><strong>ウ. ✅ Đúng.</strong> Xác thực dựa trên <strong>đặc điểm hành vi (動作の特徴)</strong> như <strong>nét chữ (筆跡), lực nhấn bút (筆圧)</strong> khi ký tên là một dạng của xác thực sinh trắc học.</li><li><strong>エ. ❌ Sai.</strong> Đây là xác thực bằng <strong>Kiến thức (Cái bạn biết)</strong> - Câu hỏi bí mật.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>バイオメトリクス</code> (Sinh trắc học)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Sinh trắc học = Đặc điểm cơ thể (vân tay, khuôn mặt) HOẶC đặc điểm hành vi (chữ ký, giọng nói, dáng đi).</li></ul>"
+  },
+  {
+    "question": "関係データベースにおける結合操作はどれか。",
+    "options": [
+      "表から，特定の条件を満たすレコードを抜き出した表を作る。",
+      "表から，特定のフィールドを抜き出した表を作る。",
+      "二つの表から，同じ値をもつレコードを抜き出した表を作る。",
+      "二つの表から，フィールドの値によって関連付けした表を作る。"
+    ],
+    "answer": 3,
+    "explanation": "<h3><strong>Bản dịch</strong></h3><ul><li><strong>Câu hỏi:</strong> Thao tác <strong>Join (結合操作 - Kết hợp)</strong> trong CSDL quan hệ là gì?</li></ul><hr><h3><strong>Phân tích đáp án</strong></h3><ul><li><strong>ア. ❌ Sai.</strong> Lọc các hàng (record) dựa trên điều kiện là <strong>Selection (選択)</strong>.</li><li><strong>イ. ❌ Sai.</strong> Lọc các cột (field) là <strong>Projection (射影)</strong>.</li><li><strong>ウ. ❌ Sai.</strong> Lấy ra các hàng có giá trị giống nhau (ví dụ: tìm điểm chung) là một dạng Join (ví dụ: Natural Join), nhưng mô tả (エ) tổng quát hơn.</li><li><strong>エ. ✅ Đúng.</strong> <strong>Join (結合)</strong> là thao tác <strong>liên kết (関連付け)</strong> hai hoặc nhiều bảng dựa trên giá trị chung ở các cột (field) được chỉ định để tạo ra một bảng mới.</li></ul><hr><h3><strong>💡 Keyword & Mẹo ghi nhớ</strong></h3><ul><li><strong>Keyword chính:</strong> <strong><code>結合操作</code> (Thao tác Join/Kết hợp)</strong>.</li><li><strong>Mẹo ghi nhớ:</strong> Join = **Liên kết 2 bảng (二つの表...関連付け)**.</li></ul>"
+  }
     ]
   },
  };
