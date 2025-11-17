@@ -1,29 +1,71 @@
 body { 
     font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; 
     margin: 10px 20px; 
-    background: #bbd7ec; 
+    background: #f0f8ff; /* THAY ĐỔI: Nền xanh dương rất nhạt (AliceBlue) */
+    color: #333; /* Chữ đen đậm dễ đọc */
 }
 
 h1 { 
     margin-bottom: 20px; 
     font-size: 24px; 
+    text-align: center; /* Căn giữa tiêu đề */
+    color: #004a99;
 }
 
+h2 {
+    margin-top: 10px; /* Giảm margin top */
+    margin-bottom: 15px;
+    font-size: 20px;
+    border-bottom: 2px solid #0056b3; /* Đổi màu viền cho hợp */
+    padding-bottom: 5px;
+}
+
+/* === GIAO DIỆN "THẺ" (CARD) MỚI === */
+#year-selection,
+#category-selection,
+.question-box {
+    background: #ffffff; /* Nền trắng */
+    padding: 25px;
+    border-radius: 8px; /* Bo góc */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* Bóng mờ nhẹ */
+    max-width: 900px; /* Giới hạn chiều rộng */
+    margin: 20px auto; /* Tự động căn giữa */
+}
+
+/* === NÚT BẤM === */
 .category-btn {
-    padding: 8px 16px;
-    margin: 3px;
+    padding: 10px 18px; /* Tăng kích thước nút */
+    margin: 4px;
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background: #007bff;
+    background: #0056b3; /* Xanh đậm chuyên nghiệp */
     color: white;
     font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.2s; /* Hiệu ứng hover */
 }
 
 .category-btn:hover { 
-    background: #0056b3; 
+    background: #003d82; /* Đậm hơn khi hover */
 }
 
+.back-btn {
+    margin-top: 15px;
+    padding: 8px 16px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    color: #343a40;
+    transition: background-color 0.2s;
+}
+
+.back-btn:hover {
+    background-color: #e2e6ea;
+}
+
+/* === KHU VỰC CÂU HỎI === */
 .question-box { 
     margin-top: 5px; 
     display: none; 
@@ -31,143 +73,173 @@ h1 {
 
 .question { 
     font-weight: bold; 
-    margin-bottom: 15px; 
+    font-size: 1.2em; /* Tăng cỡ chữ câu hỏi */
+    margin-bottom: 20px; /* Tăng khoảng cách */
+    line-height: 1.5; /* Giãn dòng */
 }
 
 .option {
     margin: 10px 0;
     cursor: pointer;
-    padding: 10px;
+    padding: 12px 15px; /* Tăng vùng đệm */
     border: 1px solid #ccc;
     border-radius: 5px;
     background: #fff;
+    transition: background-color 0.2s, border-color 0.2s;
+    line-height: 1.5;
 }
 
 .option:hover { 
-    background-color: #f0f0f0; 
+    background-color: #f8f9fa; 
+    border-color: #0056b3;
 }
 
 .correct { 
     background-color: #c8f7c5 !important; 
-    border-color: #b1dfbb; 
+    border-color: #b1dfbb !important; 
+    font-weight: bold;
 }
 
 .incorrect { 
     background-color: #f7c5c5 !important; 
-    border-color: #f5c6cb; 
+    border-color: #f5c6cb !important; 
 }
 
+/* === KHU VỰC GIẢI THÍCH === */
 .explanation { 
     margin-top: 20px; 
-    padding: 10px; 
-    background: #e9ecef; 
+    padding: 15px; 
+    background: #f8f9fa; /* Nền xám rất nhạt */
     border-radius: 5px;
-}
-
-.nav-buttons button { 
-    margin: 10px 5px 0 5px; 
-    padding: 8px 12px; 
-}
-
-button:focus { 
-    outline:none; 
-}
-.explanation:empty {
-    display: none;
-}
-h2 {
-    margin-top: 30px;
-    margin-bottom: 10px;
-    font-size: 20px;
-    border-bottom: 2px solid #007bff;
-    padding-bottom: 5px;
-}
-
-.back-btn {
-    margin-top: 15px;
-    padding: 8px 16px;
-    cursor: pointer;
-    border: 1px solid #6c757d;
-    border-radius: 5px;
-    background-color: #f8f9fa;
-    color: #343a40;
-}
-
-.back-btn:hover {
-    background-color: #e2e6ea;
+    border-top: 3px solid #0056b3; /* Viền trên màu xanh */
+    line-height: 1.6; /* Giãn dòng dễ đọc */
 }
 
 .explanation:empty {
     display: none;
 }
-/* TRONG FILE style.css */
 
+/* === KHU VỰC ĐIỀU HƯỚNG === */
 .top-nav-container {
     display: flex;
-    justify-content: space-between; /* Đẩy 2 nhóm nút ra 2 bên */
+    justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px; /* Tạo khoảng cách với câu hỏi bên dưới */
-    flex-wrap: wrap; /* Xuống dòng nếu màn hình quá hẹp */
-    gap: 15px; /* Khoảng cách giữa các nhóm nút */
+    margin-bottom: 25px; /* Tăng khoảng cách */
+    flex-wrap: wrap; 
+    gap: 15px; 
 }
 
 .question-nav-buttons {
     display: flex;
-    gap: 5px; /* Khoảng cách giữa các nút điều hướng câu hỏi */
+    gap: 5px; 
 }
 
-/* Ghi đè lại định dạng cũ để các nút trông đẹp hơn khi nằm trên cùng */
 .question-nav-buttons button {
     margin: 0;
     padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
 }
+
+/* Nút điều hướng câu hỏi */
+#prev-q-btn, #next-q-btn {
+    background-color: #0056b3;
+}
+#prev-q-btn:hover, #next-q-btn:hover {
+    background-color: #003d82;
+}
+
+/* Nút kết thúc */
+#finish-btn {
+    background-color: #c82333; /* Màu đỏ cho hành động "kết thúc" */
+}
+#finish-btn:hover {
+    background-color: #a21b29;
+}
+
+
+/* === THANH TIẾN TRÌNH (MỚI) === */
+#progress-container {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    height: 10px;
+    margin-bottom: 25px; /* Khoảng cách với câu hỏi */
+}
+
+#progress-bar {
+    height: 100%;
+    width: 0%; /* Bắt đầu bằng 0 */
+    background-color: #4CAF50; /* Màu xanh lá cây */
+    border-radius: 4px;
+    transition: width 0.3s ease-in-out; /* Hiệu ứng mượt */
+}
+
 /* === CSS CHO THIẾT BỊ DI ĐỘNG === */
 @media (max-width: 600px) {
 
     body {
-        font-size: 16px; /* Tăng cỡ chữ cơ bản */
-        margin: 10px;    /* Giảm lề hai bên */
-        -webkit-text-size-adjust: 100%; /* Ngăn iOS tự động thay đổi cỡ chữ */
+        font-size: 16px; 
+        margin: 10px;    
+        -webkit-text-size-adjust: 100%; 
+    }
+    
+    /* Áp dụng lề/padding nhỏ hơn cho thẻ trên di động */
+    #year-selection,
+    #category-selection,
+    .question-box {
+        padding: 15px;
+        margin: 10px auto;
     }
 
     h1 {
-        font-size: 22px; /* Điều chỉnh cỡ chữ tiêu đề */
+        font-size: 22px; 
     }
 
     h2 {
         font-size: 18px;
     }
 
-    /* Nút bấm dễ dàng hơn */
     .category-btn,
     .back-btn,
     .question-nav-buttons button {
-        padding: 12px 18px; /* Tăng vùng đệm xung quanh nút */
-        font-size: 1em;     /* Cỡ chữ tương đối theo body */
-        margin: 5px 2px;    /* Tăng khoảng cách giữa các nút */
+        padding: 12px 18px; 
+        font-size: 1em;     
+        margin: 5px 2px;    
+        width: 100%; /* Nút bấm chiếm toàn bộ chiều rộng */
+        box-sizing: border-box; /* Đảm bảo padding không làm vỡ layout */
+    }
+    
+    .back-btn {
+      width: auto; /* Nút quay lại không cần full-width */
     }
 
-    /* Các lựa chọn câu trả lời dễ bấm hơn */
     .option {
-        padding: 15px 12px; /* Tăng vùng đệm */
+        padding: 15px 12px; 
         font-size: 1em;
-        line-height: 1.4; /* Tăng khoảng cách dòng nếu nội dung dài */
+        line-height: 1.4; 
     }
 
-    .option strong { /* Làm chữ cái đầu to rõ hơn */
+    .option strong { 
       font-size: 1.1em;
       margin-right: 8px;
     }
 
-    /* Điều chỉnh khu vực điều hướng trên cùng */
     .top-nav-container {
-        flex-direction: column; /* Xếp chồng các nhóm nút lên nhau */
-        align-items: flex-start; /* Căn các nút về bên trái */
+        flex-direction: column; 
+        align-items: stretch; /* Các nhóm nút full-width */
+    }
+    
+    .question-nav-buttons {
+      width: 100%;
+      flex-direction: column; /* Nút điều hướng xếp chồng lên nhau */
     }
 
-    /* Hình ảnh trong giải thích không bị tràn */
     .explanation img {
-      max-width: 100%; /* Giới hạn chiều rộng ảnh */
-      height: auto;    /* Giữ tỷ lệ ảnh */
+      max-width: 100%; 
+      height: auto;    
     }
 }
