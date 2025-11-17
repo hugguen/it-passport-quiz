@@ -2369,7 +2369,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> GUI</li>' +
                        '<li><strong>ウ.</strong> VR</li>' +
                        '<li><strong>エ.</strong> Metaverse</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. AR (Augmented Reality):</strong> ✅ <strong>Đúng.</strong> Là "Thực tế tăng cường". Đây là công nghệ <strong>chồng (<code>重ねる</code>)</strong> lớp thông tin kỹ thuật số (hình ảnh, văn bản) lên <strong>thế giới thực (<code>現実</code>)</strong> mà người dùng nhìn thấy qua camera.</li>' +
                        '<li><strong>イ. GUI (Graphical User Interface):</strong> ❌ Sai. Là giao diện người dùng đồ họa (các icon, cửa sổ trên máy tính).</li>' +
                        '<li><strong>ウ. VR (Virtual Reality):</strong> ❌ Sai. Là "Thực tế ảo". Công nghệ này <strong>thay thế hoàn toàn (100%)</strong> thế giới thực bằng một môi trường ảo, thường yêu cầu đeo kính chuyên dụng (goggles) che kín mắt.</li>' +
@@ -2431,7 +2431,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Shareware</li>' +
                        '<li><strong>ウ.</strong> Sharing Economy</li>' +
                        '<li><strong>エ.</strong> Work Sharing</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. シェアードサービス (Shared Services):</strong> ❌ Sai. Là một mô hình tổ chức doanh nghiệp, trong đó các bộ phận hỗ trợ (kế toán, nhân sự, CNTT) của một tập đoàn được tập trung vào một trung tâm để phục vụ chung cho các công ty con.</li>' +
                        '<li><strong>イ. シェアウェア (Shareware):</strong> ❌ Sai. Là một hình thức phân phối phần mềm, cho phép người dùng dùng thử miễn phí trong một thời gian hoặc với tính năng giới hạn.</li>' +
                        '<li><strong>ウ. シェアリングエコノミー (Sharing Economy):</strong> ✅ <strong>Đúng.</strong> Là "Kinh tế chia sẻ". Đây là mô hình kinh doanh dựa trên việc <strong>chia sẻ (Share)</strong> các <strong>tài sản nhàn rỗi (<code>遊休資産</code>)</strong>. Ví dụ kinh điển: Airbnb (chia sẻ nhà), Grab/Uber (chia sẻ xe).</li>' +
@@ -2450,7 +2450,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Adware (Phần mềm quảng cáo)</li>' +
                        '<li><strong>ウ.</strong> Subscription (Đăng ký dài hạn)</li>' +
                        '<li><strong>エ.</strong> Volume License (Giấy phép số lượng lớn)</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. アクティベーション (Activation):</strong> ❌ Sai. Là quá trình kích hoạt bản quyền phần mềm sau khi cài đặt (ví dụ: nhập key).</li>' +
                        '<li><strong>イ. アドウェア (Adware):</strong> ❌ Sai. Là phần mềm miễn phí nhưng có kèm quảng cáo (Ad = Advertisement).</li>' +
                        '<li><strong>ウ. サブスクリプション (Subscription):</strong> ✅ <strong>Đúng.</strong> Là mô hình "Đăng ký dài hạn" (giống như đặt báo/tạp chí), người dùng trả phí định kỳ (<code>定額</code>) theo <strong>thời gian (<code>期間</code>)</strong> (ví dụ: hàng tháng/năm) để được quyền sử dụng dịch vụ. Ví dụ: Netflix, Microsoft 365, Spotify.</li>' +
@@ -2499,7 +2499,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> RPA</li>' +
                        '<li><strong>ウ.</strong> Open API (API Mở)</li>' +
                        '<li><strong>エ.</strong> MOT (Quản trị công nghệ)</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. BPO (Business Process Outsourcing):</strong> ❌ Sai. Là thuê ngoài quy trình nghiệp vụ (ví dụ: thuê công ty khác làm dịch vụ call center).</li>' +
                        '<li><strong>イ. RPA (Robotic Process Automation):</strong> ❌ Sai. Là dùng robot phần mềm để tự động hóa công việc văn phòng lặp lại.</li>' +
                        '<li><strong>ウ. オープンAPI (Open API):</strong> ✅ <strong>Đúng.</strong> <strong>API (Application Programming Interface)</strong> là "cổng giao tiếp" kỹ thuật của một hệ thống. <strong>Open API</strong> là việc "mở" (<code>オープン</code> = <code>公開</code>) các cổng giao tiếp này cho bên thứ ba (<code>外部</code>) sử dụng. Ví dụ: Các ngân hàng mở API để các app ví điện tử (như MoMo) có thể kết nối và thực hiện chuyển tiền.</li>' +
@@ -2555,7 +2555,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> <strong>Tạo báo cáo (<code>伝票を作成</code>)</strong> thanh toán chi phí đi lại từ dữ liệu có sẵn (thông tin tuyến đường, hóa đơn).</li>' +
                        '<li><strong>ウ.</strong> Sử dụng <strong>robot công nghiệp (<code>産業用ロボット</code>)</strong> trong nhà máy để sản xuất thực phẩm đông lạnh.</li>' +
                        '<li><strong>エ.</strong> Tìm ra <strong>quy luật mới (<code>新たな法則</code>)</strong> từ dữ liệu mua hàng khổng lồ của khách hàng.</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<p><strong>RPA (Robotic Process Automation)</strong> là công cụ dùng <strong>robot phần mềm</strong> để tự động hóa các công việc <strong>có tính lặp đi lặp lại, dựa trên quy tắc rõ ràng</strong> (<code>定型的な</code>) và được thực hiện <strong>trên máy tính</strong>.</p>' +
                        '<ul><li><strong>ア. ❌ Sai.</strong> Tự động cải tiến chương trình đòi hỏi sự sáng tạo và trí tuệ, đây là lĩnh vực của AI, không phải RPA.</li>' +
                        '<li><strong>イ. ✅ Đúng.</strong> Việc tạo báo cáo chi phí đi lại (copy dữ liệu từ file A, paste vào file B, tính tổng) là một công việc <strong>văn phòng lặp đi lặp lại</strong>, có quy tắc rõ ràng, rất phù hợp cho RPA.</li>' +
@@ -2575,7 +2575,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> CIM</li>' +
                        '<li><strong>ウ.</strong> JIT</li>' +
                        '<li><strong>エ.</strong> OEM</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. BPO (Business Process Outsourcing):</strong> ❌ Sai. Là "Thuê ngoài quy trình nghiệp vụ" (ví dụ: thuê ngoài mảng kế toán, call center).</li>' +
                        '<li><strong>イ. CIM (Computer Integrated Manufacturing):</strong> ❌ Sai. Là "Sản xuất tích hợp bằng máy tính", một khái niệm rộng về việc dùng máy tính để tự động hóa toàn bộ nhà máy.</li>' +
                        '<li><strong>ウ. JIT (Just-In-Time):</strong> ✅ <strong>Đúng.</strong> Đây là một triết lý sản xuất (nổi tiếng của Toyota), với mục tiêu loại bỏ lãng phí bằng cách sản xuất và cung ứng "<strong>Đúng lúc (Just In Time)</strong>", "<strong>Đúng số lượng (<code>必要な量</code>)</strong>", từ đó giảm thiểu tồn kho (<code>在庫</code>) xuống gần như bằng 0.</li>' +
@@ -2594,7 +2594,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Quy hoạch tuyến tính (<code>線形計画法</code>)</li>' +
                        '<li><strong>ウ.</strong> Phương pháp Delphi (<code>デルファイ法</code>)</li>' +
                        '<li><strong>エ.</strong> Phân tích Pareto (<code>パレート分析</code>)</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. 回帰分析 (Regression Analysis):</strong> ✅ <strong>Đúng.</strong> <strong>Phân tích hồi quy</strong> là một phương pháp thống kê dùng để tìm ra phương trình (<code>式</code>) mô tả mối quan hệ giữa các biến số (ví dụ: nhiệt độ và doanh số) và dùng nó để <strong>dự đoán (<code>推定</code>)</strong>.</li>' +
                        '<li><strong>イ. 線形計画法 (Linear Programming):</strong> ❌ Sai. Dùng để tìm giá trị <strong>tối ưu (lớn nhất/nhỏ nhất)</strong> (ví dụ: tối đa hóa lợi nhuận) dưới các điều kiện ràng buộc.</li>' +
                        '<li><strong>ウ. デルファイ法 (Delphi Method):</strong> ❌ Sai. Dùng để thu thập và tổng hợp <strong>ý kiến chuyên gia</strong> qua nhiều vòng lặp lại để đạt được sự đồng thuận.</li>' +
@@ -2613,7 +2613,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Key Mapping</li>' +
                        '<li><strong>ウ.</strong> Tích hợp dọc (<code>垂直統合</code>)</li>' +
                        '<li><strong>エ.</strong> Nayose (<code>名寄せ</code>)</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. アカウントアグリゲーション (Account Aggregation):</strong> ❌ Sai. Đây là một dịch vụ (thường là app) cho phép *người dùng* xem thông tin từ *nhiều ngân hàng* khác nhau trên một ứng dụng duy nhất (ví dụ: Money Forward). Đây là góc nhìn của người dùng.</li>' +
                        '<li><strong>イ. キーマッピング (Key Mapping):</strong> ❌ Sai. Là việc gán chức năng cho các phím trên bàn phím.</li>' +
                        '<li><strong>ウ. 垂直統合 (Vertical Integration):</strong> ❌ Sai. Là một chiến lược kinh doanh (ví dụ: một công ty thâu tóm cả nhà cung cấp và nhà phân phối của mình).</li>' +
@@ -2632,7 +2632,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Các bên liên quan (phát triển, cung cấp, sử dụng) sẽ chia sẻ <strong>trách nhiệm (<code>責任</code>)</strong> về kết quả của AI.</li>' +
                        '<li><strong>ウ.</strong> Nhà cung cấp dịch vụ phải <strong>giải thích (<code>説明</code>)</strong> cho người dùng về việc sử dụng AI, cách thu thập/sử dụng dữ liệu.</li>' +
                        '<li><strong>エ.</strong> Tiến hành <strong>giáo dục (<code>教育</code>)</strong> về AI và literacy từ cấp mầm non, tiểu học để không tạo ra người yếu thế về thông tin.</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ✅ Đúng.</strong> "Đổi mới" (<strong><code>イノベーション</code></strong>) luôn được thúc đẩy bởi sự <strong>hợp tác (<code>連携</code>)</strong>, đa dạng hóa (<code>多様化</code>), và luân chuyển nhân tài. Đây là mô tả về việc tạo môi trường thuận lợi cho đổi mới.</li>' +
                        '<li><strong>イ. ❌ Sai.</strong> Phân chia <strong>trách nhiệm (<code>責任</code>)</strong> là thuộc "Nguyên tắc Trách nhiệm giải trình" (<code>説明責任の原則</code>) hoặc "Nguyên tắc Lấy con người làm trung tâm".</li>' +
                        '<li><strong>ウ. ❌ Sai.</strong> <strong>Giải thích (<code>説明</code>)</strong> cho người dùng là thuộc "Nguyên tắc Minh bạch" (<code>透明性の原則</code>).</li>' +
@@ -2651,7 +2651,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Triển khai ISO 9001</li>' +
                        '<li><strong>ウ.</strong> Triển khai ITIL</li>' +
                        '<li><strong>エ.</strong> Lấy chứng nhận Privacy Mark</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ISMS (ISO 27001):</strong> ❌ Sai. Là tiêu chuẩn về Hệ thống quản lý <strong>An ninh thông tin (<code>情報セキュリティ</code>)</strong>.</li>' +
                        '<li><strong>イ. ISO 9001:</strong> ✅ <strong>Đúng.</strong> <strong>ISO 9001</strong> là tiêu chuẩn quốc tế về <strong>Hệ thống quản lý Chất lượng (<code>品質</code> - Quality Management System)</strong>.</li>' +
                        '<li><strong>ウ. ITIL (IT Infrastructure Library):</strong> ❌ Sai. Là một bộ các thực hành tốt nhất (best practices) cho việc quản lý <strong>Dịch vụ CNTT (<code>ITサービス</code>)</strong>.</li>' +
@@ -2698,7 +2698,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Phương pháp <strong>quan sát (<code>観察</code>)</strong>, cùng hoạt động với một nhóm người để suy ra văn hóa, thói quen...</li>' +
                        '<li><strong>ウ.</strong> Phương pháp thống kê ước tính quan hệ nhân quả (<code>因果関係</code>) từ dữ liệu đầu vào/đầu ra.</li>' +
                        '<li><strong>エ.</strong> Phương pháp <strong>lặp lại khảo sát (<code>繰り返し...アンケート</code>)</strong> với một nhóm <strong>chuyên gia (<code>有識者</code>)</strong> để đạt được sự đồng thuận về dự đoán tương lai.</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ✅ Đúng.</strong> <strong>Ước tính Fermi</strong> (đặt theo tên nhà vật lý Enrico Fermi) chính là nghệ thuật đưa ra một <strong>con số ước tính (<code>概数</code>)</strong> hợp lý (ví dụ: "Có bao nhiêu người lên dây đàn piano ở Chicago?") bằng cách chia nhỏ bài toán và sử dụng các thông tin đã biết cùng với <strong>suy luận logic (<code>論理的な思考</code>)</strong>, thay vì đi khảo sát.</li>' +
                        '<li><strong>イ. ❌ Sai.</strong> Đây là mô tả về phương pháp nghiên cứu dân tộc học (Fieldwork/Ethnography).</li>' +
                        '<li><strong>ウ. ❌ Sai.</strong> Đây là mô tả về Phân tích hồi quy (<code>回帰分析</code>).</li>' +
@@ -2755,7 +2755,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Để <strong>trực quan hóa (<code>可視化</code>)</strong> quy trình nghiệp vụ, tạo cơ sở thông tin cho việc thiết kế hệ thống và giúp các bên liên quan <strong>hiểu chung (<code>解釈を共有</code>)</strong>.</li>' +
                        '<li><strong>ウ.</strong> Chia sẻ kiến thức, kinh nghiệm,ノウハウ trong nội bộ công ty để tạo ra ý tưởng sáng tạo.</li>' +
                        '<li><strong>エ.</strong> Điều phối nhân sự, xây dựng đội nhóm để đạt được mục tiêu dự án.</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ❌ Sai.</strong> Phân tích dữ liệu (Data Analysis) để tìm ra các mẫu (pattern) ẩn là mục đích của <strong>Khai phá dữ liệu (<code>データマイニング</code> - Data Mining)</strong>.</li>' +
                        '<li><strong>イ. ✅ Đúng.</strong> Mục đích chính của việc <strong>mô hình hóa (<code>モデリング</code>)</strong> (ví dụ: vẽ sơ đồ BPD) là để <strong>trực quan hóa (<code>可視化</code>)</strong> quy trình nghiệp vụ hiện tại (As-Is), giúp tất cả các bên liên quan (lập trình viên, người dùng, quản lý) có một <strong>cách hiểu chung (<code>解釈を共有</code>)</strong>. Từ đó làm nền tảng cho việc thiết kế quy trình mới (To-Be).</li>' +
                        '<li><strong>ウ. ❌ Sai.</strong> Chia sẻ kiến thức, kinh nghiệm (ノウハウ) trong nội bộ là mục đích của <strong>Quản lý tri thức (<code>ナレッジマネジメント</code> - Knowledge Management)</strong>.</li>' +
@@ -2774,7 +2774,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> CFO (Giám đốc tài chính)</li>' +
                        '<li><strong>ウ.</strong> COO (Giám đốc vận hành)</li>' +
                        '<li><strong>エ.</strong> CTO (Giám đốc công nghệ)</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. CEO (Chief Executive Officer):</strong> ❌ Sai. Giám đốc điều hành - chịu trách nhiệm cao nhất về toàn bộ công ty.</li>' +
                        '<li><strong>イ. CFO (Chief Financial Officer):</strong> ❌ Sai. Giám đốc tài chính - chịu trách nhiệm về <strong>tài chính (<code>財務</code>)</strong>.</li>' +
                        '<li><strong>ウ. COO (Chief Operating Officer):</strong> ❌ Sai. Giám đốc vận hành - chịu trách nhiệm về <strong>hoạt động (<code>事業</code>)</strong> hàng ngày.</li>' +
@@ -2793,7 +2793,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Là công ty <strong>đầu tư (<code>出資</code>)</strong> vào các công ty khởi nghiệp (<code>ベンチャー</code> - venture) với mục tiêu thu lợi nhuận từ việc <strong>bán cổ phiếu (<code>株式売却</code>)</strong> sau này.</li>' +
                        '<li><strong>ウ.</strong> Phương pháp hợp tác (<code>共創</code>) với các tổ chức bên ngoài (nhà nước, viện nghiên cứu...) để đổi mới.</li>' +
                        '<li><strong>エ.</strong> Tổ chức tạm thời (<code>一定の期間</code>) trong nội bộ công ty để giải quyết vấn đề, sau đó giải tán.</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ❌ Sai.</strong> Thành lập công ty góp vốn chung là mô hình <strong>Liên doanh (<code>ジョイントベンチャー</code> - Joint Venture)</strong>.</li>' +
                        '<li><strong>イ. ✅ Đúng.</strong> <strong>Venture Capital (VC)</strong> là các công ty chuyên <strong>đầu tư (<code>出資</code>)</strong> vào các công ty khởi nghiệp (startup / <code>ベンチャー</code>) khi họ còn non trẻ (mạo hiểm), với mục tiêu thu lợi nhuận lớn từ việc bán cổ phiếu (<code>株式売却</code>) sau này khi công ty đó thành công (ví dụ: IPO).</li>' +
                        '<li><strong>ウ. ❌ Sai.</strong> Hợp tác với các tổ chức bên ngoài để đổi mới là mô hình <strong>Đổi mới mở (<code>オープンイノベーション</code> - Open Innovation)</strong>.</li>' +
@@ -2812,7 +2812,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Fintech</li>' +
                        '<li><strong>ウ.</strong> Blockchain</li>' +
                        '<li><strong>エ.</strong> One-to-one Marketing</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. オムニチャネル (Omnichannel):</strong> ❌ Sai. Là chiến lược marketing/bán hàng đa kênh (online, offline) một cách liền mạch.</li>' +
                        '<li><strong>イ. フィンテック (Fintech):</strong> ✅ <strong>Đúng.</strong> <strong>Fintech</strong> là từ ghép của <strong>Fin</strong>ance (Tài chính - <code>金融</code>) và <strong>Tech</strong>nology (Công nghệ - <code>技術</code>). Nó mô tả chính xác xu hướng các công ty công nghệ hoặc các ngân hàng ứng dụng công nghệ mới (internet, mobile, AI) để tạo ra các dịch vụ tài chính đột phá (ví dụ: thanh toán di động, ví điện tử, cho vay ngang hàng P2P).</li>' +
                        '<li><strong>ウ. ブロックチェーン (Blockchain):</strong> ❌ Sai. Là một công nghệ <strong>cụ thể</strong> (sổ cái phân tán), *có thể* được dùng trong Fintech, nhưng không phải là thuật ngữ chỉ toàn bộ xu hướng.</li>' +
@@ -2831,7 +2831,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> PoV (Kiểm chứng giá trị)</li>' +
                        '<li><strong>ウ.</strong> Backcasting</li>' +
                        '<li><strong>エ.</strong> Forecasting</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. PoC (Proof of Concept):</strong> ❌ Sai. Là kiểm chứng khái niệm (liệu ý tưởng có khả thi về kỹ thuật không?).</li>' +
                        '<li><strong>イ. PoV (Proof of Value):</strong> ❌ Sai. Là kiểm chứng giá trị (liệu ý tưởng có mang lại giá trị kinh doanh không?).</li>' +
                        '<li><strong>ウ. バックキャスティング (Backcasting):</strong> ✅ <strong>Đúng.</strong> Đây là phương pháp tư duy chiến lược: <strong>"Back" (<code>バック</code> - ngược)</strong> + "Cast" (chiếu/nhìn). Tức là "nhìn ngược" từ một mục tiêu lý tưởng ở <strong>tương lai (<code>未来</code>)</strong> về <strong>hiện tại (<code>現在</code>)</strong> để xem cần làm gì.</li>' +
@@ -2852,7 +2852,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Luật cơ bản về An ninh mạng (<code>サイバーセキュリティ基本法</code>)</li>' +
                        '<li><strong>ウ.</strong> Luật cấm truy cập trái phép (<code>不正アクセス禁止法</code>)</li>' +
                        '<li><strong>エ.</strong> Luật giới hạn trách nhiệm nhà cung cấp (<code>プロバイダ責任制限法</code>)</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ❌ Sai.</strong> Luật này bảo vệ những người tố cáo (whistleblowers) các hành vi sai trái trong nội bộ công ty.</li>' +
                        '<li><strong>イ. ✅ Đúng.</strong> <strong>Luật cơ bản về An ninh mạng (<code>サイバーセキュリティ基本法</code>)</strong> là bộ luật khung, mang tính chiến lược, đặt ra các <strong>nguyên tắc cơ bản (<code>基本理念</code>)</strong> và vai trò, trách nhiệm của <strong>quốc gia (<code>国</code>)</strong>, chính quyền địa phương, và doanh nghiệp trong việc đảm bảo an ninh mạng trên <strong>toàn quốc (<code>国全体</code>)</strong>.</li>' +
                        '<li><strong>ウ. ❌ Sai.</strong> <strong>Luật cấm truy cập trái phép (<code>不正アクセス禁止法</code>)</strong> là luật *hình sự* xử phạt *hành vi* truy cập trái phép cụ thể. Nó không phải là luật "cơ bản" mang tính chiến lược quốc gia.</li>' +
@@ -2871,7 +2871,7 @@ const questionsByYear = {
                        '<li><strong>イ.</strong> Thu thập, lưu trữ, phân tích thông tin theo từng đơn vị sản phẩm đã bán.</li>' +
                        '<li><strong>ウ.</strong> Robot phần mềm (<code>ソフトウェアのロボット</code>) tự động hóa các nghiệp vụ lặp lại (<code>定型業務</code>) mà con người làm thủ công.</li>' +
                        '<li><strong>エ.</strong> Hiệu quả hóa các hoạt động marketing/bán hàng như tìm kiếm, thu hút và <strong>nuôi dưỡng (<code>育成</code>)</strong> <strong>khách hàng tiềm năng (<code>見込み顧客</code>)</strong>.</li></ul>' +
-                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                       '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                        '<ul><li><strong>ア. ❌ Sai.</strong> Phân tích dữ liệu lớn là lĩnh vực của <strong>BI (Business Intelligence)</strong> hoặc <strong>Khai phá dữ liệu (<code>データマイニング</code>)</strong>.</li>' +
                        '<li><strong>イ. ❌ Sai.</strong> Thu thập dữ liệu bán hàng tại điểm bán là chức năng của hệ thống <strong>POS (Point of Sales - <code>販売時点情報管理</code>)</strong>.</li>' +
                        '<li><strong>ウ. ❌ Sai.</strong> Robot phần mềm tự động hóa công việc văn phòng lặp lại (<code>定型業務</code>) là <strong>RPA (Robotic Process Automation)</strong>.</li>' +
@@ -2898,7 +2898,7 @@ const questionsByYear = {
                          '<li><strong>イ.</strong> Quản lý và tận dụng tổng thể cơ sở vật chất và môi trường nơi cài đặt hệ thống.</li>' +
                          '<li><strong>ウ.</strong> <strong>Đánh giá (<code>評価</code>)</strong> xem các <strong>rủi ro (<code>リスク</code>)</strong> liên quan đến hệ thống thông tin có được xử lý phù hợp hay không, qua đó góp phần giúp tổ chức <strong>đạt được mục tiêu (<code>目標達成</code>)</strong>.</li>' +
                          '<li><strong>エ.</strong> Áp dụng kiến thức, kỹ năng, công cụ... để đáp ứng yêu cầu của dự án.</li></ul>' +
-                         '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                         '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                          '<ul><li><strong>ア. ❌ Sai.</strong> Đây là mục đích của <strong>Phân tích yêu cầu (<code>要件定義</code>)</strong>.</li>' +
                          '<li><strong>イ. ❌ Sai.</strong> Đây là mục đích của <strong>Quản lý cơ sở vật chất (<code>ファシリティマネジメント</code>)</strong>.</li>' +
                          '<li><strong>ウ. ✅ Đúng.</strong> Đây là định nghĩa chuẩn của Kiểm toán (Audit). Kiểm toán viên là một bên độc lập, có vai trò <strong>đánh giá (<code>評価</code>)</strong> tính hiệu quả, an toàn, tin cậy... của hệ thống (tức là <strong>đánh giá rủi ro (<code>リスク</code>)</strong>) để hỗ trợ tổ chức <strong>đạt được mục tiêu (<code>目標達成</code>)</strong>.</li>' +
@@ -2917,7 +2917,7 @@ const questionsByYear = {
                          '<li><strong>イ.</strong> ITIL</li>' +
                          '<li><strong>ウ.</strong> Kiểm soát nội bộ (<code>内部統制</code>)</li>' +
                          '<li><strong>エ.</strong> Quản lý rủi ro (<code>リスク管理</code>)</li></ul>' +
-                         '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn (Học 1 được 4)</strong></h3>' +
+                         '<hr><h3><strong>Phân tích TẤT CẢ lựa chọn</strong></h3>' +
                          '<ul><li><strong>ア. CMMI:</strong> ❌ Sai. Là mô hình đánh giá mức độ trưởng thành của quy trình (ví dụ: phát triển phần mềm).</li>' +
                          '<li><strong>イ. ITIL:</strong> ❌ Sai. Là bộ khung (framework) cho quản lý dịch vụ CNTT.</li>' +
                          '<li><strong>ウ. 内部統制 (Internal Control):</strong> ✅ <strong>Đúng.</strong> Danh sách 6 thành phần được liệt kê trong câu hỏi chính là 6 yếu tố cấu thành cơ bản của <strong>Kiểm soát nội bộ (<code>内部統制</code>)</strong> theo định nghĩa của J-SOX (Luật Sarbanes-Oxley của Nhật).</li>' +
@@ -6754,25 +6754,70 @@ let answeredMap = {};
 let totalAnswered = 0;
 let totalCorrect = 0;
 
+// --- (HÀM MỚI) Cập nhật breadcrumb ---
+function updateBreadcrumbs() {
+  const nav = document.getElementById("breadcrumb-nav");
+  
+  if (!selectedYear) {
+    // Đang ở trang chọn năm (trang chủ)
+    nav.innerHTML = ""; // Xóa nội dung
+    nav.classList.remove("visible"); // Ẩn (dùng visibility)
+    return;
+  }
+  
+  // Từ đây trở đi, nav sẽ hiển thị
+  nav.classList.add("visible"); 
+  let html = '<a onclick="showYearSelection()">試験年度</a>';
+  
+  if (selectedYear && !currentCategory) {
+    // Đang ở trang chọn Chủ đề
+    html += ` <span class="separator">&gt;</span> <span class="current">${selectedYear}年度 - 分野</span>`;
+  } else if (selectedYear && currentCategory) {
+    // Đang ở trang làm bài
+    html += ` <span class="separator">&gt;</span> <a onclick="showCategorySelection()">${selectedYear}年度 - 分野</a>`;
+    
+    let categoryName = "";
+    if (currentCategory === 'strategy') categoryName = "ストラテジ系";
+    if (currentCategory === 'management') categoryName = "マネジメント系";
+    if (currentCategory === 'technology') categoryName = "テクノロジ系";
+    html += ` <span class="separator">&gt;</span> <span class="current">${categoryName}</span>`;
+  }
+  nav.innerHTML = html;
+}
+
 // --- CÁC HÀM XỬ LÝ GIAO DIỆN ---
 
 function showYearSelection() {
   document.getElementById("year-selection").style.display = "block";
   document.getElementById("category-selection").style.display = "none";
   document.getElementById("question-box").style.display = "none";
+  
+  // Thêm các dòng reset và cập nhật
+  selectedYear = null;
+  currentCategory = null;
+  updateBreadcrumbs(); // Sẽ ẩn breadcrumb
 }
 
 function selectYear(year) {
   selectedYear = year;
+  currentCategory = null; // Reset chủ đề khi chọn năm mới
   document.getElementById("year-selection").style.display = "none";
   document.getElementById("category-selection").style.display = "block";
+  document.getElementById("question-box").style.display = "none"; // Đảm bảo box câu hỏi đã ẩn
   document.getElementById("category-header").innerText = `${year}年度 - 分野を選択`;
+  
+  // Thêm dòng cập nhật
+  updateBreadcrumbs(); // Sẽ hiển thị "試験年度 > [Năm]"
 }
 
 // Hàm mới được thêm vào
 function showCategorySelection() {
   document.getElementById("question-box").style.display = "none";
   document.getElementById("category-selection").style.display = "block";
+
+  // Thêm các dòng reset và cập nhật
+  currentCategory = null;
+  updateBreadcrumbs(); // Sẽ hiển thị "試験年度 > [Năm]"
 }
 
 // --- CÁC HÀM XỬ LÝ TRẮC NGHIỆM ---
@@ -6798,6 +6843,9 @@ function selectCategory(category) {
   answeredMap = {};
   totalAnswered = 0;
   totalCorrect = 0;
+  
+  // Thêm dòng cập nhật (ngay trước loadQuestion)
+  updateBreadcrumbs(); // Sẽ hiển thị "試験年度 > [Năm] > [Chủ đề]"
   
   loadQuestion();
 }

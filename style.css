@@ -6,7 +6,6 @@ body {
 }
 
 h1 { 
-    margin-bottom: 20px; 
     font-size: 24px; 
     text-align: center; /* Căn giữa tiêu đề */
     color: #004a99;
@@ -29,7 +28,7 @@ h2 {
     border-radius: 8px; /* Bo góc */
     box-shadow: 0 4px 12px rgba(0,0,0,0.05); /* Bóng mờ nhẹ */
     max-width: 900px; /* Giới hạn chiều rộng */
-    margin: 20px auto; /* Tự động căn giữa */
+    margin: 5px auto; /* Tự động căn giữa */
 }
 
 /* === NÚT BẤM === */
@@ -50,19 +49,47 @@ h2 {
     background: #003d82; /* Đậm hơn khi hover */
 }
 
-.back-btn {
-    margin-top: 15px;
-    padding: 8px 16px;
-    cursor: pointer;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f8f9fa;
-    color: #343a40;
-    transition: background-color 0.2s;
+/* === BREADCRUMB (SỬA LẠI) === */
+#breadcrumb-nav {
+    /* Ẩn bằng visibility thay vì display để giữ layout ổn định */
+    visibility: hidden; 
+    min-height: 1.5em;  /* Đặt chiều cao tối thiểu để giữ chỗ */
+    
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #555;
+    max-width: 900px;
+    margin: 0 auto 10px auto; /* Căn giữa và thêm margin-bottom */
+    padding: 0 15px; 
+    box-sizing: border-box;
+    transition: visibility 0.1s; /* Thêm hiệu ứng mượt */
 }
 
-.back-btn:hover {
-    background-color: #e2e6ea;
+/* Thêm class 'visible' để JavaScript bật/tắt */
+#breadcrumb-nav.visible {
+    visibility: visible;
+}
+
+#breadcrumb-nav a {
+    color: #0056b3;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#breadcrumb-nav a:hover {
+    text-decoration: underline;
+}
+
+/* Ký tự ">" ngăn cách */
+#breadcrumb-nav span.separator {
+    margin: 0 8px;
+    color: #555;
+    font-weight: normal;
+}
+
+/* Văn bản không phải link (mục hiện tại) */
+#breadcrumb-nav span.current {
+    color: #333;
 }
 
 /* === KHU VỰC CÂU HỎI === */
@@ -212,11 +239,6 @@ h2 {
         width: 100%; /* Nút bấm chiếm toàn bộ chiều rộng */
         box-sizing: border-box; /* Đảm bảo padding không làm vỡ layout */
     }
-    
-    .back-btn {
-      width: auto; /* Nút quay lại không cần full-width */
-    }
-
     .option {
         padding: 15px 12px; 
         font-size: 1em;
@@ -242,5 +264,4 @@ h2 {
       max-width: 100%; 
       height: auto;    
     }
-
 }

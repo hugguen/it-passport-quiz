@@ -11,6 +11,8 @@
 
   <h1>ITパスポート過去問トレーニング</h1>
   
+  <div id="breadcrumb-nav"></div>
+
   <div id="year-selection">
     <h2>試験年度を選択してください</h2>
     <button class="category-btn" onclick="selectYear('2025')">2025年度</button>
@@ -23,9 +25,7 @@
     <button class="category-btn" onclick="selectCategory('strategy')">ストラテジ系</button>
     <button class="category-btn" onclick="selectCategory('management')">マネジメント系</button>
     <button class="category-btn" onclick="selectCategory('technology')">テクノロジ系</button>
-    <br>
-    <button class="back-btn" onclick="showYearSelection()">＜ 年度の選択に戻る</button>
-  </div>
+    </div>
 
   <div class="question-box" id="question-box">
     
@@ -35,8 +35,7 @@
             <button id="next-q-btn" onclick="nextQuestion()">次の問題＞</button>
             <button id="finish-btn" onclick="finishQuiz()">終了・結果確認</button>
         </div>
-        <button class="back-btn" onclick="showCategorySelection()">＜ 分野の選択に戻る</button>
-    </div>
+        </div>
 
     <div id="progress-container">
         <div id="progress-bar"></div>
